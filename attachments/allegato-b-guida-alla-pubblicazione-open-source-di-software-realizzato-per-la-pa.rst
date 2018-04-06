@@ -437,7 +437,7 @@ La registrazione avviene seguendo due passaggi:
 
 2) **Aggiunta dello strumento di code-hosting al motore di ricerca.** Al
    fine di accertarsi che Developers Italia rilevi automaticamente il
-   file, è necessario accertarsi che lo strumento di code-hosting
+   file, è necessario verificare che lo strumento di code-hosting
    prescelto sia già noto all’indicizzatore automatico di Developers
    Italia. A tale scopo è possibile consultare la lista presente in
    Developers Italia. In caso negativo (ad esempio: un’istanza
