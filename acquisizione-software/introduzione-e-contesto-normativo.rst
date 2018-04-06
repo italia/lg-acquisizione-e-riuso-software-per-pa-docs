@@ -45,12 +45,12 @@ Italia (https://developers.italia.it), individuata da queste linee
 guida.
 
 .. note::
-   Al momento della messa in consultazione delle seguenti Linee Guida, la piattaforma Developers Italia non comprende ancora la nuova sezione necessaria ad implementare quanto richiesto dalle linee guida. Si prevede infatti di costruire un motore di ricerca che aiuti l’utente a trovare il software di cui ha bisogno, e che esponga in modo chiaro le caratteristiche utili ad effettuare una selezione, ai sensi `dell\'art. 68 del CAD <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__.
+   Al momento della messa in consultazione delle seguenti Linee Guida, la piattaforma Developers Italia non comprende ancora la nuova sezione necessaria ad implementare quanto richiesto dalle linee guida. Si prevede infatti di costruire un motore di ricerca che aiuti l’utente a trovare il software di cui ha bisogno, e che esponga in modo chiaro le caratteristiche utili ad effettuare una selezione, ai sensi dell’art. 68 del CAD [2]_.
 
 Il presente documento ribadisce che i “principi di economicità e di
 efficienza, tutela degli investimenti, riuso e neutralità tecnologica”
 (comma 1 dell’art. 68 del CAD [2]_) si raggiungono attuando quanto
-previsto dal comma 2 dell\’`art. 69 del CAD <http://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=69&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=14&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art>`__: “il riuso dei programmi
+previsto dal comma 2 dell’art. 69 del CAD [3]_: “il riuso dei programmi
 informatici di proprietà delle pubbliche amministrazioni” garantendo
 che queste ultime, oltre ad essere titolari del software, rendano il
 software Open Source attraverso l’apposizione di una licenza aperta.
@@ -59,7 +59,10 @@ software Open Source attraverso l’apposizione di una licenza aperta.
   http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50!vig=
 
 .. [2]
-  http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=
+  http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=~art68
+
+.. [3]
+  http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=~art69
 
 .. discourse::
    :topic_identifier: 2859
