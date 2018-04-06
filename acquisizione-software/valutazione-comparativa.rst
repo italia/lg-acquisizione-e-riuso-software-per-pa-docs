@@ -168,3 +168,6 @@ descrivendo le attività da realizzare in termini di criteri e
 metodologie da adottare.
 
 .. |image1-macro-fasi| image:: ../media/image1-macro-fasi.png
+
+.. discourse::
+   :topic_identifier: 2859

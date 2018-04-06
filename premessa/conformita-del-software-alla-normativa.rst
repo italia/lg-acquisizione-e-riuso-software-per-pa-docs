@@ -14,3 +14,6 @@ richiamare l’attenzione delle singole Amministrazioni sull’importanza
 che il software posto in riuso - come d’altra parte l’intero parco
 software in uso a ogni amministrazione - sia conforme alla disciplina
 vigente.
+
+.. discourse::
+   :topic_identifier: 2858

@@ -1,5 +1,5 @@
-Linee Guida Open Source
-=======================
+Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
+================================================================================
 
 Le presenti linee guida attuano quanto stabilito dagli articoli 68 e 69
 del *Codice dell’Amministrazione Digitale* (di seguito CAD):

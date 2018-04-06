@@ -18,3 +18,6 @@ amministrazioni. In particolare:
    software delle amministrazioni rilasciato in modalità Open Source ai
    fini del riuso, perché diventi facilmente individuabile da parte di
    altre amministrazioni.
+
+.. discourse::
+   :topic_identifier: 2860

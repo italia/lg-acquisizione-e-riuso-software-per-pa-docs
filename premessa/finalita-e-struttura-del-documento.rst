@@ -36,3 +36,6 @@ L’amministrazione è il soggetto che meglio conosce le proprie esigenze
 ed è in grado di declinare la metodologia qui proposta, in coerenza sia
 con il proprio contesto, sia con le caratteristiche dell’acquisizione da
 effettuare.
+
+.. discourse::
+   :topic_identifier: 2858

@@ -206,3 +206,6 @@ Nel secondo caso invece:
 -  Opere rilasciate sotto licenza copyleft possono interagire come
    componenti a sé stanti solo con altri componenti rilasciati con
    licenza copyleft compatibile.
+
+.. discourse::
+   :topic_identifier: 2864

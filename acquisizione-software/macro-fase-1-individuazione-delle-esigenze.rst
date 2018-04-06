@@ -77,3 +77,5 @@ La presente fase si conclude con la:
 
 .. |image2-macro-fase-1| image:: ../media/image2-macro-fase-1.png
 
+.. discourse::
+   :topic_identifier: 2859

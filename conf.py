@@ -9,6 +9,7 @@ settings_doc_version = 'Bozza in consultazione'
 settings_doc_release = 'Bozza in consultazione'
 settings_basename = 'lg-acquisizione-e-riuso-software-per-la-pa'
 settings_file_name = 'lg-acquisizione-e-riuso-software-per-la-pa'
+settings_discourse_url = 'https://forum.italia.it/'
 
 # -- No need to change below here
 
@@ -48,7 +49,8 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'docs-italia-theme'
+    'docs-italia-theme',
+    'sphinxcontrib.discourse'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -73,7 +75,7 @@ project = settings_project_name
 copyright = settings_copyright_copyleft
 
 # URL of Discourse instance used by sphinxcontrib.discourse extension
-# discourse_url = settings_discourse_url
+discourse_url = settings_discourse_url
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

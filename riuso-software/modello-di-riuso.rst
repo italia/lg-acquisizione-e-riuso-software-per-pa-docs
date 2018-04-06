@@ -69,3 +69,6 @@ supporto e manutenzione. Per tutti questi interventi, l’amministrazione
 **può usare proprie risorse o forniture**, poiché nessun vincolo da
 questo punto di vista è imposto all’amministrazione che ha realizzato il
 software e lo ha messo a riuso.
+
+.. discourse::
+   :topic_identifier: 2860

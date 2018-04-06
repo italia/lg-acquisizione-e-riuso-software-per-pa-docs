@@ -1,1 +1,2 @@
 git+https://github.com/italia/docs-italia-theme.git
+git+https://github.com/pdavide/sphinxcontrib-discourse

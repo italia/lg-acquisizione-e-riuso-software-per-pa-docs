@@ -121,3 +121,6 @@ all’art 69 del CAD; se dunque una Amministrazione adotta un software
 open source di terzi, è tenuta a metterlo a riuso, pubblicandola essa
 stessa perché sia chiaro ad altre Amministrazioni la provenienza di tale
 software.
+
+.. discourse::
+   :topic_identifier: 2865

@@ -89,3 +89,6 @@ TCO
     i costi che intervengono durante l'intera vita di esercizio della
     risorsa stessa. Lo schema consigliato per il calcolo del TCO è in
     `Istruzioni per il calcolo del TCO <../attachments/allegato-a-istruzioni-per-il-calcolo-del-tco.html>`_.
+
+.. discourse::
+   :topic_identifier: 2858

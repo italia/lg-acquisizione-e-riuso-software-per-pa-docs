@@ -39,3 +39,6 @@ Vista la rapida evoluzione del software e la chiara finalità del riuso,
 si considera escluso dall’obbligo di rilascio il software che non sia
 più in uso da parte dell’amministrazione da più di 5 anni dall’entrata
 in vigore delle presenti linee guida.
+
+.. discourse::
+   :topic_identifier: 2860

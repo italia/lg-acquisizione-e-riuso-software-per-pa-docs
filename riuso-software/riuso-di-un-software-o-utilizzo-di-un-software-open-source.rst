@@ -61,3 +61,6 @@ In caso di appalto, si richiede che l’amministrazione **alleghi la Guida
 tra i documenti tecnici di gara**, per esempio come allegato al
 capitolato tecnico, in modo che i fornitori abbiano evidenza immediata
 del processo richiesto.
+
+.. discourse::
+   :topic_identifier: 2860

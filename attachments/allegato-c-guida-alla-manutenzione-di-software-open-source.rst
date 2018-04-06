@@ -152,3 +152,6 @@ fattibilità dell’integrazione (MUST). Il maintainer è tenuto ad
 incorporare tutti i contributi di codice (SHOULD) che non presentano
 incompatibilità con gli obiettivi della fornitura, fornendo al
 contributore adeguata spiegazione in caso di diniego.
+
+.. discourse::
+   :topic_identifier: 2863

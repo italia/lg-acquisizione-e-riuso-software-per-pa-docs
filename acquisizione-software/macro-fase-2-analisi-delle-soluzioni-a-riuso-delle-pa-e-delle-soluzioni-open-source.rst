@@ -228,3 +228,6 @@ La pubblica amministrazione prosegue la valutazione comparativa dando
 seguito alle Fasi previste nella successiva Macro fase 3.
 
 .. |image3-macro-fase-2| image:: ../media/image3-macro-fase-2.png
+
+.. discourse::
+   :topic_identifier: 2859

@@ -155,3 +155,6 @@ comporti oneri aggiuntivi per le amministrazioni in fase di riuso.
    https://www.opensource.org/
 .. [3]
    https://spdx.org
+
+.. discourse::
+   :topic_identifier: 2860

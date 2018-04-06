@@ -29,3 +29,6 @@ tenuto conto delle esigenze derivanti dalla natura delle proprie
 particolari funzioni, stabiliscono le modalità, i limiti e i tempi di
 applicazione delle disposizioni del CAD alla Presidenza del Consiglio
 dei Ministri e all'amministrazione economico-finanziaria.
+
+.. discourse::
+   :topic_identifier: 2858

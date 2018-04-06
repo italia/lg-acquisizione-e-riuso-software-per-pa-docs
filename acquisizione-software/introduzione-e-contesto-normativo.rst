@@ -60,3 +60,6 @@ software Open Source attraverso l’apposizione di una licenza aperta.
 
 .. [2]
   http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=
+
+.. discourse::
+   :topic_identifier: 2859

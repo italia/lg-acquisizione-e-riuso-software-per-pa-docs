@@ -16,3 +16,6 @@ oggetto di queste linee guida è il seguente:
 -  Framework
 -  Plugin
 -  Componenti e applicazioni semilavorate
+
+.. discourse::
+   :topic_identifier: 2858

@@ -114,3 +114,6 @@ specifico legato al rilascio: non è infatti necessario fornire alcuna
 garanzia sul software, supporto tecnico o a livello utente, né tantomeno
 supportare economicamente le amministrazioni che riusano il software nei
 costi o nelle procedure di adozione.
+
+.. discourse::
+   :topic_identifier: 2860

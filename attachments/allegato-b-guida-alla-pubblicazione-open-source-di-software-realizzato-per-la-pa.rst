@@ -449,3 +449,6 @@ La registrazione avviene seguendo due passaggi:
    Italia <https://github.com/italia/developers.italia.it/issues/new>`__,
    indicando l’indirizzo della piattaforma di cui si richiede l’aggiunta
    all’indicizzazione.
+
+.. discourse::
+   :topic_identifier: 2862

@@ -14,3 +14,6 @@ Alcune istruzioni sintetiche per un possibile calcolo di TCO sono
 presenti in `Istruzioni per il calcolo del
 TCO <../attachments/allegato-a-istruzioni-per-il-calcolo-del-tco.html>`__,
 nell'Allegato A.
+
+.. discourse::
+   :topic_identifier: 2859
