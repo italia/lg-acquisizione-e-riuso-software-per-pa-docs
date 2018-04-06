@@ -19,3 +19,6 @@ Inoltre sostituiscono la precedente circolare 63/2013, intitolata
 “*Linee guida per la valutazione comparativa prevista dall’art. 68 del
 D.Lgs. 7 marzo 2005, n. 82 Codice dell’Amministrazione digitale*” e
 relativi allegati.
+
+Link al documento Docs Italia: https://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io
+Link ai commenti per la consultazione Forum Italia: https://forum.italia.it/c/documenti-in-consultazione/lg-acquisizione-e-riuso-di-software-per-la-pa
