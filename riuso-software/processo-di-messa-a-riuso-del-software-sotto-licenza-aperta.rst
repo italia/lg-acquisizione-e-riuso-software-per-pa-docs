@@ -88,7 +88,7 @@ fornitore che, di volta in volta, sarà incaricato di effettuare lo
 sviluppo del software e/o il rilascio dello stesso, per conto
 dell’amministrazione.
 
-Una volta eletta uno strumento per il code hosting, l’amministrazione
+Una volta eletto uno strumento per il code hosting, l’amministrazione
 deve dare adeguata visibilità a questa nella propria pagina
 istituzionale, come dettagliato nelle Linee Guida di design per i
 servizi web della Pubblica Amministrazione.
@@ -98,8 +98,8 @@ Registrazione del software aperto su Developers Italia
 
 Il software rilasciato dalla amministrazione deve essere “registrato”
 all’interno del motore di ricerca di Developers Italia, per agevolare la
-per agevolare la consultazione alle altre amministrazioni che cercano un
-software in riuso.
+consultazione alle altre amministrazioni che cercano un software in
+riuso.
 
 Il processo tecnico preciso per effettuare la registrazione è indicato
 anch’esso nella sezione della `Guida alla pubblicazione di software Open
