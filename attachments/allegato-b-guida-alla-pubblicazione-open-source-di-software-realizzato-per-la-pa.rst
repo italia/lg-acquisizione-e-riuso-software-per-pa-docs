@@ -350,16 +350,6 @@ delle attività di sviluppo, anche prima della prima messa in produzione,
 diminuendo la probabilità che due amministrazioni sviluppino in modo
 indipendente software analoghi.
 
-Qualora non si opti per un modello di sviluppo aperto, il All’inizio
-della fornitura il Fornitore concorda con l’Amministrazione il piano di
-rilascio in open source del software durante lo sviluppo. Le Linee Guida
-suggeriscono di adottare un modello di sviluppo aperto, che preveda il
-rilascio contestuale allo sviluppo sin dall’inizio. Questo modello
-consente anche ad altre amministrazioni di venire a conoscenza delle
-attività di sviluppo, anche prima della prima messa in produzione,
-diminuendo la probabilità che due amministrazioni sviluppino in modo
-indipendente software analoghi.
-
 Qualora non si opti per un modello di sviluppo aperto, il rilascio in
 open source deve essere effettuato (MUST) entro 15 giorni dal momento
 dell'acquisizione del software da parte dell'Amministrazione committente
