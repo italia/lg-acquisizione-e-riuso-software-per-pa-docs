@@ -26,4 +26,4 @@ Link al documento Docs Italia: https://lg-acquisizione-e-riuso-software-per-la-p
 
 Link per commenti Forum Italia: https://forum.italia.it/c/documenti-in-consultazione/lg-acquisizione-e-riuso-di-software-per-la-pa
 
-La consultazione sarà attiva fino al 5 maggio 2018.
+La consultazione sarà attiva fino al 6 maggio 2018.
