@@ -4,7 +4,7 @@ Istruzioni per la consultazione pubblica
 Informazioni sulla consultazione
 --------------------------------
 
--  **Durata della consultazione:** dal 5 marzo 2018 al 5 maggio 2018
+-  **Durata della consultazione:** dal 5 aprile 2018 al 6 maggio 2018
 
 -  **Settore:** ICT
 
@@ -73,10 +73,3 @@ Link correlati
 
 -  `https://forum.italia.it/c/documenti-in-consultazione/lg-acquisizione-e-riuso-di-software-per-la-pa <https://forum.italia.it/c/documenti-in-consultazione/lg-acquisizione-e-riuso-di-software-per-la-pa>`__
 
-Contatti
---------
-
--  **AgID**: `protocollo@pec.agid.gov.it <mailto:protocollo@pec.agid.gov.it>`_
-
--  **Team per la Trasformazione Digitale**:
-   `info@teamdigitale.governo.it <mailto:info@teamdigitale.governo.it>`__
