@@ -3,7 +3,7 @@ Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
 
 .. admonition:: Consultazione pubblica
 
-   La consultazione pubblica per questo documento è attiva dal 5 aprile al 6 maggio 2018.
+   La consultazione pubblica per questo documento è attiva dal 5 aprile al 5 maggio 2018.
 
 
 Le presenti linee guida attuano quanto stabilito dagli articoli 68 e 69
