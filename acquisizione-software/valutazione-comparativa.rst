@@ -25,9 +25,8 @@ dalla normativa:
 
 A - Software sviluppato per conto della pubblica amministrazione
     Soluzione detta anche “opzione *make*\ ”: la PA affida lo sviluppo
-    del software (sia esso ex-novo o modifica di software esistente)
-    (sia esso ex-novo o modifica di software esistente) a un fornitore e
-    quest’ultimo si impegna a consegnare alla P.A. il software
+    del software (sia esso ex-novo o modifica di software esistente) 
+    a un fornitore e quest’ultimo si impegna a consegnare alla P.A. il software
     sviluppato sulla base dei requisiti da questa definiti. Per esempio,
     nel ciclo di vita del software (analisi, progettazione, sviluppo,
     collaudo, rilascio, manutenzione) la P.A. potrebbe occuparsi delle
