@@ -38,7 +38,7 @@ B - Riutilizzo di software o parti di esso sviluppati per conto della pubblica a
     esistente e disponibile.
 
 C - Software libero o a codice sorgente aperto
-    Software con licenza Open Source (v. *Glossario*). In particolare,
+    Software con licenza Open Source. In particolare,
     si intende tutto il software distribuito sotto una licenza
     certificata da OSI (*lista completa*), come descritto in *3.5.2.
     Licenze per il software aperto*.
@@ -87,7 +87,7 @@ Costo complessivo
     of Ownership* (TCO) della soluzione, calcolato su una finestra
     temporale adeguata al contesto della valutazione, comprensivo del
     costo di migrazione verso altra soluzione (vedere anche paragrafo
-    2.4)
+    2.4).
 
 Utilizzo di formati di dati aperti
     Uso, da parte della soluzione da valutare, di formati standard e
