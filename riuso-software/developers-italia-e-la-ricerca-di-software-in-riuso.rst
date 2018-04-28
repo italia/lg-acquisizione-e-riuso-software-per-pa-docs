@@ -13,7 +13,7 @@ amministrazioni. In particolare:
    rilasciato su Internet da altre amministrazioni, utilizzando
    strumenti di consultazione messi a disposizione dalla piattaforma
    (es: filtri per tipologia di software, tipologia di amministrazione
-   di riferimento).
+   di riferimento);
 -  È disponibile una modalità per “registrare” in Developers Italia il
    software delle amministrazioni rilasciato in modalità Open Source ai
    fini del riuso, perché diventi facilmente individuabile da parte di
