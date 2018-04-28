@@ -56,7 +56,7 @@ si provvede a:
       linee guida emanate in attuazione dell’articolo 73 del CAD;
    -  la conformità alle normative sulla protezione dei dati personali;
    -  la conformità ai livelli di minimi sicurezza previsti per le
-      pubbliche amministrazioni
+      pubbliche amministrazioni.
 
 -  calcolare il valore della soluzione attraverso i seguenti parametri
    (alcuni dei quali possono essere rinvenuti anche tramite la
@@ -64,7 +64,7 @@ si provvede a:
 
    -  percentuale di copertura dei requisiti desiderati, funzionali e
       non funzionali, considerando la differenziazione tra
-      indispensabili e non
+      indispensabili e non;
    -  presenza di un manutentore del software in questione;
    -  eventuale presenza di accordi con terzi stipulati
       dall’amministrazione titolare e utilizzabili dall’amministrazione
@@ -105,7 +105,7 @@ si provvede a:
       propri sistemi;
    -  eventuali costi di personalizzazione, necessari ad assicurare la
       copertura di tutti i requisiti funzionali e non funzionali,
-      indispensabili e non indispensabili;
+      indispensabili e non indispensabili.
 
 -  stimare i tempi per la messa in produzione della soluzione (di
    seguito S\ :sub:`tempi`);
@@ -122,10 +122,10 @@ soddisfi le condizioni minime per quanto riguarda altri vincoli
 specifici:
 
 -  Il costo (TCO) rientri nei vincoli di bilancio stabiliti
-   (S\ :sub:`TCO`\ < T\ :sub:`bilancio`)
+   (S\ :sub:`TCO`\ < T\ :sub:`bilancio`);
 -  I tempi di messa in produzione siano compatibili con i tempi stimati
-   (S\ :sub:`tempi`\ < T\ :sub:`tempi`)
--  Rispetti gli altri altri vincoli ostativi
+   (S\ :sub:`tempi`\ < T\ :sub:`tempi`);
+-  Rispetti gli altri altri vincoli ostativi.
 
 Se i vincoli sono soddisfatti, l’amministrazione individua la soluzione
 più rispondente alle proprie esigenze in base alla valutazione
