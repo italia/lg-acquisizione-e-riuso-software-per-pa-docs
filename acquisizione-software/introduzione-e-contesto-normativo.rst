@@ -35,7 +35,7 @@ software da parte delle pubbliche amministrazioni svolgevano un ruolo:
    particolare rilevanza il MePA gestito da CONSIP);
 
 -  le convenzioni quadro e gli accordi quadro stipulati, ai sensi della
-   normativa vigente, da CONSIP e dai soggetti aggregatori.
+   normativa vigente, da CONSIP e dai soggetti aggregatori;
 
 -  il Catalogo nazionale programmi riutilizzabili gestito dall’AgID.
 
