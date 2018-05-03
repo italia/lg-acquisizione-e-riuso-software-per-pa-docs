@@ -96,10 +96,10 @@ licenza aperta:
 -  Se si tratta di un **software nuovo**, tranne per le eccezioni
    specificate sotto, utilizzare la licenza EUPL v1.2 (codice SPDX:
    ``EUPL-1.2``): https://spdx.org/licenses/EUPL-1.2.html. Questa
-   licenza, scritta dalla Commissione Europea, è stata scelta in quanto
+   licenza, scritta dalla Commissione europea, è stata scelta in quanto
    di tipo “copyleft”, garantisce massima interoperabilità a livello
-   europeo, ed è anche tradotta in Italiano. Sono previste solo alcune
-   eccezioni a questa indicazione generale
+   europeo, ed è anche tradotta in italiano. Sono previste solo alcune
+   eccezioni a questa indicazione generale:
 
    -  se il **software viene utilizzato principalmente via rete (es:
       tramite un browser)**, utilizzare la licenza “GNU Affero General

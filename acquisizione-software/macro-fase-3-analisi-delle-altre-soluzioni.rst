@@ -21,10 +21,10 @@ L’amministrazione DEVE verificare che il software in licenza rispetti i
 seguenti vincoli (ossia, la mancanza anche di uno solo di questi rende
 la soluzione non eleggibile):
 
--  conformità alle regole sull’interoperabilità prescritte dalla linee
+-  conformità alle regole sull’interoperabilità prescritte dalle linee
    guida emanate in attuazione dell’articolo 73 del CAD;
 -  conformità alle normative sulla protezione dei dati personali;
--  conformità ai livelli di minimi sicurezza previsti per le pubbliche
+-  conformità ai livelli minimi di sicurezza previsti per le pubbliche
    amministrazioni;
 -  possibilità di esportare l’intera base di dati (inclusi di ogni tipo
    di indice o metadato utilizzato per implementare le funzionalità del
@@ -101,7 +101,7 @@ soluzioni, tenendo come riferimento il seguente elenco:
 -  licenze ricorsive (sottoscrizioni mensili, annuali) o aggiornamenti
    di versione a pagamento;
 -  rigidità del flusso operativo o meglio non adattabile
-   all'organizzazione operativa della Pubblica Amministrazione
+   all'organizzazione operativa della Pubblica Amministrazione;
 -  possibilità di lock-in, cioè costi eccessivi di cambio di soluzione
    in futuro;
 -  stabilità economica del fornitore.
@@ -112,14 +112,13 @@ soluzioni, tenendo come riferimento il seguente elenco:
 -  maggiore necessità di coordinamento;
 -  tempi di messa in produzione maggiori.
 
-Fase 3.4: Approvvigionamento soluzioni proprietarie o realizzazione ex novo
+Fase 3.4: Approvvigionamento soluzione proprietaria o realizzazione ex novo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A seguito della precedente fase 3.3 l’amministrazione ha determinato una
 soluzione, con licenza proprietaria o da realizzarsi ex-novo, che
 soddisfa le sue esigenze e provvede all'approvvigionamento della stessa
-secondo le secondo le procedure previste dal Codice dei contratti
-pubblici.
+secondo le procedure previste dal Codice dei contratti pubblici.
 
 Nel caso in cui si opti per la realizzazione ex novo, considerando i
 commi 1 e 2 dell’Articolo 69 che disciplinano la messa a riuso del

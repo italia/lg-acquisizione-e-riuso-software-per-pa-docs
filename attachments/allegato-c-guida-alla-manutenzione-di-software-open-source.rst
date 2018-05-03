@@ -81,7 +81,7 @@ un cortese riscontro con delle prime considerazioni.
 Le segnalazioni di bug ricevute da utenti esterni attraverso l’issue
 tracker dovranno essere analizzate al pari di quelle ricevute
 dall’Amministrazione committente. Se la risoluzione fosse compatibile
-(in quanto a tempi e costi) con le attività prevista dal contratto,
+(in quanto a tempi e costi) con le attività previste dal contratto,
 potrà essere eseguita senza necessità di ulteriore approvazione. Se
 invece la risoluzione non fosse compatibile (in quanto a tempi e costi)
 con le attività di manutenzione prevista dal contratto, la issue dovrà

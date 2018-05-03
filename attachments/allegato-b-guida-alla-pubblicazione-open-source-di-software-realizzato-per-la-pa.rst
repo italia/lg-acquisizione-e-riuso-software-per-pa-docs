@@ -396,7 +396,7 @@ formati, gestione della memoria eccetera).
 
 Tutto il codice "morto", ovvero non utilizzato, deve essere rimosso
 (MUST) poiché potrebbe portare a confusione od essere considerato
-mantenuto ed erroneamente reintegrato senza i necessari controlli. .
+mantenuto ed erroneamente reintegrato senza i necessari controlli.
 
 Se il software è un’applicazione web esposta su rete pubblica, o
 contiene applicazioni web, dovrebbe (SHOULD) essere accessibile per ogni
