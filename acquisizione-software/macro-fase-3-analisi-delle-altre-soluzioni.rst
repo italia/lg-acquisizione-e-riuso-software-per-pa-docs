@@ -83,7 +83,7 @@ soluzioni, tenendo come riferimento il seguente elenco:
 -  rapida messa in esercizio;
 -  garanzia totale e rischio applicativo a carico del fornitore;
 -  manutenzione del fornitore;
--  costi di acquisto o sottoscrizione più bassi rispetto ad uno sviluppo
+-  costi di acquisto o abbonamento più bassi rispetto ad uno sviluppo
    completo;
 
 **Vantaggio sviluppo soluzione ex-novo**:
@@ -98,7 +98,7 @@ soluzioni, tenendo come riferimento il seguente elenco:
 
 **Svantaggi di una soluzione proprietaria:**
 
--  licenze ricorsive (sottoscrizioni mensili, annuali) o aggiornamenti
+-  licenze periodiche (abbonamenti mensili, annuali) o aggiornamenti
    di versione a pagamento;
 -  rigidità del flusso operativo o meglio non adattabile
    all'organizzazione operativa della Pubblica Amministrazione
