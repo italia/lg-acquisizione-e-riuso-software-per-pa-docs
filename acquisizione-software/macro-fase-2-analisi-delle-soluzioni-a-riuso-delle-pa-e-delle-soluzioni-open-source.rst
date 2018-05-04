@@ -52,10 +52,10 @@ si provvede a:
 
 -  verificare:
 
-   -  la conformità alle regole sull’interoperabilità prescritte dalla
+   -  la conformità alle regole sull’interoperabilità prescritte dalle
       linee guida emanate in attuazione dell’articolo 73 del CAD;
    -  la conformità alle normative sulla protezione dei dati personali;
-   -  la conformità ai livelli di minimi sicurezza previsti per le
+   -  la conformità ai livelli minimi di sicurezza previsti per le
       pubbliche amministrazioni
 
 -  calcolare il valore della soluzione attraverso i seguenti parametri
@@ -64,7 +64,7 @@ si provvede a:
 
    -  percentuale di copertura dei requisiti desiderati, funzionali e
       non funzionali, considerando la differenziazione tra
-      indispensabili e non
+      indispensabili e non;
    -  presenza di un manutentore del software in questione;
    -  eventuale presenza di accordi con terzi stipulati
       dall’amministrazione titolare e utilizzabili dall’amministrazione
@@ -114,18 +114,18 @@ si provvede a:
 
 Per dare seguito alla valutazione di quanto indicato nei precedenti
 punti la pubblica amministrazione dovrà provvedere, ove non già in suo
-possesso, a recuperare tutti le necessarie informazioni nelle modalità
+possesso, a recuperare tutte le necessarie informazioni nelle modalità
 previste dalla norma.
 
-Tra quelle soluzioni che rientri nei i vincoli di bilancio, tempo, e
-soddisfi le condizioni minime per quanto riguarda altri vincoli
+Tra quelle soluzioni che rientrino nei vincoli di bilancio, tempo, e
+soddisfino le condizioni minime per quanto riguarda altri vincoli
 specifici:
 
 -  Il costo (TCO) rientri nei vincoli di bilancio stabiliti
    (S\ :sub:`TCO`\ < T\ :sub:`bilancio`)
 -  I tempi di messa in produzione siano compatibili con i tempi stimati
    (S\ :sub:`tempi`\ < T\ :sub:`tempi`)
--  Rispetti gli altri altri vincoli ostativi
+-  Rispetti gli altri vincoli ostativi
 
 Se i vincoli sono soddisfatti, l’amministrazione individua la soluzione
 più rispondente alle proprie esigenze in base alla valutazione
@@ -134,7 +134,7 @@ effettuata.
 La presente fase si conclude con la:
 
 -  determinazione della migliore “soluzione a riuso delle P.P.A.A.”, o
-   eventuale non presenza si una soluzione.
+   eventuale non presenza di una soluzione.
 
 Fase 2.3: Approvvigionamento della soluzione riusabile per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

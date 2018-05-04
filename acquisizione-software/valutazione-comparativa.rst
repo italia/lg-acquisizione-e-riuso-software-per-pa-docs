@@ -58,7 +58,7 @@ F - Software combinazione delle precedenti soluzioni
     soluzione in riuso si appoggia su un *middleware Open Source* e
     accede a un database proprietario, con componenti realizzate
     appositamente per conto dell’amministrazione destinataria della
-    soluzione. E’ di fatto la tipologia più comune tra quelle
+    soluzione. È di fatto la tipologia più comune tra quelle
     effettivamente in uso nelle pubbliche amministrazioni.
 
 Inoltre, il comma 1 dell’articolo 69 del CAD indica che
