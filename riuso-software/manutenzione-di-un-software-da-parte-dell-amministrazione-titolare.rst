@@ -17,7 +17,7 @@ Titolarità del codice sviluppato in fase di manutenzione
 
 Come già discusso in `Titolarità <premessa.html#titolarita>`__,
 l’amministrazione deve assicurarsi la piena titolarità del software
-realizzato ex-novo. Si rimanda al citato paragrafo per ulteriori
+realizzato ex novo. Si rimanda al citato paragrafo per ulteriori
 informazioni.
 
 Rilascio sotto licenza aperta delle modifiche
