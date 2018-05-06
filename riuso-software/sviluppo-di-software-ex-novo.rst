@@ -38,7 +38,7 @@ Source <../attachments/allegato-b-guida-alla-pubblicazione-open-source-di-softwa
 tecnico.
 
 Viceversa, l’amministrazione che procedesse tardivamente all’adempimento
-del comma 1 art 69, utilizzando per esempio una gara successiva al
+del comma 1 art. 69, utilizzando per esempio una gara successiva al
 completamento della prima, incorrerebbe in maggiori oneri economici.
 
 Pertanto, si suggerisce di sviluppare il software direttamente sullo

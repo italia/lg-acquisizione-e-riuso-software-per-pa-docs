@@ -16,7 +16,7 @@ apportato:
 
 -  la riformulazione dell’art. 69, comma 2;
 
--  l’introduzione del comma 2 bis dell’art.69;
+-  l’introduzione del comma 2 bis dell’art. 69;
 
 -  l’abrogazione dell’articolo 70 rubricato banca dati dei programmi
    informatici riutilizzabili.

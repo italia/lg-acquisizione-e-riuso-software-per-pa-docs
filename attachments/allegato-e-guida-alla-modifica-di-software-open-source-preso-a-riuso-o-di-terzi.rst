@@ -117,7 +117,7 @@ originale, con un link al repository dello stesso.
 
 Si ricorda infatti che, come prescritto dalle Linee Guida, il “software
 a riuso” è il software rilasciato da una Amministrazione in adempimento
-all’art 69 del CAD; se dunque una Amministrazione adotta un software
+all’art. 69 del CAD; se dunque una Amministrazione adotta un software
 open source di terzi, è tenuta a metterlo a riuso, pubblicandolo essa
 stessa perché sia chiara ad altre Amministrazioni la provenienza di tale
 software.

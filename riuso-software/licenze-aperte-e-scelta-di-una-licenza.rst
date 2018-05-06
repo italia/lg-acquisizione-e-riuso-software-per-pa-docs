@@ -48,7 +48,7 @@ lista aggiornata delle licenze certificate da OSI è disponibile al
 seguente indirizzo (indice alfabetico):
 https://opensource.org/licenses/alphabetical
 
-L’adempimento dell’Art 69 del CAD, relativamente alla scelta della
+L’adempimento dell’Art. 69 del CAD, relativamente alla scelta della
 licenza, deve essere effettuato **scegliendo una licenza tra quelle
 certificate da Open Source Initiative**. In alternativa,
 l’amministrazione che volesse provvedere in autonomia a redigere un
