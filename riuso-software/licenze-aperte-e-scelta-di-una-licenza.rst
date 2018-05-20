@@ -48,7 +48,7 @@ lista aggiornata delle licenze certificate da OSI è disponibile al
 seguente indirizzo (indice alfabetico):
 https://opensource.org/licenses/alphabetical
 
-L’adempimento dell’Art 69 del CAD, relativamente alla scelta della
+L’adempimento dell’Art. 69 del CAD, relativamente alla scelta della
 licenza, deve essere effettuato **scegliendo una licenza tra quelle
 certificate da Open Source Initiative**. In alternativa,
 l’amministrazione che volesse provvedere in autonomia a redigere un
@@ -96,9 +96,9 @@ licenza aperta:
 -  Se si tratta di un **software nuovo**, tranne per le eccezioni
    specificate sotto, utilizzare la licenza EUPL v1.2 (codice SPDX:
    ``EUPL-1.2``): https://spdx.org/licenses/EUPL-1.2.html. Questa
-   licenza, scritta dalla Commissione Europea, è stata scelta in quanto
+   licenza, scritta dalla Commissione europea, è stata scelta in quanto
    di tipo “copyleft”, garantisce massima interoperabilità a livello
-   europeo, ed è anche tradotta in Italiano. Sono previste solo alcune
+   europeo, ed è anche tradotta in italiano. Sono previste solo alcune
    eccezioni a questa indicazione generale:
 
    -  se il **software viene utilizzato principalmente via rete (es:

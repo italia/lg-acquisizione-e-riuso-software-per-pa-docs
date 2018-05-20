@@ -57,7 +57,7 @@ Open Source
     definizione è Open Source Initiative (OSI).
 
 Riuso
-    nel contesto di queste Linee Guida, si intende il processo delineato
+    Nel contesto di queste Linee Guida, si intende il processo delineato
     dal CAD (art. 69) con il quale una amministrazione distribuisce
     (“mettere a riuso”) un software di cui ha titolarità in Open Source,
     a favore di altre amministrazioni che possano utilizzarlo (“prendere

@@ -61,9 +61,9 @@ questi componenti a rilasciare eventuali modifiche e miglioramenti, ma
 solo un riferimento per ottenere copia del codice sorgente originale.
 
 Esempi di queste licenze sono la licenza BSD, la licenza MIT e la
-licenza Apache - codici SPDX: ``Apache-2.0``, ``MIT`` e ``BSD-3-Clause``.
+licenza Apache - codici SPDX: ``BSD-3-Clause``, ``MIT`` e ``Apache-2.0``.
 
-**Nota:** l’utilizzo della licenza Apache è sconsigliata in quanto
+**Nota:** l’utilizzo della licenza Apache è sconsigliato in quanto
 incompatibile con la licenza GNU GPL versione 2 (codice SPDX:
 ``GPL-2.0-or-later``).
 
@@ -102,7 +102,7 @@ vengono anche dette “a copyleft debole”.
 
 Questa clausola aggiuntiva mantiene intatta la viralità per quanto
 riguarda modifiche sul codice del componente, ma permette l’integrazione
-esterna da parte di un software distribuita sotto qualunque licenza.
+esterna da parte di un software distribuito sotto qualunque licenza.
 
 Si noti che queste licenze contengono la cosiddetta “clausola di
 riproducibilità”: deve essere sempre possibile per l’utente di un
@@ -125,7 +125,7 @@ La versione più utilizzata è la licenza GNU LGPL (codice SPDX:
    del detentore dei diritti, salvo ulteriore autorizzazione.
 
 -  La European Union Public License (EUPL) è una licenza copyleft di
-   tipo debole, sviluppata dalla commissione europea, e tradotta
+   tipo debole, sviluppata dalla Commissione europea, e tradotta
    ufficialmente in tutte le lingue dell’Unione. Questa licenza allega
    una tabella di compatibilità con alcune delle licenze aperte più
    comuni. Codice SPDX: ``EUPL-1.2`` .

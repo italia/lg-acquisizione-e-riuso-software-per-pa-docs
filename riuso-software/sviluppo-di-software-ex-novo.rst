@@ -1,10 +1,10 @@
-Sviluppo di software ex-novo
+Sviluppo di software ex novo
 ----------------------------
 
 Se l’amministrazione, seguendo la valutazione comparativa proposta in
 `Linee Guida sull’acquisizione di soluzioni
 software <../acquisizione-software/introduzione-e-contesto-normativo.html>`__,
-sceglie di sviluppare un software ex-novo ricorrendo a risorse interne
+sceglie di sviluppare un software ex novo ricorrendo a risorse interne
 oppure tramite appalto, è importante adempiere a quanto previsto
 nell’articolo 69, e in particolare:
 
@@ -38,7 +38,7 @@ Source <../attachments/allegato-b-guida-alla-pubblicazione-open-source-di-softwa
 tecnico.
 
 Viceversa, l’amministrazione che procedesse tardivamente all’adempimento
-del comma 1 art 69, utilizzando per esempio una gara successiva al
+del comma 1 art. 69, utilizzando per esempio una gara successiva al
 completamento della prima, incorrerebbe in maggiori oneri economici.
 
 Pertanto, si suggerisce di sviluppare il software direttamente sullo
@@ -47,12 +47,12 @@ sviluppatori sugli strumenti pubblici fin dai primi giorni di sviluppo,
 senza aspettare di avere pronta una versione preliminare per effettuare
 il rilascio.
 
-Acquisizione della titolarità di software sviluppato ex-novo
+Acquisizione della titolarità di software sviluppato ex novo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Come già discusso in `Titolarità <../premessa/titolarita.html>`__,
 l’amministrazione deve assicurarsi la piena titolarità del software
-realizzato ex-novo. Si rimanda al citato paragrafo per ulteriori
+realizzato ex novo. Si rimanda al citato paragrafo per ulteriori
 informazioni.
 
 .. discourse::

@@ -3,7 +3,7 @@ Macro fase 3: Analisi delle altre soluzioni
 
 La pubblica amministrazione per soddisfare le proprie esigenze DEVE
 esaminare contestualmente le opportunità offerte dalle soluzioni
-proprietarie e quelle di una realizzazione ex-novo.
+proprietarie e quelle di una realizzazione ex novo.
 
 |image4-macro-fase-3|
 
@@ -21,10 +21,10 @@ L’amministrazione DEVE verificare che il software in licenza rispetti i
 seguenti vincoli (ossia, la mancanza anche di uno solo di questi rende
 la soluzione non eleggibile):
 
--  conformità alle regole sull’interoperabilità prescritte dalla linee
+-  conformità alle regole sull’interoperabilità prescritte dalle linee
    guida emanate in attuazione dell’articolo 73 del CAD;
 -  conformità alle normative sulla protezione dei dati personali;
--  conformità ai livelli di minimi sicurezza previsti per le pubbliche
+-  conformità ai livelli minimi di sicurezza previsti per le pubbliche
    amministrazioni;
 -  possibilità di esportare l’intera base di dati (inclusi di ogni tipo
    di indice o metadato utilizzato per implementare le funzionalità del
@@ -59,14 +59,14 @@ La presente fase si conclude con la:
 -  individuazione delle soluzioni con licenza d’uso proprietaria che
    soddisfano le esigenze dell’amministrazione.
 
-Fase 3.2: Studio realizzazione ex-novo
+Fase 3.2: Studio realizzazione ex novo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La Pubblica amministrazione, dopo aver individuato l’esistenza o meno di
 una soluzione proprietaria confacente ai propri bisogni, elabora un
 documento contenente un progetto di fattibilità [1]_ contenente la stima
 delle attività, dei costi e dei tempi da sostenere per la realizzazione
-di una soluzione ex-novo che soddisfi completamente le esigenze indicate
+di una soluzione ex novo che soddisfi completamente le esigenze indicate
 nel documento sull’analisi dei fabbisogni così come descritto nella
 “Fase 1.1: Analisi del fabbisogno”.
 
@@ -83,10 +83,10 @@ soluzioni, tenendo come riferimento il seguente elenco:
 -  rapida messa in esercizio;
 -  garanzia totale e rischio applicativo a carico del fornitore;
 -  manutenzione del fornitore;
--  costi di acquisto o sottoscrizione più bassi rispetto ad uno sviluppo
+-  costi di acquisto o abbonamento più bassi rispetto ad uno sviluppo
    completo;
 
-**Vantaggio sviluppo soluzione ex-novo**:
+**Vantaggio sviluppo soluzione ex novo**:
 
 -  esaustività dei propri fabbisogni e obiettivi;
 -  facilità di gestione (importazione ed esportazione) dei propri dati;
@@ -98,34 +98,33 @@ soluzioni, tenendo come riferimento il seguente elenco:
 
 **Svantaggi di una soluzione proprietaria:**
 
--  licenze ricorsive (sottoscrizioni mensili, annuali) o aggiornamenti
+-  licenze periodiche (abbonamenti mensili, annuali) o aggiornamenti
    di versione a pagamento;
 -  rigidità del flusso operativo o meglio non adattabile
-   all'organizzazione operativa della Pubblica Amministrazione
+   all'organizzazione operativa della Pubblica Amministrazione;
 -  possibilità di lock-in, cioè costi eccessivi di cambio di soluzione
    in futuro;
 -  stabilità economica del fornitore.
 
-**Svantaggi di una soluzione sviluppata ex-novo:**
+**Svantaggi di una soluzione sviluppata ex novo:**
 
 -  maggiori attività da eseguire;
 -  maggiore necessità di coordinamento;
 -  tempi di messa in produzione maggiori.
 
-Fase 3.4: Approvvigionamento soluzioni proprietarie o realizzazione ex novo
+Fase 3.4: Approvvigionamento soluzione proprietaria o realizzazione ex novo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A seguito della precedente fase 3.3 l’amministrazione ha determinato una
-soluzione, con licenza proprietaria o da realizzarsi ex-novo, che
+soluzione, con licenza proprietaria o da realizzarsi ex novo, che
 soddisfa le sue esigenze e provvede all'approvvigionamento della stessa
-secondo le secondo le procedure previste dal Codice dei contratti
-pubblici.
+secondo le procedure previste dal Codice dei contratti pubblici.
 
 Nel caso in cui si opti per la realizzazione ex novo, considerando i
 commi 1 e 2 dell’Articolo 69 che disciplinano la messa a riuso del
 software che verrà realizzato, si rimanda alla sezione `Sviluppo di
 software
-ex-novo <../riuso-software/sviluppo-di-software-ex-novo.html>`__
+ex novo <../riuso-software/sviluppo-di-software-ex-novo.html>`__
 per le informazioni su come progettare questa realizzazione per
 adempiere ai commi citati e metterlo così a riuso.
 

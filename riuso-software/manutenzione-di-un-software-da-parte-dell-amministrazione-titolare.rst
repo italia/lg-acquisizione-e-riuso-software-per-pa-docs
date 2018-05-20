@@ -7,8 +7,8 @@ aggiornato relativamente alla veloce evoluzione tecnologica,
 all’evoluzione normativa, e alle nuove esigenze dell’amministrazione.
 
 Durante la manutenzione, inoltre, gli aggiornamenti del software
-prodotti entrano nel campo di applicazione dell’art 69 del CAD, e devono
-quindi essere messi a riuso. Questa sezione descrive la procedura
+prodotti entrano nel campo di applicazione dell’art. 69 del CAD, e
+devono quindi essere messi a riuso. Questa sezione descrive la procedura
 manutentiva che indichiamo per consentire in modo agevole il riuso di
 questi miglioramenti.
 
@@ -17,7 +17,7 @@ Titolarità del codice sviluppato in fase di manutenzione
 
 Come già discusso in `Titolarità <premessa.html#titolarita>`__,
 l’amministrazione deve assicurarsi la piena titolarità del software
-realizzato ex-novo. Si rimanda al citato paragrafo per ulteriori
+realizzato ex novo. Si rimanda al citato paragrafo per ulteriori
 informazioni.
 
 Rilascio sotto licenza aperta delle modifiche
