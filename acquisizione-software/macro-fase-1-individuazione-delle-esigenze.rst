@@ -53,7 +53,7 @@ Le attività previste in questa fase sono:
 -  stima dei **tempi per la messa in esercizio** (di seguito
    T\ :sub:`tempi`) della soluzione che la Pubblica amministrazione può
    assorbire;
--  eventuali altri vincoli di interesse dell’amministrazione;
+-  eventuali altri vincoli di interesse dell’amministrazione.
 
 La presente fase si conclude con la:
 
