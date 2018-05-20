@@ -30,10 +30,10 @@ Una licenza aperta, così come intesa nell’Art. 69 del CAD, è una licenza
 che garantisca all’utente di un software le seguenti libertà:
 
 -  Libertà di eseguire il software come si desidera, per qualsiasi
-   scopo, senza ulteriori costi o restrizioni.
+   scopo, senza ulteriori costi o restrizioni;
 -  Libertà di studiare come funziona il software e di modificarlo in
-   modo da adattarlo alle proprie necessità.
--  Libertà di ridistribuire copie del software.
+   modo da adattarlo alle proprie necessità;
+-  Libertà di ridistribuire copie del software;
 -  Libertà di modificare il software e distribuirne pubblicamente le
    versioni modificate. [1]_
 
@@ -92,7 +92,7 @@ licenza aperta:
    amministrazione o di proprietà di terze parti), l’amministrazione
    utilizzerà la **stessa licenza** con la quale è stato originariamente
    distribuito il software, per favorire la massima interoperabilità e
-   riuso con altri utilizzatori del medesimo software.
+   riuso con altri utilizzatori del medesimo software;
 -  Se si tratta di un **software nuovo**, tranne per le eccezioni
    specificate sotto, utilizzare la licenza EUPL v1.2 (codice SPDX:
    ``EUPL-1.2``): https://spdx.org/licenses/EUPL-1.2.html. Questa
