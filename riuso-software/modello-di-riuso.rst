@@ -13,7 +13,7 @@ del presente documento.
    software <../acquisizione-software.html>`__ di
    queste linee guida, decide che, per soddisfare le proprie esigenze,
    deve necessariamente ricorrere alla realizzazione integrale di un
-   software ex-novo o la personalizzazione di un software Open Source
+   software ex novo o la personalizzazione di un software Open Source
    esistente
 2. L’amministrazione “A” utilizza proprie risorse e/o ricorre ad un
    appalto per realizzare il software. In caso di appalto, come
@@ -28,7 +28,7 @@ del presente documento.
    uno strumento di code
    hosting <processo-di-messa-a-riuso-del-software-sotto-licenza-aperta.html#scelta-di-uno-strumento-di-code-hosting>`__), registrandone
    poi il rilascio dentro Developers Italia (`Sviluppo di software
-   ex-novo <sviluppo-di-software-ex-novo.html>`__).
+   ex novo <sviluppo-di-software-ex-novo.html>`__).
 
 **Fase di riuso**
 

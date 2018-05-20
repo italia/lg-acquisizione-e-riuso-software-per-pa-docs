@@ -30,7 +30,7 @@ proprietà delle amministrazioni (`Rilascio di software esistente sotto
 licenza
 aperta <#rilascio-di-software-esistente-sotto-licenza-aperta>`__), sia
 per il software che verrà realizzato in futuro (`Sviluppo di software
-ex-novo <#sviluppo-di-software-ex-novo>`__).
+ex novo <#sviluppo-di-software-ex-novo>`__).
 
 Scelta di uno strumento di code hosting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
