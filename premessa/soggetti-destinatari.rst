@@ -13,7 +13,7 @@ Comunità montane. e loro consorzi e associazioni, le istituzioni
 universitarie, gli Istituti autonomi case popolari, le Camere di
 commercio, industria, artigianato e agricoltura e loro associazioni,
 tutti gli enti pubblici non economici nazionali, regionali e locali, le
-amministrazioni, le aziende e gli enti del Servizio sanitario nazionale
+amministrazioni, le aziende e gli enti del Servizio sanitario nazionale,
 l'Agenzia per la rappresentanza negoziale delle pubbliche
 amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30
 luglio 1999, n. 300 e al CONI (per quest’ultima amministrazione fino
