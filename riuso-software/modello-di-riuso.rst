@@ -8,7 +8,7 @@ del presente documento.
 **Fase di sviluppo**
 
 1. L'amministrazione “A”, effettuando la valutazione comparativa
-   prevista dall’art 68, secondo quanto descritto nelle `Linee Guida
+   prevista dall’art. 68, secondo quanto descritto nelle `Linee Guida
    sull’acquisizione di soluzioni
    software <../acquisizione-software.html>`__ di
    queste linee guida, decide che, per soddisfare le proprie esigenze,
@@ -49,7 +49,7 @@ del presente documento.
 4. Se il software viene personalizzato, ove possibile, tale
    personalizzazione (in quanto sviluppo su specifica indicazione
    dell’amministrazione “B”) è anch’essa soggetta a quanto prescritto
-   dall’art 69 comma 1, ed è quindi necessario rilasciare il relativo
+   dall’art. 69 comma 1, ed è quindi necessario rilasciare il relativo
    codice sorgente sotto **licenza aperta** (`Modifiche ad un software
    sotto licenza
    aperta <riuso-di-un-software-o-utilizzo-di-un-software-open-source.html#modifiche-ad-un-software-a-riuso-o-open-source>`__).

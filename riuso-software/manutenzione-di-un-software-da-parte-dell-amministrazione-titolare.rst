@@ -7,8 +7,8 @@ aggiornato relativamente alla veloce evoluzione tecnologica,
 all’evoluzione normativa, e alle nuove esigenze dell’amministrazione.
 
 Durante la manutenzione, inoltre, gli aggiornamenti del software
-prodotti entrano nel campo di applicazione dell’art 69 del CAD, e devono
-quindi essere messi a riuso. Questa sezione descrive la procedura
+prodotti entrano nel campo di applicazione dell’art. 69 del CAD, e
+devono quindi essere messi a riuso. Questa sezione descrive la procedura
 manutentiva che indichiamo per consentire in modo agevole il riuso di
 questi miglioramenti.
 

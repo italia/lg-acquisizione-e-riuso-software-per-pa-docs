@@ -1,7 +1,7 @@
 Riuso di un software o utilizzo di un software Open Source
 ----------------------------------------------------------
 
-Nel secondo capitolo di queste Linee Guida, dedicato all’Art 68, viene
+Nel secondo capitolo di queste Linee Guida, dedicato all’Art. 68, viene
 illustrato il processo con il quale l’amministrazione decide la modalità
 di approvvigionamento del software.
 
