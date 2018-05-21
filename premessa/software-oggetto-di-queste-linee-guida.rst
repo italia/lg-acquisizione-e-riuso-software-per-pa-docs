@@ -11,11 +11,11 @@ oggetto di queste linee guida è il seguente:
 -  Applicazioni web (frontend e backend)
 -  Applicazioni desktop
 -  Applicazioni mobile
--  Siti web (frontend e backend)
--  Librerie
--  Framework
--  Plugin
 -  Componenti e applicazioni semilavorate
+-  Framework
+-  Librerie
+-  Plugin
+-  Siti web (frontend e backend)
 
 .. discourse::
    :topic_identifier: 2858
