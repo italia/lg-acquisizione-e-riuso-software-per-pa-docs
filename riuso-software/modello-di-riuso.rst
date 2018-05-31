@@ -8,12 +8,12 @@ del presente documento.
 **Fase di sviluppo**
 
 1. L'amministrazione “A”, effettuando la valutazione comparativa
-   prevista dall’art 68, secondo quanto descritto nelle `Linee Guida
+   prevista dall’art. 68, secondo quanto descritto nelle `Linee Guida
    sull’acquisizione di soluzioni
    software <../acquisizione-software.html>`__ di
    queste linee guida, decide che, per soddisfare le proprie esigenze,
    deve necessariamente ricorrere alla realizzazione integrale di un
-   software ex-novo o la personalizzazione di un software Open Source
+   software ex novo o la personalizzazione di un software Open Source
    esistente
 2. L’amministrazione “A” utilizza proprie risorse e/o ricorre ad un
    appalto per realizzare il software. In caso di appalto, come
@@ -28,7 +28,7 @@ del presente documento.
    uno strumento di code
    hosting <processo-di-messa-a-riuso-del-software-sotto-licenza-aperta.html#scelta-di-uno-strumento-di-code-hosting>`__), registrandone
    poi il rilascio dentro Developers Italia (`Sviluppo di software
-   ex-novo <sviluppo-di-software-ex-novo.html>`__).
+   ex novo <sviluppo-di-software-ex-novo.html>`__).
 
 **Fase di riuso**
 
@@ -49,7 +49,7 @@ del presente documento.
 4. Se il software viene personalizzato, ove possibile, tale
    personalizzazione (in quanto sviluppo su specifica indicazione
    dell’amministrazione “B”) è anch’essa soggetta a quanto prescritto
-   dall’art 69 comma 1, ed è quindi necessario rilasciare il relativo
+   dall’art. 69 comma 1, ed è quindi necessario rilasciare il relativo
    codice sorgente sotto **licenza aperta** (`Modifiche ad un software
    sotto licenza
    aperta <riuso-di-un-software-o-utilizzo-di-un-software-open-source.html#modifiche-ad-un-software-a-riuso-o-open-source>`__).

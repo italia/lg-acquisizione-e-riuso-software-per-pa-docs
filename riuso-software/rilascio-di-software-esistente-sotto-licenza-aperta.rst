@@ -1,7 +1,7 @@
 Rilascio di software esistente sotto licenza aperta
 ---------------------------------------------------
 
-Il comma 1 dell’Art 69 recita:
+Il comma 1 dell’Art. 69 recita:
 
 |  "Le pubbliche amministrazioni che siano titolari di soluzioni e
   programmi informatici realizzati su specifiche indicazioni del

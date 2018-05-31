@@ -30,10 +30,10 @@ Una licenza aperta, così come intesa nell’Art. 69 del CAD, è una licenza
 che garantisca all’utente di un software le seguenti libertà:
 
 -  Libertà di eseguire il software come si desidera, per qualsiasi
-   scopo, senza ulteriori costi o restrizioni.
+   scopo, senza ulteriori costi o restrizioni;
 -  Libertà di studiare come funziona il software e di modificarlo in
-   modo da adattarlo alle proprie necessità.
--  Libertà di ridistribuire copie del software.
+   modo da adattarlo alle proprie necessità;
+-  Libertà di ridistribuire copie del software;
 -  Libertà di modificare il software e distribuirne pubblicamente le
    versioni modificate. [1]_
 
@@ -48,7 +48,7 @@ lista aggiornata delle licenze certificate da OSI è disponibile al
 seguente indirizzo (indice alfabetico):
 https://opensource.org/licenses/alphabetical
 
-L’adempimento dell’Art 69 del CAD, relativamente alla scelta della
+L’adempimento dell’Art. 69 del CAD, relativamente alla scelta della
 licenza, deve essere effettuato **scegliendo una licenza tra quelle
 certificate da Open Source Initiative**. In alternativa,
 l’amministrazione che volesse provvedere in autonomia a redigere un
@@ -92,14 +92,14 @@ licenza aperta:
    amministrazione o di proprietà di terze parti), l’amministrazione
    utilizzerà la **stessa licenza** con la quale è stato originariamente
    distribuito il software, per favorire la massima interoperabilità e
-   riuso con altri utilizzatori del medesimo software.
+   riuso con altri utilizzatori del medesimo software;
 -  Se si tratta di un **software nuovo**, tranne per le eccezioni
    specificate sotto, utilizzare la licenza EUPL v1.2 (codice SPDX:
    ``EUPL-1.2``): https://spdx.org/licenses/EUPL-1.2.html. Questa
-   licenza, scritta dalla Commissione Europea, è stata scelta in quanto
+   licenza, scritta dalla Commissione europea, è stata scelta in quanto
    di tipo “copyleft”, garantisce massima interoperabilità a livello
-   europeo, ed è anche tradotta in Italiano. Sono previste solo alcune
-   eccezioni a questa indicazione generale
+   europeo, ed è anche tradotta in italiano. Sono previste solo alcune
+   eccezioni a questa indicazione generale:
 
    -  se il **software viene utilizzato principalmente via rete (es:
       tramite un browser)**, utilizzare la licenza “GNU Affero General

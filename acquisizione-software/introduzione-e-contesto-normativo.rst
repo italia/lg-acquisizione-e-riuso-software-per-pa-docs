@@ -16,7 +16,7 @@ apportato:
 
 -  la riformulazione dell’art. 69, comma 2;
 
--  l’introduzione del comma 2 bis dell’art.69;
+-  l’introduzione del comma 2 bis dell’art. 69;
 
 -  l’abrogazione dell’articolo 70 rubricato banca dati dei programmi
    informatici riutilizzabili.
@@ -35,7 +35,7 @@ software da parte delle pubbliche amministrazioni svolgevano un ruolo:
    particolare rilevanza il MePA gestito da CONSIP);
 
 -  le convenzioni quadro e gli accordi quadro stipulati, ai sensi della
-   normativa vigente, da CONSIP e dai soggetti aggregatori.
+   normativa vigente, da CONSIP e dai soggetti aggregatori;
 
 -  il Catalogo nazionale programmi riutilizzabili gestito dall’AgID.
 

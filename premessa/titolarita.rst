@@ -12,7 +12,7 @@ su proprie specifiche indicazioni ogni qualvolta che:
    intellettuale e industriale** sul software sviluppato, o comunque
    l’acquisizione della titolarità risulti eccessivamente onerosa (per
    esempio nei casi in cui la titolarità è acquisibile solo attraverso
-   l'acquisizione dei diritti di software proprietario).
+   l'acquisizione dei diritti di software proprietario);
 -  il software sia stato realizzato da risorse interne
    all’amministrazione stessa.
 

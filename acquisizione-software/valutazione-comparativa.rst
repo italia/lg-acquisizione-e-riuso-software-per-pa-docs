@@ -25,7 +25,7 @@ dalla normativa:
 
 A - Software sviluppato per conto della pubblica amministrazione
     Soluzione detta anche “opzione *make*\ ”: la PA affida lo sviluppo
-    del software (sia esso ex-novo o modifica di software esistente) 
+    del software (sia esso ex novo o modifica di software esistente)
     a un fornitore e quest’ultimo si impegna a consegnare alla P.A. il software
     sviluppato sulla base dei requisiti da questa definiti. Per esempio,
     nel ciclo di vita del software (analisi, progettazione, sviluppo,
@@ -38,7 +38,7 @@ B - Riutilizzo di software o parti di esso sviluppati per conto della pubblica a
     esistente e disponibile.
 
 C - Software libero o a codice sorgente aperto
-    Software con licenza Open Source (v. *Glossario*). In particolare,
+    Software con licenza Open Source. In particolare,
     si intende tutto il software distribuito sotto una licenza
     certificata da OSI (*lista completa*), come descritto in *3.5.2.
     Licenze per il software aperto*.
@@ -58,7 +58,7 @@ F - Software combinazione delle precedenti soluzioni
     soluzione in riuso si appoggia su un *middleware Open Source* e
     accede a un database proprietario, con componenti realizzate
     appositamente per conto dell’amministrazione destinataria della
-    soluzione. E’ di fatto la tipologia più comune tra quelle
+    soluzione. È di fatto la tipologia più comune tra quelle
     effettivamente in uso nelle pubbliche amministrazioni.
 
 Inoltre, il comma 1 dell’articolo 69 del CAD indica che
@@ -87,7 +87,7 @@ Costo complessivo
     of Ownership* (TCO) della soluzione, calcolato su una finestra
     temporale adeguata al contesto della valutazione, comprensivo del
     costo di migrazione verso altra soluzione (vedere anche paragrafo
-    2.4)
+    2.4).
 
 Utilizzo di formati di dati aperti
     Uso, da parte della soluzione da valutare, di formati standard e
@@ -160,7 +160,7 @@ Le Macro fasi individuate sono:
    esigenze della Pubblica amministrazione, si persegue il
    soddisfacimento delle stesse attraverso il ricorso a programmi
    informatici di tipo proprietario, mediante ricorso a licenza d'uso
-   e/o a realizzazioni ex/novo.
+   e/o a realizzazioni ex novo.
 
 In quanto segue le Macro fasi individuate sono suddivise in Fasi,
 descrivendo le attività da realizzare in termini di criteri e
