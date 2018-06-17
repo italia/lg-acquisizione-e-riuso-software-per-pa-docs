@@ -3,7 +3,7 @@ Macro fase 1: Individuazione delle esigenze
 
 Nella presente Macro fase, la pubblica amministrazione definisce le
 esigenze (bisogni e vincoli) che condizionano le scelte per
-l’individuazione di una soluzione; si suggerisce di redigere un
+l'individuazione di una soluzione; si suggerisce di redigere un
 documento (senza alcun vincolo di forma) descrittivo delle esigenze
 individuate da utilizzare nelle fasi che riguardano la comparazione e
 valutazione delle soluzioni.
@@ -13,7 +13,7 @@ valutazione delle soluzioni.
 Fase 1.1: Analisi del fabbisogno
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L’amministrazione definisce il proprio fabbisogno, per l’individuazione
+L'amministrazione definisce il proprio fabbisogno, per l'individuazione
 della soluzione software. Nel fare questo tiene conto di quanto definito
 nel Programma degli acquisti e nella Programmazione dei lavori pubblici
 (art. 21 del D. Lgs. n. 50 del 18/04/2016).
@@ -21,7 +21,7 @@ nel Programma degli acquisti e nella Programmazione dei lavori pubblici
 Le attività previste nella presente fase sono:
 
 -  studio del contesto attraverso la descrizione delle caratteristiche
-   dell’amministrazione: finalità, struttura ed organizzazione;
+   dell'amministrazione: finalità, struttura ed organizzazione;
 -  descrizione dei flussi operativi interessati dal software da
    acquisire, che la pubblica amministrazione mette in atto per dare
    seguito alle procedure amministrative;
@@ -39,7 +39,7 @@ La presente fase si conclude con la:
 Fase 1.2: Individuazione dei vincoli
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L’amministrazione descrive i vincoli che condizionano
+L'amministrazione descrive i vincoli che condizionano
 l'approvvigionamento della soluzione software.
 
 Le attività previste in questa fase sono:
@@ -48,22 +48,22 @@ Le attività previste in questa fase sono:
    T\ :sub:`bilancio`) per assicurare la disponibilità e la messa in
    produzione della soluzione da acquisire (eventuale bonifica dati e
    migrazione da sistemi preesistenti, installazione, personalizzazione,
-   integrazione con sistemi esistenti, formazione, supporto all’avvio,
+   integrazione con sistemi esistenti, formazione, supporto all'avvio,
    attività gestionali, pagamento di eventuali eccedenze, ecc.);
 -  stima dei **tempi per la messa in esercizio** (di seguito
    T\ :sub:`tempi`) della soluzione che la Pubblica amministrazione può
    assorbire;
--  eventuali altri vincoli di interesse dell’amministrazione.
+-  eventuali altri vincoli di interesse dell'amministrazione.
 
 La presente fase si conclude con la:
 
 -  individuazione dei vincoli (economici e temporali) che condizionano
-   le scelte dell’amministrazione.
+   le scelte dell'amministrazione.
 
 Fase 1.3: Redazione del documento descrittivo delle esigenze
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L’amministrazione redige il documento descrittivo delle esigenze da
+L'amministrazione redige il documento descrittivo delle esigenze da
 utilizzarsi nelle fasi successive della valutazione comparativa.
 
 Le attività previste in questa fase sono:

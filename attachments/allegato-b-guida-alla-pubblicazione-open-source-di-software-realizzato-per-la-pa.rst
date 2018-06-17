@@ -4,7 +4,7 @@ Allegato B: Guida alla pubblicazione open source di software realizzato per la P
 *Contesto: questo documento è pensato per essere allegato alle
 specifiche tecniche per la realizzazione o il rilascio di software sotto
 licenza aperta da parte di una Pubblica Amministrazione (incluso
-software non di proprietà dell’Amministrazione). In caso di appalto, può
+software non di proprietà dell'Amministrazione). In caso di appalto, può
 essere allegato come documento di gara.*
 
 1. Premessa
@@ -16,11 +16,11 @@ rilasciato in open-source.
 
 Il contesto normativo è il seguente:
 
--  L’art. 69 comma 1 del Codice dell’Amministrazione Digitale impone che
+-  L'art. 69 comma 1 del Codice dell'Amministrazione Digitale impone che
 
    “Le pubbliche amministrazioni che siano titolari di soluzioni e
    programmi informatici realizzati su specifiche indicazioni del
-   committente pubblico, hanno l’obbligo di rendere disponibile il
+   committente pubblico, hanno l'obbligo di rendere disponibile il
    relativo codice sorgente, completo della documentazione e rilasciato
    in repertorio pubblico sotto licenza aperta, in uso gratuito ad altre
    pubbliche amministrazioni o ai soggetti giuridici che intendano
@@ -33,8 +33,8 @@ Il contesto normativo è il seguente:
    scelta della licenza e il rilascio del codice.
 
 **Se questo documento è usato in allegato ad un capitolato tecnico
-nell’ambito di un appalto, il Fornitore è tenuto a svolgere le attività
-descritte nel presente documento come parte integrante dell’appalto, in
+nell'ambito di un appalto, il Fornitore è tenuto a svolgere le attività
+descritte nel presente documento come parte integrante dell'appalto, in
 aggiunta a quanto specificato nel resto del capitolato.**
 
 Nel documento sarà adottata la seguente convenzione:
@@ -58,7 +58,7 @@ correttamente il lavoro.
 2. Individuazione dello strumento di code hosting
 -------------------------------------------------
 
-L’Amministrazione titolare del software deve individuare e comunicare al
+L'Amministrazione titolare del software deve individuare e comunicare al
 Fornitore uno strumento di code hosting da utilizzare per il rilascio.
 
 Le Linee Guida di AgID specificano i parametri tecnici minimi, qui
@@ -97,7 +97,7 @@ hosting:
 -  Gitea - https://gitea.io/
 -  Gogs - https://gogs.io/
 
-L’Amministrazione titolare dei diritti indicherà al Fornitore uno
+L'Amministrazione titolare dei diritti indicherà al Fornitore uno
 strumento di code hosting da utilizzare per il rilascio; in mancanza di
 tale indicazione, il Fornitore può proporre uno strumento di sua
 preferenza.
@@ -113,25 +113,25 @@ open source già esistente, è preferibile adottare la medesima
 piattaforma in modo da sfruttarne le funzionalità di collaborazione
 (SHOULD).
 
-Se l’Amministrazione dispone già di un proprio account presso lo
-strumento di code hosting individuato, sarà concesso l’accesso al
+Se l'Amministrazione dispone già di un proprio account presso lo
+strumento di code hosting individuato, sarà concesso l'accesso al
 Fornitore. In caso contrario, sarà il Fornitore ad aprire un account
-presso lo strumento concordato; il nome dell’account dovrà rispecchiare
-il progetto e non la denominazione dell’Amministrazione, né fare
+presso lo strumento concordato; il nome dell'account dovrà rispecchiare
+il progetto e non la denominazione dell'Amministrazione, né fare
 riferimento al Fornitore; inoltre, il Fornitore dovrà fornire
-all’Amministrazione l’accesso allo strumento con i massimi poteri.
-L’Amministrazione resterà proprietaria dell’account anche dopo la
+all'Amministrazione l'accesso allo strumento con i massimi poteri.
+L'Amministrazione resterà proprietaria dell'account anche dopo la
 cessazione della presente fornitura.
 
-All’interno dello strumento scelto, il Fornitore aprirà un repository
+All'interno dello strumento scelto, il Fornitore aprirà un repository
 destinato ad ospitare il software in sviluppo. Qualora la fornitura sia
 articolata in più componenti logicamente distinti e con finalità
 autonome, purché singolarmente compiuti, documentati e riutilizzabili
 separatamente, dovranno essere aperti repository distinti (MUST).
 
-Il link al repository dovrà essere riportato nell’interfaccia del
+Il link al repository dovrà essere riportato nell'interfaccia del
 software esposta al pubblico (ad es. con un link nel footer o tra le
-pagine di aiuto) in modo che sia possibile per l’utente reperire la
+pagine di aiuto) in modo che sia possibile per l'utente reperire la
 versione del codice così come è in esecuzione.
 
 3. Scelta della licenza
@@ -145,7 +145,7 @@ riutilizzati od incorporati, con o senza modifiche, per i quali non si
 detiene il copyright (ad esempio: librerie, asset grafici). Se tali
 componenti si trovano in file distinti, è possibile mantenere la licenza
 distinta purché ciò sia permesso dalle licenze e i relativi file
-riportino chiaramente l’indicazione della differente licenza e dei
+riportino chiaramente l'indicazione della differente licenza e dei
 titolari dei diritti economici di sfruttamento (MAY).
 
 4. Attribuzione della licenza ed individuazione della titolarità
@@ -154,18 +154,18 @@ titolari dei diritti economici di sfruttamento (MAY).
 Al fine di applicare la licenza scelta al materiale da rilasciare è
 necessario creare nella root del repository un file denominato LICENSE,
 contenente il testo integrale della licenza scelta, senza alcuna
-modifica. I testi originali sono disponibili all’indirizzo https://spdx.org/licenses/. È
+modifica. I testi originali sono disponibili all'indirizzo https://spdx.org/licenses/. È
 obbligatorio (MUST) specificare la licenza applicata tramite espressione
-(o codice) SPDX all’inizio di ogni file sorgente, in modo che sia
+(o codice) SPDX all'inizio di ogni file sorgente, in modo che sia
 facilmente possibile una metadatazione automatica delle licenze usate.
 
 Si consiglia la lettura della guida https://reuse.software/practices/2.0/
-per ulteriori raccomandazioni sull’applicazione della licenza a diversi
+per ulteriori raccomandazioni sull'applicazione della licenza a diversi
 formati di file.
 
-Ai sensi dell’art. 69 comma 2 del Codice dell’Amministrazione Digitale
+Ai sensi dell'art. 69 comma 2 del Codice dell'Amministrazione Digitale
 il detentore di copyright (*copyright holder*) da indicare nel codice
-sorgente è l’Amministrazione committente (MUST), che ha acquisito la
+sorgente è l'Amministrazione committente (MUST), che ha acquisito la
 titolarità.
 
 5. Individuazione dei materiali da rilasciare
@@ -221,8 +221,8 @@ Alcuni esempi di convenzioni:
 sulla suddivisione della logica in librerie specializzate e
 riutilizzabili singolarmente, con API interne definite e documentate nei
 commenti del codice. In caso di integrazione di librerie esterne, si
-raccomanda (SHOULD) l’uso dei *package manager*, per facilitare la
-manutenzione e l’aggiornamento.
+raccomanda (SHOULD) l'uso dei *package manager*, per facilitare la
+manutenzione e l'aggiornamento.
 
 Il rilascio in open source non deve essere considerato come mero
 adempimento da svolgersi al termine della fornitura, ma deve essere
@@ -268,7 +268,7 @@ Il repository deve contenere un file denominato README.md contenente:
    operativi, librerie, framework eccetera) con esplicita indicazione di
    eventuali dipendenze da software commerciali;
 
--  (MUST) istruzioni per l’installazione:
+-  (MUST) istruzioni per l'installazione:
 
    -  procedura di installazione di requisiti e dipendenze;
 
@@ -288,10 +288,10 @@ Il repository deve contenere un file denominato README.md contenente:
    repository;
 
 -  (SHOULD) riferimenti o link ad eventuali immagini Docker che
-   consentano l’installazione semplificata (ai fini di produzione o di
+   consentano l'installazione semplificata (ai fini di produzione o di
    sviluppo);
 
--  (MUST) nomi dei detentori di copyright, ovvero l’Amministrazione
+-  (MUST) nomi dei detentori di copyright, ovvero l'Amministrazione
    committente;
 
 -  (MUST) nomi dei soggetti incaricati del mantenimento del progetto
@@ -300,7 +300,7 @@ Il repository deve contenere un file denominato README.md contenente:
 
 -  (MUST) indirizzo e-mail a cui inviare segnalazioni di sicurezza
    (specificare che le segnalazioni di sicurezza non vanno inviate
-   attraverso l’issue tracker pubblico ma devono essere inviate
+   attraverso l'issue tracker pubblico ma devono essere inviate
    confidenzialmente a tale indirizzo e-mail);
 
 8. Documentazione
@@ -341,10 +341,10 @@ modificabili e multipiattaforma (resta dunque escluso il formato PDF).
 9. Tempi di rilascio
 --------------------
 
-All’inizio della fornitura il Fornitore concorda con l’Amministrazione
+All'inizio della fornitura il Fornitore concorda con l'Amministrazione
 il piano di rilascio in open source del software durante lo sviluppo. Le
 Linee Guida suggeriscono di adottare un modello di sviluppo aperto, che
-preveda il rilascio contestuale allo sviluppo sin dall’inizio. Questo
+preveda il rilascio contestuale allo sviluppo sin dall'inizio. Questo
 modello consente anche ad altre amministrazioni di venire a conoscenza
 delle attività di sviluppo, anche prima della prima messa in produzione,
 diminuendo la probabilità che due amministrazioni sviluppino in modo
@@ -355,7 +355,7 @@ open source deve essere effettuato (MUST) entro 15 giorni dal momento
 dell'acquisizione del software da parte dell'Amministrazione committente
 al termine della fornitura, ovvero dal momento in cui detto software
 viene immesso in collaudo o in produzione, ovvero da una richiesta
-dell’Amministrazione che può comunque essere trasmessa al Fornitore in
+dell'Amministrazione che può comunque essere trasmessa al Fornitore in
 qualsiasi fase. Se la fornitura è articolata in più lotti, i presenti
 termini di rilascio si applicano a ciascun lotto.
 
@@ -385,7 +385,7 @@ di cifratura previsti per la piattaforma di code hosting e per i sistemi
 di Continuous Integration adottati (ad es. git-crypt).
 
 È importante verificare che non si siano depositate per errore tali
-credenziali (**API keys, secrets, password, …**) all’interno del
+credenziali (**API keys, secrets, password, …**) all'interno del
 repository, non solo nella versione corrente ma anche in revisioni
 precedenti.
 
@@ -398,7 +398,7 @@ Tutto il codice "morto", ovvero non utilizzato, deve essere rimosso
 (MUST) poiché potrebbe portare a confusione od essere considerato
 mantenuto ed erroneamente reintegrato senza i necessari controlli.
 
-Se il software è un’applicazione web esposta su rete pubblica, o
+Se il software è un'applicazione web esposta su rete pubblica, o
 contiene applicazioni web, dovrebbe (SHOULD) essere accessibile per ogni
 installazione al path ``https://<hostname>/.well-known/security.txt`` un
 file formattato secondo le indicazioni del sito
@@ -420,7 +420,7 @@ La registrazione avviene seguendo due passaggi:
    progetto come “software utile per la Pubblica Amministrazione”, e
    contemporaneamente offre una serie di informazioni utili alla
    valutazione del software stesso per il riuso. Tale file verrà
-   rilevato automaticamente dall’indicizzatore (crawler) di Developers
+   rilevato automaticamente dall'indicizzatore (crawler) di Developers
    Italia al fine della generazione della relativa scheda nel catalogo.
    La documentazione sul formato può essere trovata qui:
    https://github.com/italia/publiccode.yml
@@ -428,17 +428,17 @@ La registrazione avviene seguendo due passaggi:
 2) **Aggiunta dello strumento di code-hosting al motore di ricerca.** Al
    fine di accertarsi che Developers Italia rilevi automaticamente il
    file, è necessario verificare che lo strumento di code-hosting
-   prescelto sia già noto all’indicizzatore automatico di Developers
+   prescelto sia già noto all'indicizzatore automatico di Developers
    Italia. A tale scopo è possibile consultare la lista presente in
-   Developers Italia. In caso negativo (ad esempio: un’istanza
+   Developers Italia. In caso negativo (ad esempio: un'istanza
    on-premise di GitLab di proprietà di una amministrazione), è
-   necessario aggiungere l’indirizzo dello strumento al motore di
+   necessario aggiungere l'indirizzo dello strumento al motore di
    ricerca di Developers Italia (il quale non scansiona tutta Internet,
    ma solo i siti conosciuti). Per fare questo, è sufficiente `aprire
    un ticket nel repository del sito di Developers
    Italia <https://github.com/italia/developers.italia.it/issues/new>`__,
-   indicando l’indirizzo della piattaforma di cui si richiede l’aggiunta
-   all’indicizzazione.
+   indicando l'indirizzo della piattaforma di cui si richiede l'aggiunta
+   all'indicizzazione.
 
 .. discourse::
    :topic_identifier: 2862

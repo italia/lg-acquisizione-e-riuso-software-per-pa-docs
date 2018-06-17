@@ -12,7 +12,7 @@ amministrazioni la verifica di soddisfacimento delle esigenze DEVE prima
 considerare le “soluzioni a riuso delle PA” e successivamente le
 “soluzioni Open Source”.
 
-L’attuazione dell’\ `art. 69 del
+L'attuazione dell'\ `art. 69 del
 CAD <http://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=69&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=14&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art>`__
 assicura che le “soluzioni a riuso delle PA” rendano disponibile il
 relativo codice sorgente, completo della documentazione, in repertorio
@@ -24,12 +24,12 @@ Software <../riuso-software.html>`__.
 Fase 2.1: Selezione soluzioni riusabili per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L’amministrazione individua le “soluzioni a riuso delle PA” candidate a
+L'amministrazione individua le “soluzioni a riuso delle PA” candidate a
 soddisfare le proprie esigenze.
 
 Le attività previste in questa fase sono:
 
--  ricerca delle “soluzioni a riuso delle P.P.A.A.” presenti all’interno
+-  ricerca delle “soluzioni a riuso delle P.P.A.A.” presenti all'interno
    della piattaforma Developers Italia, oppure tramite altri strumenti
    di ricerca e indicizzazione.
 
@@ -47,13 +47,13 @@ amministrazione, attraverso la realizzazione della presente fase di
 valutazione si provvede ad individuare la “soluzione a riuso della PA”
 migliore.
 
-Per ognuna delle “soluzioni a riuso delle PA” potenzialmente d’interesse
+Per ognuna delle “soluzioni a riuso delle PA” potenzialmente d'interesse
 si provvede a:
 
 -  verificare:
 
-   -  la conformità alle regole sull’interoperabilità prescritte dalle
-      linee guida emanate in attuazione dell’articolo 73 del CAD;
+   -  la conformità alle regole sull'interoperabilità prescritte dalle
+      linee guida emanate in attuazione dell'articolo 73 del CAD;
    -  la conformità alle normative sulla protezione dei dati personali;
    -  la conformità ai livelli minimi di sicurezza previsti per le
       pubbliche amministrazioni.
@@ -67,8 +67,8 @@ si provvede a:
       indispensabili e non;
    -  presenza di un manutentore del software in questione;
    -  eventuale presenza di accordi con terzi stipulati
-      dall’amministrazione titolare e utilizzabili dall’amministrazione
-      valutante, riguardo attività di supporto per l’installazione e/o
+      dall'amministrazione titolare e utilizzabili dall'amministrazione
+      valutante, riguardo attività di supporto per l'installazione e/o
       la personalizzazione della soluzione o comunque le modalità di
       fruibilità della soluzione stessa (es: una in-house regionale può
       mettere a riuso software Open Source per i propri comuni assieme
@@ -98,10 +98,10 @@ si provvede a:
       oppure costi per fruizione del software tramite modalità SaaS ove
       presente nel Marketplace Cloud di AgID;
    -  eventuali costi per la formazione del personale, considerando sia
-      quelli necessari per l’addestramento dei soggetti destinati alla
+      quelli necessari per l'addestramento dei soggetti destinati alla
       gestione della soluzione sia quelli per il suo utilizzo da parte
       degli utenti finali;
-   -  eventuali costi necessari all’integrazione della soluzione con i
+   -  eventuali costi necessari all'integrazione della soluzione con i
       propri sistemi;
    -  eventuali costi di personalizzazione, necessari ad assicurare la
       copertura di tutti i requisiti funzionali e non funzionali,
@@ -110,7 +110,7 @@ si provvede a:
 -  stimare i tempi per la messa in produzione della soluzione (di
    seguito S\ :sub:`tempi`);
 -  eventuali altri stime espressione della specificità
-   dell’amministrazione.
+   dell'amministrazione.
 
 Per dare seguito alla valutazione di quanto indicato nei precedenti
 punti la pubblica amministrazione dovrà provvedere, ove non già in suo
@@ -128,7 +128,7 @@ specifici:
 -  Rispetti gli altri vincoli ostativi.
 
 
-Se i vincoli sono soddisfatti, l’amministrazione individua la soluzione
+Se i vincoli sono soddisfatti, l'amministrazione individua la soluzione
 più rispondente alle proprie esigenze in base alla valutazione
 effettuata.
 
@@ -140,7 +140,7 @@ La presente fase si conclude con la:
 Fase 2.3: Approvvigionamento della soluzione riusabile per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ove a seguito della precedente fase 2.2 l’amministrazione abbia
+Ove a seguito della precedente fase 2.2 l'amministrazione abbia
 determinato una “soluzione a riuso della PA” che soddisfa le sue
 esigenze, provvede all'approvvigionamento. Il processo di riuso è
 descritto in *3.9. Riuso di un software rilasciato sotto licenza
@@ -158,7 +158,7 @@ Fase 2.4: Selezione soluzioni Open Source
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se non è possibile individuare una “soluzione a riuso della PA”,
-l’amministrazione DEVE ampliare la ricerca delle soluzioni da
+l'amministrazione DEVE ampliare la ricerca delle soluzioni da
 considerare per il soddisfacimento delle proprie esigenze alle
 “soluzioni Open Source”, cioè software rilasciato sotto licenza aperta
 ma non di titolarità di una Pubblica Amministrazione e quindi non
@@ -203,9 +203,9 @@ La presente fase si conclude con la:
 Fase 2.6: Approvvigionamento della soluzione Open Source
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ove a seguito della precedente fase 2.5 l’amministrazione abbia
+Ove a seguito della precedente fase 2.5 l'amministrazione abbia
 individuato una “soluzione Open Source” che soddisfa le sue esigenze,
-procede all’acquisizione. Il processo di acquisizione è descritto in
+procede all'acquisizione. Il processo di acquisizione è descritto in
 `Riuso di un software o utilizzo di un software Open
 Source <../riuso-software/riuso-di-un-software-o-utilizzo-di-un-software-open-source.html>`__.
 
@@ -220,10 +220,10 @@ Fase 2.7: Accertamento impossibilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nel caso in cui sia accertata l'impossibilità di individuare una
-soluzione che soddisfi le esigenze dell’amministrazione tra le
+soluzione che soddisfi le esigenze dell'amministrazione tra le
 “soluzioni a riuso della PA” e le “soluzioni Open Source”, si procede
 alla redazione di un documento (senza vincoli di forma) che motivi le
-ragioni dell’accertata impossibilità.
+ragioni dell'accertata impossibilità.
 
 La pubblica amministrazione prosegue la valutazione comparativa dando
 seguito alle Fasi previste nella successiva Macro fase 3.

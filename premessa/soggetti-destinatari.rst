@@ -16,14 +16,14 @@ tutti gli enti pubblici non economici nazionali, regionali e locali, le
 amministrazioni, le aziende e gli enti del Servizio sanitario nazionale,
 l'Agenzia per la rappresentanza negoziale delle pubbliche
 amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30
-luglio 1999, n. 300 e al CONI (per quest’ultima amministrazione fino
+luglio 1999, n. 300 e al CONI (per quest'ultima amministrazione fino
 alla revisione organica della disciplina di settore)”*.
 
 Non si applicano le disposizioni sul riuso delle soluzioni limitatamente
 all'esercizio delle attività e funzioni di ordine e sicurezza pubblica,
 difesa e sicurezza nazionale e consultazioni elettorali.
 
-Per quanto riguarda le limitazioni all’applicazione del CAD, sono
+Per quanto riguarda le limitazioni all'applicazione del CAD, sono
 previsti appositi decreti del Presidente del Consiglio dei Ministri che,
 tenuto conto delle esigenze derivanti dalla natura delle proprie
 particolari funzioni, stabiliscono le modalità, i limiti e i tempi di

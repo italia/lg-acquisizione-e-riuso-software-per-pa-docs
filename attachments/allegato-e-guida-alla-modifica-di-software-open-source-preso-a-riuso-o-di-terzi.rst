@@ -15,7 +15,7 @@ sia rilasciato da altre Pubbliche Amministrazioni italiane sia
 sviluppato e mantenuto da soggetti terzi, o lo richiede
 l'Amministrazione committente, si applica integralmente quanto disposto
 dalla *Guida alla pubblicazione open source di software realizzato per
-la PA*, con l’aggiunta delle prescrizioni contenute nella presente
+la PA*, con l'aggiunta delle prescrizioni contenute nella presente
 guida.
 
 2. Modifica del codice sorgente
@@ -26,7 +26,7 @@ divergenza tra il codice sorgente originale e quello modificato
 risultante dal lavoro del Fornitore. Nell'operare le modifiche
 necessarie all'adattamento non va infatti tenuto conto solo delle
 funzionalità richieste ma bisogna tendere a mantenere compatta e
-unitaria la base di codice. Uno dei principi fondamentali dell’open
+unitaria la base di codice. Uno dei principi fondamentali dell'open
 source è che un software adottato da più parti, e dunque
 sufficientemente generalizzato, è più robusto di un software molto
 specializzato utilizzato da pochi utenti o addirittura da un singolo
@@ -108,16 +108,16 @@ singolarmente.
 ------------------------------------------------------
 
 In caso di modifica di un software open source di terzi (non preso a
-riuso da un’altra Amministrazione) il cui maintainer abbia recepito
+riuso da un'altra Amministrazione) il cui maintainer abbia recepito
 integralmente le proposte di modifica inviate dal Fornitore (v.
 paragrafo precedente), il Fornitore è comunque tenuto a pubblicare il
-codice nel repository dell’Amministrazione per metterlo a riuso,
+codice nel repository dell'Amministrazione per metterlo a riuso,
 specificando nel README che tale codice è stato recepito dal progetto
 originale, con un link al repository dello stesso.
 
 Si ricorda infatti che, come prescritto dalle Linee Guida, il “software
 a riuso” è il software rilasciato da una Amministrazione in adempimento
-all’art. 69 del CAD; se dunque una Amministrazione adotta un software
+all'art. 69 del CAD; se dunque una Amministrazione adotta un software
 open source di terzi, è tenuta a metterlo a riuso, pubblicandolo essa
 stessa perché sia chiara ad altre Amministrazioni la provenienza di tale
 software.

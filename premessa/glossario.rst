@@ -5,7 +5,7 @@ Codice sorgente
     Il codice sorgente (spesso detto semplicemente “sorgente”) è il
     testo di un programma scritto in un linguaggio di programmazione
     (es. C o Visual Basic) dal quale si deriva il programma finale che
-    l’utente usa. L’accesso al codice sorgente è essenziale per poter
+    l'utente usa. L'accesso al codice sorgente è essenziale per poter
     modificare un programma.
 
 Community
@@ -40,9 +40,9 @@ Lock-in
     svincolarsi da una scelta tecnologica precedentemente effettuata.
     Tale incapacità è tipicamente causata degli elevati costi legati al
     cambio di tecnologia ma, in molti casi, può anche dipendere
-    dall’adozione di soluzioni proprietarie che impediscono di
-    effettuare migrazioni. L’utilizzo di formati aperti per il
-    salvataggio dei dati, e l’accesso libero a questi dati (soprattutto
+    dall'adozione di soluzioni proprietarie che impediscono di
+    effettuare migrazioni. L'utilizzo di formati aperti per il
+    salvataggio dei dati, e l'accesso libero a questi dati (soprattutto
     nel caso di soluzioni SaaS) sono prerequisiti per evitare fenomeni
     di lock-in.
 
@@ -53,7 +53,7 @@ Open Source
     software; per fare ciò, è necessario anche che il codice sorgente
     sia liberamente disponibile. Altrimenti detto “software libero”,
     “software aperto” o “software rilasciato sotto licenza aperta”.
-    L’ente certificatore delle licenze software corrispondenti a questa
+    L'ente certificatore delle licenze software corrispondenti a questa
     definizione è Open Source Initiative (OSI).
 
 Riuso
@@ -68,7 +68,7 @@ Riuso
 SaaS
     Software as a Service. Indica una modalità di distribuzione del
     software che non viene installato sulle postazioni degli operatori,
-    ma che avviene attraverso l’accesso remoto a un server, per esempio
+    ma che avviene attraverso l'accesso remoto a un server, per esempio
     collegandosi con un browser ad un indirizzo. Wikipedia, per esempio,
     è un software distribuito in modalità Software as a Service.
 

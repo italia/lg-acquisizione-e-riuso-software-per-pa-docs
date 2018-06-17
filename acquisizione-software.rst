@@ -1,4 +1,4 @@
-Linee Guida sull’acquisizione di software
+Linee Guida sull'acquisizione di software
 =========================================
 
 .. toctree::

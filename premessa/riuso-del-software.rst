@@ -11,8 +11,8 @@ possono rappresentare un “valore aggiunto” per il nuovo soggetto
 utilizzatore.
 
 Un aspetto fondamentale del riuso nel contesto della Pubblica
-Amministrazione è che l’Amministrazione che “riusa” riceve il software
-gratuitamente dall’Amministrazione cedente, e lo acquisisce sostenendo
+Amministrazione è che l'Amministrazione che “riusa” riceve il software
+gratuitamente dall'Amministrazione cedente, e lo acquisisce sostenendo
 solo le spese di suo adattamento, ma non quelle di progettazione e
 realizzazione.
 
