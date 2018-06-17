@@ -1,3 +1,4 @@
+.. _guida-manutenzione:
 
 Allegato C: Guida alla manutenzione di software open source
 ===========================================================

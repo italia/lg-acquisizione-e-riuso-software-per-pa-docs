@@ -1,3 +1,5 @@
+.. _manutenzione-software:
+
 Manutenzione di un software da parte dell'amministrazione titolare
 ------------------------------------------------------------------
 
@@ -15,18 +17,17 @@ questi miglioramenti.
 Titolarità del codice sviluppato in fase di manutenzione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Come già discusso in `Titolarità <premessa.html#titolarita>`__,
-l'amministrazione deve assicurarsi la piena titolarità del software
-realizzato ex novo. Si rimanda al citato paragrafo per ulteriori
+Come già discusso in :ref:`titolarita`,
+l'amministrazione deve assicurarsi la piena titolarità
+del software realizzato ex novo, ivi comprese ogni porzione realizzata
+durante un contratto di manutenzione. Si rimanda al citato paragrafo per ulteriori
 informazioni.
 
 Rilascio sotto licenza aperta delle modifiche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per rilasciare le modifiche ad un software, non è possibile utilizzare
-il processo descritto precedentemente in `Rilascio di nuovo software
-sotto licenza
-aperta <#rilascio-di-nuovo-software-sotto-licenza-aperta>`__; tale
+il processo descritto precedentemente in :ref:`rilascio-nuovo-sofware`; tale
 processo infatti, indipendentemente dall'entità della modifica,
 creerebbe un secondo repositorio di codice sorgente disgiunto
 dall'originale, causando costi elevati per qualunque amministrazione
@@ -46,13 +47,13 @@ registrazione del software in Developers Italia), affinché altre
 amministrazioni possano tenerne conto nella fase di valutazione
 comparativa.
 
-Il processo completo è descritto, nei suoi dettagli tecnici,
-nell'allegato C: `Guida alla manutenzione di software Open
-Source <../attachments/allegato-c-guida-alla-manutenzione-di-software-open-source.html>`__.
-In caso di appalto, si richiede che l'amministrazione **alleghi la Guida
-tra i documenti tecnici di gara**, per esempio come allegato al
-capitolato tecnico, in modo che i fornitori abbiano evidenza immediata
-del processo richiesto.
+Il processo completo è descritto, nei suoi dettagli tecnici, in
+:ref:`guida-manutenzione`. In caso di appalto, si richiede che
+l'amministrazione **alleghi la Guida tra i documenti tecnici di gara**,
+per esempio come allegato al capitolato tecnico, in modo che i fornitori
+abbiano evidenza immediata del processo richiesto.
+
+.. _supporto-amministrazioni-che-riusano:
 
 Supporto alle amministrazioni che riusano
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,9 +76,7 @@ piani di sviluppo e dunque investimenti tra più amministrazioni sul
 medesimo software, con risparmio per la finanza pubblica.
 
 Anche questo processo di supporto alla modifica di un software è
-dettagliato nello stesso allegato C: `Guida alla manutenzione di
-software Open
-Source <../attachments/allegato-c-guida-alla-manutenzione-di-software-open-source.html>`__.
+dettagliato nella stessa guida :ref:`guida-manutenzione`.
 
 Software non ancora rilasciato sotto licenza aperta
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

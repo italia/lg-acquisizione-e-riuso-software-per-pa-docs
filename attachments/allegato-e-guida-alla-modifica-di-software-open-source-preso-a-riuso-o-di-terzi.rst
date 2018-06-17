@@ -1,3 +1,5 @@
+.. _guida-modifica:
+
 Allegato E: Guida alla modifica di software open source preso a riuso o di terzi
 ================================================================================
 

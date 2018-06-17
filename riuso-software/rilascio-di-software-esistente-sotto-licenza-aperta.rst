@@ -1,3 +1,5 @@
+.. _rilascio-software-esistente:
+
 Rilascio di software esistente sotto licenza aperta
 ---------------------------------------------------
 
@@ -18,8 +20,7 @@ a prescindere dall'esigenza di rispettare tali obblighi in occasione del
 perfezionamento di nuovi contratti, ogni amministrazione è tenuta a
 darvi tempestiva attuazione **anche con riferimento al software già
 esistente ove sia titolare dei relativi diritti di proprietà
-intellettuale e industriale** (come indicato in
-`Titolarità <../premessa/titolarita.html>`__).
+intellettuale e industriale** (come indicato in :ref:`titolarita`).
 
 Dare attuazione a tali obblighi sul software già esistente costituisce
 un aspetto essenziale per la massimizzazione dell'efficacia della

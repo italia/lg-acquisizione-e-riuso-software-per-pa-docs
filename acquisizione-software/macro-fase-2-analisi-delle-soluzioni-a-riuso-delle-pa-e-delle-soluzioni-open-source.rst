@@ -20,8 +20,10 @@ pubblico sotto licenza aperta.
 
 Per approfondimenti in merito si rimanda a :ref:`riuso`.
 
-Fase 2.1: Selezione soluzioni riusabili per la PA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _ricerca-soluzioni-riusabili:
+
+Fase 2.1: Ricerca soluzioni riusabili per la PA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L'amministrazione individua le "soluzioni a riuso delle PA" candidate a
 soddisfare le proprie esigenze.
@@ -35,6 +37,9 @@ La presente fase si conclude con la:
 
 -  individuazione delle "soluzioni a riuso delle P.P.A.A." di interesse
    per la Pubblica amministrazione.
+
+
+.. _valutazione-soluzioni-riusabili:
 
 Fase 2.2: Valutazione soluzioni riusabili per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -151,8 +156,8 @@ installazione, formazione), la stessa acquisisce tali servizi così come
 previsto dal D.Lgs. 50/2016 s.m.i. (di seguito *Codice
 dei contratti pubblici*).
 
-Fase 2.4: Selezione soluzioni Open Source
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fase 2.4: Ricerca soluzioni Open Source
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se non è possibile individuare una "soluzione a riuso della PA",
 l'amministrazione DEVE ampliare la ricerca delle soluzioni da

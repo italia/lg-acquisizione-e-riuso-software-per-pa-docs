@@ -1,3 +1,5 @@
+.. _guida-pubblicazione:
+
 Allegato B: Guida alla pubblicazione open source di software realizzato per la P.A.
 ===================================================================================
 
@@ -406,6 +408,8 @@ https://securitytxt.org. Tale file è
 finalizzato a fornire informazioni utili a chi rilevi vulnerabilità ed
 intenda inviare segnalazioni di sicurezza.
 
+.. _registrazione-repository:
+
 11. Registrazione del repository su Developers Italia
 -----------------------------------------------------
 
@@ -426,19 +430,13 @@ La registrazione avviene seguendo due passaggi:
    https://github.com/italia/publiccode.yml
 
 2) **Aggiunta dello strumento di code-hosting al motore di ricerca.** Al
-   fine di accertarsi che Developers Italia rilevi automaticamente il
-   file, è necessario verificare che lo strumento di code-hosting
-   prescelto sia già noto all'indicizzatore automatico di Developers
-   Italia. A tale scopo è possibile consultare la lista presente in
-   Developers Italia. In caso negativo (ad esempio: un'istanza
-   on-premise di GitLab di proprietà di una amministrazione), è
-   necessario aggiungere l'indirizzo dello strumento al motore di
-   ricerca di Developers Italia (il quale non scansiona tutta Internet,
-   ma solo i siti conosciuti). Per fare questo, è sufficiente `aprire
-   un ticket nel repository del sito di Developers
-   Italia <https://github.com/italia/developers.italia.it/issues/new>`__,
-   indicando l'indirizzo della piattaforma di cui si richiede l'aggiunta
-   all'indicizzazione.
+   fine di accertarsi che Developers Italia identifichi correttamente
+   il repository come di proprietà della pubblica amministrazione, è
+   necessario registrare lo strumento di code-hosting (o meglio,
+   la "organizzazione" all'interno dello stesso) la prima volta che viene
+   usato, associandolo alla Pubblica Amministrazione. La procedura
+   è da seguire è dettagliata qui:
+   https://onboarding.developers.italia.it
 
 .. discourse::
    :topic_identifier: 2862

@@ -1,3 +1,5 @@
+.. _guida-licenze:
+
 Allegato D: Guida alle licenze Open Source
 ==========================================
 

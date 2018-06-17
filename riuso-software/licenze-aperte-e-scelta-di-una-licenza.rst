@@ -1,3 +1,5 @@
+.. _licenze:
+
 Licenze aperte e scelta di una licenza
 --------------------------------------
 
@@ -66,11 +68,10 @@ licenza (o combinazione) un codice e un'espressione univoci. Un elenco
 aggiornato dei codici e dei rispettivi testi di licenza è disponibile
 all'indirizzo: https://spdx.org/licenses/.
 
-L'allegato D (`Guida alle licenze Open
-Source <../attachments/allegato-d-guida-alle-licenze-open-source.html#guida-alle-licenze-open-source>`__)
-contiene una guida per approfondire il tema delle licenze Open Source,
-che delinea una categorizzazione dei principali tipi di licenza e delle
-loro caratteristiche.
+In allegato alle linee guida (:ref:`guida-licenze`) si trova una guida
+per approfondire il tema delle licenze Open Source, che delinea una
+categorizzazione dei principali tipi di licenza e delle loro
+caratteristiche.
 
 Scelta di una licenza
 ~~~~~~~~~~~~~~~~~~~~~
@@ -135,8 +136,7 @@ licenza aperta:
    scelta in quanto permette un riutilizzo semplice della documentazione
    e degli esempi di codice in essa contenuta.
 
-Si rimanda alla `Guida alla pubblicazione di software Open
-Source <../attachments/allegato-b-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.html#scelta-della-licenza>`__ per i
+Si rimanda a :ref:`guida-pubblicazione` per i
 dettagli tecnici su come apporre correttamente il testo di una licenza
 al codice sorgente nel momento della pubblicazione.
 

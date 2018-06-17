@@ -8,10 +8,8 @@ del presente documento.
 **Fase di sviluppo**
 
 1. L'amministrazione "A", effettuando la valutazione comparativa
-   prevista dall'art. 68, secondo quanto descritto nelle `Linee Guida
-   sull'acquisizione di soluzioni
-   software <../acquisizione-software.html>`__ di
-   queste linee guida, decide che, per soddisfare le proprie esigenze,
+   prevista dall'art. 68, secondo quanto descritto in
+   ref:`acquisizione`, decide che, per soddisfare le proprie esigenze,
    deve necessariamente ricorrere alla realizzazione integrale di un
    software ex novo o la personalizzazione di un software Open Source
    esistente
@@ -20,39 +18,33 @@ del presente documento.
    richiesto dall'art. 69 comma 2, l'amministrazione si garantisce
    l'acquisizione della titolarità di tutti i diritti di proprietà
    intellettuale e industriale sul software commissionato
-   (`Titolarità <../premessa/titolarita.html>`__).
+   (:ref:`titolarita`).
 3. Durante il corso della realizzazione del software e/o al termine
-   della stessa, l'amministrazione rilascia il codice sorgente del
+   della stessa, l'amministrazione pubblica il codice sorgente del
    proprio software sotto una **licenza aperta**, in una piattaforma che
-   rispetta i requisiti identificati in queste linee guida (`Scelta di
-   uno strumento di code
-   hosting <processo-di-messa-a-riuso-del-software-sotto-licenza-aperta.html#scelta-di-uno-strumento-di-code-hosting>`__), registrandone
-   poi il rilascio dentro Developers Italia (`Sviluppo di software
-   ex novo <sviluppo-di-software-ex-novo.html>`__).
+   rispetta i requisiti identificati in queste linee guida
+   (:ref:`scelta-code-hosting`), registrandone poi il rilascio dentro
+   Developers Italia (:ref:`sviluppo-nuovo-software`).
 
 **Fase di riuso**
 
 1. L'amministrazione "B", che necessita di un simile software, durante
    la fase di valutazione comparativa, trova il software messo a riuso
-   dall'amministrazione "A", all'interno di Developers Italia (`Fase
-   2.1: Selezione soluzioni riusabili per la
-   PA <../acquisizione-software/macro-fase-2-analisi-delle-soluzioni-a-riuso-delle-pa-e-delle-soluzioni-open-source.html#fase-2-1-selezione-soluzioni-riusabili-per-la-pa>`__).
+   dall'amministrazione "A", all'interno di Developers Italia (:ref:`ricerca-soluzioni-riusabili`).
 2. La licenza aperta consente all'amministrazione "B" di acquisire ed
    utilizzare il software dell'amministrazione "A" senza necessità di
    sottoscrivere alcuna convenzione, sottostando ai termini della
    licenza stessa.
 3. L'amministrazione "B" effettua una valutazione dello stato del
-   software e dell'applicabilità al proprio contesto (`Fase 2.1:
-   Selezione soluzioni riusabili per la
-   PA <../acquisizione-software/macro-fase-2-analisi-delle-soluzioni-a-riuso-delle-pa-e-delle-soluzioni-open-source.html#fase-2-1-selezione-soluzioni-riusabili-per-la-pa>`__),
+   software e dell'applicabilità al proprio contesto
+   (:ref:`valutazione-soluzioni-riusabili`),
    inclusa l'eventuale necessità di una personalizzazione.
 4. Se il software viene personalizzato, ove possibile, tale
    personalizzazione (in quanto sviluppo su specifica indicazione
    dell'amministrazione "B") è anch'essa soggetta a quanto prescritto
    dall'art. 69 comma 1, ed è quindi necessario rilasciare il relativo
-   codice sorgente sotto **licenza aperta** (`Modifiche ad un software
-   sotto licenza
-   aperta <riuso-di-un-software-o-utilizzo-di-un-software-open-source.html#modifiche-ad-un-software-a-riuso-o-open-source>`__).
+   codice sorgente sotto **licenza aperta** (
+   :ref:`riuso-software-utilizzo-software-open-source`).
 
 Il modello del riuso tramite software Open Source consente quindi di
 trovare un software, valutarlo e personalizzarlo **senza stipulare
