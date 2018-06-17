@@ -1,3 +1,5 @@
+.. _acquisizione:
+
 Linee Guida sull'acquisizione di software
 =========================================
 

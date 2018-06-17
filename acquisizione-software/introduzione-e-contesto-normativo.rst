@@ -44,9 +44,6 @@ catalogo, abrogato dal CAD, sono assunte dalla piattaforma Developers
 Italia (https://developers.italia.it), individuata da queste linee
 guida.
 
-.. note::
-   Al momento della messa in consultazione delle seguenti Linee Guida, la piattaforma Developers Italia non comprende ancora la nuova sezione necessaria ad implementare quanto richiesto dalle linee guida. Si prevede infatti di costruire un motore di ricerca che aiuti l'utente a trovare il software di cui ha bisogno, e che esponga in modo chiaro le caratteristiche utili ad effettuare una selezione, ai sensi dell'art. 68 del CAD [2]_.
-
 Il presente documento ribadisce che i "principi di economicità e di
 efficienza, tutela degli investimenti, riuso e neutralità tecnologica"
 (comma 1 dell'art. 68 del CAD [2]_) si raggiungono attuando quanto

@@ -10,13 +10,13 @@ Le presenti linee guida attuano quanto stabilito dagli articoli 68 e 69
 del *Codice dell'Amministrazione Digitale* (di seguito CAD):
 
 -  come disposto dall'articolo 68, comma 1 ter, individuano nel capitolo
-   *2. Linee Guida sull'acquisizione di soluzioni software* le modalità
+   :ref:`acquisizione` le modalità
    e i criteri con i quali un'amministrazione deve effettuare la
    valutazione comparativa descritta nel medesimo articolo per decidere
    la modalità di acquisizione di un software.
 
 -  come statuito dall'articolo 69, comma 2bis, individuano nel capitolo
-   *3. Linee Guida sul riuso del Software (art. 69)* la piattaforma per
+   :ref:`riuso` la piattaforma per
    la pubblicazione di codice sorgente sotto licenza aperta e
    documentazione del software messo a riuso dalle amministrazioni,
    indicando anche le modalità tecniche di utilizzo.

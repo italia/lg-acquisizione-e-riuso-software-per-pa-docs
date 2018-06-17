@@ -10,6 +10,8 @@ valutazione delle soluzioni.
 
 |image2-macro-fase-1|
 
+.. _analisi-del-fabbisogno:
+
 Fase 1.1: Analisi del fabbisogno
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -29,7 +31,8 @@ Le attività previste nella presente fase sono:
    acquisire;
 -  identificazione degli "strumenti" (definizione degli obiettivi)
    necessari alla realizzazione dei processi operativi individuati;
--  enunciazione dei requisiti eventualmente prevedendo una casistica tra
+-  enunciazione dei requisiti, cioè dei bisogni a cui il software
+   deve rispondere, prevedendo una differenziazione tra requisiti
    indispensabili e non.
 
 La presente fase si conclude con la:
@@ -53,6 +56,14 @@ Le attività previste in questa fase sono:
 -  stima dei **tempi per la messa in esercizio** (di seguito
    T\ :sub:`tempi`) della soluzione che la Pubblica amministrazione può
    assorbire;
+-  eventuali norme e linee guida che il software dovrà seguire nella
+   propria implementazione tecnica, come per esempio:
+
+      - `Linee Guida AgID sul Design <https://designers.italia.it/guide/>`__
+        (che includono anche l'adempimento alla Legge 4/2004 sull'accessibilità);
+      - Linee Guida AgID sull'Interoperabilità;
+      - `Linee Guida AgiD sullo sviluppo di software sicuro <https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro>`__.
+
 -  eventuali altri vincoli di interesse dell'amministrazione.
 
 La presente fase si conclude con la:

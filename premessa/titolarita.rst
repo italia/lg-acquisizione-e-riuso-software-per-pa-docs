@@ -1,3 +1,5 @@
+.. _titolarita:
+
 Titolarità
 ----------
 
@@ -9,10 +11,9 @@ su proprie specifiche indicazioni ogni qualvolta che:
    appalto o altra fattispecie negoziale avente analoga natura, anche a
    prescindere dal titolo dato al contratto - e il **contratto preveda
    l'acquisizione in capo ad essa di tutti i diritti di proprietà
-   intellettuale e industriale** sul software sviluppato, o comunque
-   l'acquisizione della titolarità risulti eccessivamente onerosa (per
-   esempio nei casi in cui la titolarità è acquisibile solo attraverso
-   l'acquisizione dei diritti di software proprietario);
+   intellettuale e industriale** sul software sviluppato su committenza
+   della Pubblica amministrazione, o comunque non attribuisca tale
+   titolarità in capo all'appaltatore o a terzi.
 -  il software sia stato realizzato da risorse interne
    all'amministrazione stessa.
 
@@ -22,6 +23,13 @@ dell'esecuzione del contratto, la piena ed esclusiva titolarità di tutti
 i diritti sul software oggetto di sviluppo, salvo che questo risulti
 eccessivamente oneroso per comprovate ragioni di carattere
 tecnico-economico (dal comma 2 dell'articolo 69 del CAD).
+
+Per software oggetto di sviluppo, si intendono le parti di software
+effettivamente sviluppate in esecuzione del contratto; resta inteso che
+lo sviluppo potrebbe basarsi sull'utilizzo di componenti software già
+esistenti (es: librerie e framework open source di terzi) per le quali
+non è necessario acquisire titolarità ma solo licenza d'uso (che
+dev'essere compatibile con le finalità di riuso),
 
 La mancata acquisizione della titolarità dell'opera non può essere
 utilizzata per ottenere condizioni economiche più vantaggiose, poiché
@@ -35,7 +43,7 @@ interfacciarsi con un software proprietario. In tal caso, l'obbligo di
 cui all'art. 69 avrà ad oggetto esclusivamente il modulo o la parte del
 software oggetto di sviluppo; tale modulo dovrà quindi essere separato
 dal resto del software e rilasciato secondo le modalità indicate in
-*3.7. Sviluppo di nuovo software*, avendo cura di indicare la necessaria
+:ref:`sviluppo-nuovo-software`), avendo cura di indicare la necessaria
 dipendenza proprietaria nella documentazione.
 
 Ad esempio, espressioni come quelle che seguono, ove presenti nei

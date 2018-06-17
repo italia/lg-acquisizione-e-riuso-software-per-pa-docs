@@ -32,6 +32,8 @@ aperta <#rilascio-di-software-esistente-sotto-licenza-aperta>`__), sia
 per il software che verrà realizzato in futuro (`Sviluppo di software
 ex novo <#sviluppo-di-software-ex-novo>`__).
 
+.. _scelta-code-hosting:
+
 Scelta di uno strumento di code hosting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

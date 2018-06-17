@@ -22,15 +22,28 @@ relativi allegati.
 
 Questo documento e la metodologia in esso descritta sono da intendersi
 come ausilio a un percorso decisionale che rimane sotto la piena
-responsabilità dell'amministrazione, nel rispetto della normativa
-vigente, in particolare di quella in materia di pubblica amministrazione
-digitale e di protezione dei dati personali. Con riferimento a
-quest'ultimo settore del diritto, il Regolamento UE 2016/679 ha
-definito/precisato principi e criteri particolarmente rilevanti rispetto
-all'oggetto delle presenti linee guida. Tra detti principi e criteri, si
-evidenzia l'esigenza di considerare la protezione dei dati fin dalla
-progettazione e per impostazione predefinita (art. 25 Regolamento
-citato).
+responsabilità delle amministrazioni, sia nel momento in cui condividano
+le soluzioni sia quando le adottino in riuso nel rispetto della
+normativa vigente, in particolare in materia di pubblica amministrazione
+digitale, contratti pubblici e protezione dei dati personali. Con
+riferimento a quest'ultimo settore del diritto, il Regolamento UE
+2016/679 ha definito/precisato principi e criteri particolarmente
+rilevanti rispetto all'oggetto delle presenti linee guida. Tra detti
+principi e criteri, si evidenzia l'esigenza di considerare la protezione
+dei dati fin dalla progettazione e per impostazione predefinita (art. 25
+Regolamento citato). Non andrà trascurato, altresì, il complesso delle
+regole tecniche di AgID che possono avere incidenza sulla materia, quali
+le `Misure Minime di Sicurezza (circolare 2/2017)
+<https://www.agid.gov.it/index.php/it/sicurezza/misure-minime-sicurezza-
+ict>`__ e le `Linee guida per lo sviluppo del software sicuro <http://ww
+w.agid.gov.it/sites/default/files/repository_files/documentazione/linee_
+guida_per_lo_sviluppo_sicuro_di_codice_v1.0.pdf>`__.
+
+Il presente documento si pone come punto di avvio di un processo
+culturale che veda le PP.AA. protagoniste di un sempre maggiore ricorso
+al software aperto. Ciò non si esaurisce in uno strumento regolatorio
+bensì richiede processi di accompagnamento, sensibilizzazione ed
+informazione.
 
 L'amministrazione è il soggetto che meglio conosce le proprie esigenze
 ed è in grado di declinare la metodologia qui proposta, in coerenza sia

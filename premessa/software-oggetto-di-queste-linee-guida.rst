@@ -15,7 +15,14 @@ oggetto di queste linee guida è il seguente:
 -  Framework
 -  Librerie
 -  Plugin
+-  Sistemi operativi
 -  Siti web (frontend e backend)
+
+Inoltre, è importante notare che il termine “software”, come usato in
+questo documento, non designa solo il mero codice sorgente e/o
+l’eseguibile, ma anche tutti gli artefatti prodotti durante il processo
+di sviluppo e utilizzo del software, cioè documentazione, asset grafici,
+manuali, ecc., così come esplicitato nel comma 1 dell’articolo 69.
 
 .. discourse::
    :topic_identifier: 2858

@@ -7,8 +7,15 @@ stato originariamente realizzato, al fine di soddisfare esigenze
 similari a quelle che portarono al suo primo sviluppo. Il prodotto
 originario viene "trasportato" nel nuovo contesto arricchendolo, se
 necessario, di ulteriori funzionalità e caratteristiche tecniche che
-possono rappresentare un "valore aggiunto" per il nuovo soggetto
-utilizzatore.
+possono rappresentare un "valore aggiunto" per i suoi utilizzatori.
+
+Si chiarisce che, dal combinato disposto degli articoli 68 e 69 del CAD,
+il software in riuso è esclusivamente quello rilasciato sotto licenza
+aperta da una pubblica amministrazione. Questo è dunque un sottoinsieme
+di tutto il software open source disponibile per l'acquisizione. Le
+presenti linee guida distinguono ove necessario le modalità di
+acquisizione di software a riuso rispetto a software open source di
+terzi.
 
 Un aspetto fondamentale del riuso nel contesto della Pubblica
 Amministrazione è che l'Amministrazione che "riusa" riceve il software

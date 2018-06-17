@@ -2,13 +2,13 @@ Macro fase 2: Analisi delle soluzioni a riuso delle PA e delle soluzioni Open So
 ------------------------------------------------------------------------------------
 
 La pubblica amministrazione, a partire dalla disponibilità di "soluzioni
-a riuso delle PA" e "soluzioni Open Source", DEVE verificare il
+a riuso delle PA" e "soluzioni Open Source", deve verificare il
 soddisfacimento delle proprie esigenze in tali soluzioni.
 
 |image3-macro-fase-2|
 
 Al fine di razionalizzare la spesa complessiva delle pubbliche
-amministrazioni la verifica di soddisfacimento delle esigenze DEVE prima
+amministrazioni la verifica di soddisfacimento delle esigenze deve prima
 considerare le "soluzioni a riuso delle PA" e successivamente le
 "soluzioni Open Source".
 
@@ -18,8 +18,7 @@ assicura che le "soluzioni a riuso delle PA" rendano disponibile il
 relativo codice sorgente, completo della documentazione, in repertorio
 pubblico sotto licenza aperta.
 
-Per approfondimenti in merito si rimanda alle `Linee Guida sul riuso del
-Software <../riuso-software.html>`__.
+Per approfondimenti in merito si rimanda a :ref:`riuso`.
 
 Fase 2.1: Selezione soluzioni riusabili per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -30,8 +29,7 @@ soddisfare le proprie esigenze.
 Le attività previste in questa fase sono:
 
 -  ricerca delle "soluzioni a riuso delle P.P.A.A." presenti all'interno
-   della piattaforma Developers Italia, oppure tramite altri strumenti
-   di ricerca e indicizzazione.
+   della piattaforma Developers Italia.
 
 La presente fase si conclude con la:
 
@@ -45,26 +43,28 @@ Se la precedente fase 2.1 ha permesso di individuare almeno una delle
 "soluzioni a riuso delle PA" potenzialmente di interesse per la Pubblica
 amministrazione, attraverso la realizzazione della presente fase di
 valutazione si provvede ad individuare la "soluzione a riuso della PA"
-migliore.
+migliore. Sono eleggibili in questa fase anche soluzioni che soddisfano la
+maggior parte dei requisiti e hanno bisogno di modifiche o personalizzazioni.
 
 Per ognuna delle "soluzioni a riuso delle PA" potenzialmente d'interesse
 si provvede a:
 
--  verificare:
+-  verificare in prima battuta la conformità almeno dichiarata alle
+   normative vigenti, come rinvenibile nella scheda del software
+   presente su Developers Italia. In particolare:
 
    -  la conformità alle regole sull'interoperabilità prescritte dalle
       linee guida emanate in attuazione dell'articolo 73 del CAD;
    -  la conformità alle normative sulla protezione dei dati personali;
    -  la conformità ai livelli minimi di sicurezza previsti per le
       pubbliche amministrazioni.
+   -  la conformità ai requisiti di accessibilità (Legge 4/2004).
 
--  calcolare il valore della soluzione attraverso i seguenti parametri
-   (alcuni dei quali possono essere rinvenuti anche tramite la
-   piattaforma Developers Italia):
+-  valutare la qualità della soluzione attraverso i seguenti parametri,
+   alcuni dei quali possono essere rinvenuti nella scheda del software
+   presente su Developers Italia:
 
-   -  percentuale di copertura dei requisiti desiderati, funzionali e
-      non funzionali, considerando la differenziazione tra
-      indispensabili e non;
+   -  grado di copertura dei requisiti, funzionali e non funzionali;
    -  presenza di un manutentore del software in questione;
    -  eventuale presenza di accordi con terzi stipulati
       dall'amministrazione titolare e utilizzabili dall'amministrazione
@@ -83,16 +83,16 @@ si provvede a:
       merito alla gestione degli ambienti e dei linguaggi utilizzati
       nella soluzione;
    -  numero e tipologia di altre pubbliche amministrazioni che
-      utilizzano il progetto Open Source;
-   -  sostenibilità del progetto Open Source attraverso la valutazione
-      di indicatori visibili sul repository Open Source, quali per
+      utilizzano il progetto open source;
+   -  vitalità del progetto open source, attraverso la valutazione
+      di indicatori visibili sul repository, quali per
       esempio frequenza delle modifiche (*code activity*), frequenza dei
       rilasci (*release history*), comunità degli utenti (*user
-      community*), longevità del progetto (*longevity*).
+      community*), longevità del progetto (*longevity*), numero
+      sviluppatori unici.
 
 -  stimare il Total Cost of Ownership (S\ :sub:`TCO`) come descritto in
-   `Total Cost of Ownership (TCO) <total-cost-of-ownership-tco.html>`__, con
-   particolare attenzione a:
+   :ref:`tco`, con particolare attenzione a:
 
    -  eventuali costi di installazione del software nel Cloud della PA
       oppure costi per fruizione del software tramite modalità SaaS ove
@@ -103,9 +103,11 @@ si provvede a:
       degli utenti finali;
    -  eventuali costi necessari all'integrazione della soluzione con i
       propri sistemi;
-   -  eventuali costi di personalizzazione, necessari ad assicurare la
-      copertura di tutti i requisiti funzionali e non funzionali,
-      indispensabili e non indispensabili.
+   -  eventuali costi di personalizzazione, compresi quelli necessari
+      ad assicurare dei requisiti funzionali e non funzionali,
+      non già presenti nel software a riuso;
+   -  eventuali costi per la verifica di compliance alle normative
+      vigenti.
 
 -  stimare i tempi per la messa in produzione della soluzione (di
    seguito S\ :sub:`tempi`);
@@ -117,20 +119,16 @@ punti la pubblica amministrazione dovrà provvedere, ove non già in suo
 possesso, a recuperare tutte le necessarie informazioni nelle modalità
 previste dalla norma.
 
-Tra quelle soluzioni che rientrino nei vincoli di bilancio, tempo, e
-soddisfino le condizioni minime per quanto riguarda altri vincoli
-specifici:
+Pertanto se:
 
 -  Il costo (TCO) rientri nei vincoli di bilancio stabiliti
    (S\ :sub:`TCO`\ < T\ :sub:`bilancio`);
--  I tempi di messa in produzione siano compatibili con i tempi stimati
+-  I tempi di messa in produzione sono compatibili con i tempi stimati
    (S\ :sub:`tempi`\ < T\ :sub:`tempi`);
--  Rispetti gli altri vincoli ostativi.
+-  Sono rispettati eventuali altri vincoli ostativi.
 
-
-Se i vincoli sono soddisfatti, l'amministrazione individua la soluzione
-più rispondente alle proprie esigenze in base alla valutazione
-effettuata.
+l'amministrazione individua la soluzione più rispondente alle proprie
+esigenze in base alla valutazione effettuata.
 
 La presente fase si conclude con la:
 
@@ -143,15 +141,14 @@ Fase 2.3: Approvvigionamento della soluzione riusabile per la PA
 Ove a seguito della precedente fase 2.2 l'amministrazione abbia
 determinato una "soluzione a riuso della PA" che soddisfa le sue
 esigenze, provvede all'approvvigionamento. Il processo di riuso è
-descritto in *3.9. Riuso di un software rilasciato sotto licenza
-aperta*.
+descritto in :ref:`riuso-software-utilizzo-software-open-source`.
 
 **La valutazione comparativa si considera conclusa.**
 
 Nel caso in cui la Pubblica Amministrazione debba sostenere dei costi
 durante la fase di approvvigionamento (es: personalizzazione,
-installazione, formazione), la stessa acquisisce tali servizi accedendo
-alla procedura indicata dal D.Lgs. 50/2016 s.m.i. (di seguito *Codice
+installazione, formazione), la stessa acquisisce tali servizi così come
+previsto dal D.Lgs. 50/2016 s.m.i. (di seguito *Codice
 dei contratti pubblici*).
 
 Fase 2.4: Selezione soluzioni Open Source
@@ -162,21 +159,27 @@ l'amministrazione DEVE ampliare la ricerca delle soluzioni da
 considerare per il soddisfacimento delle proprie esigenze alle
 "soluzioni Open Source", cioè software rilasciato sotto licenza aperta
 ma non di titolarità di una Pubblica Amministrazione e quindi non
-pubblicato a riuso.
+pubblicato a riuso. Sono eleggibili in questa fase anche soluzioni che
+soddisfano la maggior parte dei requisiti e hanno bisogno di modifiche
+o personalizzazioni.
+
 
 Le attività previste nella presente fase sono:
 
 -  ricerca di progetti di software Open Source la cui titolarità è
    attribuita a soggetti diversi dalle pubbliche amministrazioni. Tale
-   ricerca può essere effettuata sia con gli strumenti messi a
-   disposizione su Developers Italia, sia su altre piattaforme
-   internazionali che gestiscono progetti di software Open Source.
+   ricerca deve almeno essere effettuata con gli strumenti messi a
+   disposizione su Developers Italia, e può anche essere estesa su altre
+   piattaforme internazionali che gestiscono progetti di software
+   Open Source.
 
-La ricerca effettuata dalla pubblica amministrazione DEVE verificare:
+La ricerca effettuata dalla pubblica amministrazione deve verificare:
 
--  se la licenza sotto la quale il software è distribuito è certificata
-   da OSI (`lista
-   completa <https://opensource.org/licenses/alphabetical>`__).
+-  se la licenza sotto la quale il software è tra quelle suggerite nel
+   presente documento o certificata da OSI (`lista completa
+   <https://opensource.org/licenses/alphabetical>`__).
+-  se la licenza è compatibile con le licenze di software con cui la
+   si vuole integrare e/o con l'uso che se ne vuole fare;
 
 La presente fase si conclude con la:
 
@@ -188,12 +191,14 @@ Fase 2.5: Valutazione soluzioni Open Source
 
 Se la precedente fase 2.4 ha permesso di individuare almeno una delle
 "soluzioni Open Source" potenzialmente di interesse, attraverso la fase
-di valutazione si individua la "soluzione Open Source" migliore.
+di valutazione si individua la "soluzione Open Source" migliore per le
+esigenze della Pubblica Amministrazione.
 
-Le attività previste in questa fase sono le stesse della fase 2.2. La
-scelta di una "soluzione Open Source" DEVE considerare come vantaggiosa
-la circostanza che la soluzione sia già stata utilizzata da una o più
-pubbliche amministrazioni.
+La valutazione del software open source in questa fase deve seguire gli
+stessi criteri di valutazione descritti per la fase 2.2. Si consideri
+quindi la fase 2.5 come un doppione della fase 2.2, applicata ad un
+diverso insieme di software (open source di terzi invece che software a
+riuso).
 
 La presente fase si conclude con la:
 
@@ -206,24 +211,24 @@ Fase 2.6: Approvvigionamento della soluzione Open Source
 Ove a seguito della precedente fase 2.5 l'amministrazione abbia
 individuato una "soluzione Open Source" che soddisfa le sue esigenze,
 procede all'acquisizione. Il processo di acquisizione è descritto in
-`Riuso di un software o utilizzo di un software Open
-Source <../riuso-software/riuso-di-un-software-o-utilizzo-di-un-software-open-source.html>`__.
+:ref:`riuso-software-utilizzo-software-open-source`.
 
 **La valutazione comparativa si considera conclusa**.
 
 Nel caso in cui la Pubblica Amministrazione debba sostenere dei costi
 durante la fase di approvvigionamento (es: personalizzazione,
-installazione, formazione), la stessa acquisisce tali servizi accedendo
-alla procedura indicata dal *Codice dei contratti pubblici*.
+installazione, formazione), la stessa acquisisce tali servizi così come
+previsto dal *Codice dei contratti pubblici*.
 
 Fase 2.7: Accertamento impossibilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nel caso in cui sia accertata l'impossibilità di individuare una
-soluzione che soddisfi le esigenze dell'amministrazione tra le
+soluzione che soddisfi almeno in larga misura le esigenze dell'amministrazione tra le
 "soluzioni a riuso della PA" e le "soluzioni Open Source", si procede
 alla redazione di un documento (senza vincoli di forma) che motivi le
-ragioni dell'accertata impossibilità.
+ragioni dell'accertata impossibilità, da conservare agli atti del
+procedimento.
 
 La pubblica amministrazione prosegue la valutazione comparativa dando
 seguito alle Fasi previste nella successiva Macro fase 3.

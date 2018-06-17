@@ -7,15 +7,9 @@ essi*\ ". L'oggetto della valutazione quindi è un software (come
 identificato in *1.2. Software oggetto di queste linee guida*) che
 risponda a specifiche esigenze funzionali dell'amministrazione.
 
-A titolo esemplificativo, rimangono all'esterno del perimetro di questo
-documento:
-
--  l'acquisizione di sole componenti hardware dei sistemi informativi
-   (server, postazioni di lavoro, stampanti, ecc.);
--  progetti di consolidamento e/o virtualizzazione, per i quali i
-   percorsi di scelta della soluzione tecnologica devono riferirsi a
-   metodi e parametri necessariamente diversi da quelli applicati nelle
-   presenti Linee guida.
+A titolo esemplificativo, rimane all'esterno del perimetro di questo
+documento l'acquisizione di sole componenti hardware dei sistemi
+informativi (server,postazioni di lavoro, stampanti, ecc.).
 
 Ulteriori situazioni dove non è applicabile il percorso decisionale
 proposto in questo Capitolo 2 possono riguardare ad esempio:

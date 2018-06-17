@@ -13,35 +13,35 @@ Fase 3.1: Ricerca soluzioni proprietarie
 La pubblica amministrazione deve valutare le soluzioni proprietarie
 presenti sul mercato.
 
-L'amministrazione DEVE effettuare la ricerca di una soluzione con
+L'amministrazione deve effettuare la ricerca di una soluzione con
 licenza d'uso proprietaria, analizzando le offerte secondo quanto
 indicato dal Codice dei contratti pubblici.
 
-L'amministrazione DEVE verificare che il software in licenza rispetti i
-seguenti vincoli (ossia, la mancanza anche di uno solo di questi rende
-la soluzione non eleggibile):
+L'amministrazione deve verificare che il software in licenza rispetti i
+seguenti vincoli (ossia, **la mancanza anche di uno solo di questi rende
+la soluzione non eleggibile**):
 
 -  conformità alle regole sull'interoperabilità prescritte dalle linee
    guida emanate in attuazione dell'articolo 73 del CAD;
 -  conformità alle normative sulla protezione dei dati personali;
 -  conformità ai livelli minimi di sicurezza previsti per le pubbliche
    amministrazioni;
--  possibilità di esportare l'intera base di dati (inclusi di ogni tipo
-   di indice o metadato utilizzato per implementare le funzionalità del
-   software stesso) in formato standard e aperto, per scongiurare la
-   possibilità di lock-in, come meglio specificato nelle *linee guida
-   n.8 di ANAC*.
+-  la conformità ai requisiti di accessibilità (Legge 4/2004);
+-  possibilità di esportare gratuitamente, in ogni momento, l'intera
+   base di dati (inclusi di ogni tipo di indice o metadato utilizzato
+   per implementare le funzionalità del software stesso) in formato
+   standard, aperto e documentato, per scongiurare la possibilità di
+   lock-in, come meglio specificato nelle `linee guida n.8 di ANAC
+   <https://www.anticorruzione.it/portal/public/classic/Atti
+   vitaAutorita/ContrattiPubblici/LineeGuida/_lineeGuida8>`__.
 
 Tra i software che rispettano i vincoli appena indicati,
 l'amministrazione effettua una analisi comparativa che tenga conto dei
 seguenti criteri:
 
 -  assicurare la soddisfazione dei requisiti funzionali e non
-   determinati nella Macro fase 1, garantendo il soddisfacimento di
-   quelli indispensabili, con quelli indicati nella documentazione;
--  valutare se la soluzione è disponibile almeno parzialmente in
-   *dual-licensing* (cioè distribuita in alternativa con una licenza
-   Open Source);
+   determinati nella Macro Fase 1 con quelli indicati nella
+   documentazione;
 -  verificare l'idoneità della soluzione ad interoperare con i sistemi
    già in uso presso l'amministrazione;
 -  eventuali costi di installazione del software nel Cloud della PA
@@ -67,8 +67,8 @@ una soluzione proprietaria confacente ai propri bisogni, elabora un
 documento contenente un progetto di fattibilità [1]_ contenente la stima
 delle attività, dei costi e dei tempi da sostenere per la realizzazione
 di una soluzione ex novo che soddisfi completamente le esigenze indicate
-nel documento sull'analisi dei fabbisogni così come descritto nella
-"Fase 1.1: Analisi del fabbisogno".
+nel documento sull'analisi dei fabbisogni così come descritto in
+:ref:`analisi-del-fabbisogno`.
 
 Fase 3.3: Comparazione soluzioni proprietarie e realizzazione ex novo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,17 +122,14 @@ secondo le procedure previste dal Codice dei contratti pubblici.
 
 Nel caso in cui si opti per la realizzazione ex novo, considerando i
 commi 1 e 2 dell'Articolo 69 che disciplinano la messa a riuso del
-software che verrà realizzato, si rimanda alla sezione `Sviluppo di
-software
-ex novo <../riuso-software/sviluppo-di-software-ex-novo.html>`__
+software che verrà realizzato, si rimanda a :ref:`sviluppo-nuovo-software`
 per le informazioni su come progettare questa realizzazione per
 adempiere ai commi citati e metterlo così a riuso.
 
 Nel caso che si proceda ad una acquisizione di software proprietario
 sotto licenza, si ricorda che l'Amministrazione deve ove possibile
-acquisire la titolarità del codice sviluppato (come spiegato nella
-sezione `Titolarità <../premessa/titolarita.html>`__), per metterlo a
-riuso.
+acquisire la titolarità del codice sviluppato (come spiegato in
+:ref:`titolarita`), per metterlo a riuso.
 
 **La valutazione comparativa si considera conclusa**.
 

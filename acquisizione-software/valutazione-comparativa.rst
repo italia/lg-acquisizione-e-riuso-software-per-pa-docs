@@ -33,15 +33,15 @@ A - Software sviluppato per conto della pubblica amministrazione
     fasi di analisi e progettazione, definendo i requisiti del software,
     per poi affidare lo sviluppo al fornitore.
 
-B - Riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione
-    Soluzione "riuso" di un software della P.A. (o suoi componenti) già
-    esistente e disponibile.
+B - Riutilizzo di software o parti di esso sviluppati per conto della
+    pubblica amministrazione Soluzione "riuso" di un software della P.A.
+    (o suoi componenti) già esistente e disponibile.
 
 C - Software libero o a codice sorgente aperto
-    Software con licenza Open Source. In particolare,
-    si intende tutto il software distribuito sotto una licenza
-    certificata da OSI (*lista completa*), come descritto in *3.5.2.
-    Licenze per il software aperto*.
+    Software con licenza Open Source (vedi :ref:`glossario`). In
+    particolare, si intende tutto il software distribuito sotto una
+    licenza certificata da OSI (`lista completa <https://opensource.org/licenses/alphabetical>`__),
+    come descritto in :ref:`licenze-per-il-software-aperto`.
 
 D - Software fruibile in modalità cloud computing
     Soluzione nella quale la P.A. acquisisce il software come servizio.
@@ -68,6 +68,7 @@ Inoltre, il comma 1 dell'articolo 69 del CAD indica che
   committente pubblico, hanno l'obbligo di rendere disponibile il
   relativo codice sorgente, completo della documentazione e rilasciato
   in repertorio pubblico sotto licenza aperta, in uso gratuito."
+
 
 Per quanto riguarda la soluzione D) (Software fruibile in modalità
 *cloud computing*), questa è da considerarsi una modalità di erogazione
@@ -147,16 +148,19 @@ prevista all'articolo 68 del CAD.
 
 Le Macro fasi individuate sono:
 
--  MACRO FASE 1: ha l'obiettivo di definire le esigenze specificando i
-   bisogni e i vincoli (organizzativi ed economici) che condizionano le
-   scelte per l'identificazione di una soluzione adeguata alle esigenze
+MACRO FASE 1:
+   Ha l'obiettivo di definire le esigenze specificando i bisogni e i
+   vincoli (organizzativi ed economici) che condizionano le scelte per
+   l'identificazione di una soluzione adeguata alle esigenze
    dell'amministrazione;
--  MACRO FASE 2: qui la pubblica amministrazione accerta la possibilità
+MACRO FASE 2:
+   Qui la pubblica amministrazione accerta la possibilità
    di soddisfare le proprie esigenze utilizzando una soluzione già in
    uso presso altre amministrazioni (di seguito "soluzioni a riuso delle
    PA") o a software libero o codice sorgente aperto (di seguito
-   "soluzioni Open Source");
--  MACRO FASE 3: ove la Macro fase 2 non permetta di rispondere alle
+   "soluzioni Open Source").
+MACRO FASE 3:
+   Ove la Macro fase 2 non permetta di rispondere alle
    esigenze della Pubblica amministrazione, si persegue il
    soddisfacimento delle stesse attraverso il ricorso a programmi
    informatici di tipo proprietario, mediante ricorso a licenza d'uso

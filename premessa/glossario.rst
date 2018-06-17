@@ -1,5 +1,23 @@
+.. _glossario:
+
 Glossario
 ---------
+
+Artefatti
+    Sottoprodotto realizzato durante lo sviluppo del software che aiuta
+    a descrivere funzioni, architettura, progettazione e messa in
+    esercizio; a solo titolo di esempio: requisiti funzionali,
+    descrizione delle basi dati e dei processi, il set di test.
+
+Code Hosting (strumento di)
+    Una piattaforma che consente la pubblicazione di codice sorgente,
+    organizzato in più repository. Gli strumenti di code hosting offrono
+    spesso anche funzionalità legate all'evoluzione di un software quali
+    sistemi di ticketing, processi per la contribuzione di codice da
+    parte di terzi, area per il download dei rilasci, ecc. Nell'ambito
+    di queste Linee Guida, gli strumenti scelti dalle amministrazioni
+    devono avere dei requisiti minimi in termini di funzionalità
+    (:ref:`scelta-code-hosting`).
 
 Codice sorgente
     Il codice sorgente (spesso detto semplicemente "sorgente") è il
@@ -56,6 +74,12 @@ Open Source
     L'ente certificatore delle licenze software corrispondenti a questa
     definizione è Open Source Initiative (OSI).
 
+Repertorio o Repository
+    All'interno di uno strumento di code-hosting, un repository è
+    l'unità minima di contenimento del codice sorgente di un software.
+    Il termine "reportorio" è la sua traduzione italiana (usata per
+    esempio nel CAD Art 69, comma 1).
+
 Riuso
     Nel contesto di queste Linee Guida, si intende il processo delineato
     dal CAD (art. 69) con il quale una amministrazione distribuisce
@@ -87,8 +111,7 @@ TCO
     TCO è basato sulla considerazione che il costo totale di utilizzo di
     risorsa IT non dipende solo dai costi di acquisto, ma anche da tutti
     i costi che intervengono durante l'intera vita di esercizio della
-    risorsa stessa. Lo schema consigliato per il calcolo del TCO è in
-    `Istruzioni per il calcolo del TCO <../attachments/allegato-a-istruzioni-per-il-calcolo-del-tco.html>`_.
+    risorsa stessa.
 
 .. discourse::
    :topic_identifier: 2858

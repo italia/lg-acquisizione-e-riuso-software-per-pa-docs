@@ -23,6 +23,8 @@ reso sempre più importante, a scopo anche esclusivamente economico e di
 efficienza, lavorare integrando componenti già pronti, piuttosto che
 cominciare ogni volta a sviluppare codice da capo.
 
+.. _licenze-per-il-software-aperto:
+
 Licenze per il software aperto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

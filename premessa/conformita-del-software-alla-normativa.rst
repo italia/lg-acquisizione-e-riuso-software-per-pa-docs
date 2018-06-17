@@ -7,12 +7,22 @@ erroneità di tali scelte. Esso può agire da moltiplicatore dell'impatto
 delle buone prassi o, allo stesso modo, da moltiplicatore di scelte
 erronee la cui diffusione non è auspicabile.
 
-Il riuso e la diffusione di software sul quale insistono
-diritti di proprietà intellettuale di un'Amministrazione
-comportano un indubbio vantaggio economico e in termini di efficienza;
-si richiama pertanto l'attenzione sull'importanza che
-tale software posto in riuso - come d'altra parte l'intero parco
-software - debba risultare conforme alla disciplina vigente.
+Nel promuovere il riuso e la diffusione del software sul quale insistono
+diritti di proprietà intellettuale di un'amministrazione, con un
+importante vantaggio economico e in termini di efficienza, è importante
+richiamare l'attenzione delle singole Amministrazioni sull'importanza
+che il software posto in riuso - come d'altra parte l'intero parco
+software in uso a ogni amministrazione - sia conforme alla disciplina
+vigente.
+
+Poiché il processo di acquisizione di un software a riuso spesso
+comprende personalizzazioni e aggregazioni di diverse componenti, alcune
+delle quali potrebbero non essere più in uso o rilasciate anche anni
+prima, è importante ricordare che la compliance rimane in capo
+all'amministrazione che prende in riuso un software, poiché solo essa
+può eseguirla nel contesto legislativo e nel momento in cui il software
+viene messo in produzione.
+
 
 .. discourse::
    :topic_identifier: 2858
