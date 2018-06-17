@@ -115,14 +115,14 @@ open source già esistente, è preferibile adottare la medesima
 piattaforma in modo da sfruttarne le funzionalità di collaborazione
 (SHOULD).
 
-Se l'Amministrazione dispone già di un proprio account presso lo
+Se l'Amministrazione dispone già di una propria area ("organizzazione") presso lo
 strumento di code hosting individuato, sarà concesso l'accesso al
 Fornitore. In caso contrario, sarà il Fornitore ad aprire un account
-presso lo strumento concordato; il nome dell'account dovrà rispecchiare
+presso lo strumento concordato; il nome dell'area dovrà rispecchiare
 il progetto e non la denominazione dell'Amministrazione, né fare
 riferimento al Fornitore; inoltre, il Fornitore dovrà fornire
 all'Amministrazione l'accesso allo strumento con i massimi poteri.
-L'Amministrazione resterà proprietaria dell'account anche dopo la
+L'Amministrazione resterà proprietaria dell'area anche dopo la
 cessazione della presente fornitura.
 
 All'interno dello strumento scelto, il Fornitore aprirà un repository
@@ -144,7 +144,8 @@ committente in sede di capitolato o concordata in esecuzione,
 conformemente alle Linee Guida. Il Fornitore è tenuto (MUST) a garantire
 la compatibilità di tale licenza con quelle di eventuali componenti
 riutilizzati od incorporati, con o senza modifiche, per i quali non si
-detiene il copyright (ad esempio: librerie, asset grafici). Se tali
+detiene il copyright (ad esempio: librerie, asset grafici), ivi inclusi
+quelli di proprietà del Fornitore stesso. Se tali
 componenti si trovano in file distinti, è possibile mantenere la licenza
 distinta purché ciò sia permesso dalle licenze e i relativi file
 riportino chiaramente l'indicazione della differente licenza e dei

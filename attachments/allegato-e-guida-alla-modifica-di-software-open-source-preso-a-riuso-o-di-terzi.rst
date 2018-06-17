@@ -76,6 +76,13 @@ recepito come contributo da parte dei maintainer del software originale
 In ogni caso, nel README dovrà essere chiaramente spiegato cosa è stato
 modificato rispetto al progetto originale.
 
+Il repository pubblicato dovrebbe (SHOULD) contenere tutta la storia delle
+modifiche dei “code commit” che il fornitore ha effettuato durante il processo
+di sviluppo, preservando lo storico dell’operato dell’attività di sviluppo,
+necessario e utile a tutti gli sviluppatori che vorranno contribuire per
+ridurre la curva di apprendimento.
+
+
 3. Interazione con il maintainer del progetto originale
 -------------------------------------------------------
 
@@ -106,6 +113,11 @@ codice (*pull request*) granulari, ovvero distinte per singole
 funzionalità in modo da consentire al maintainer di valutarle
 singolarmente.
 
+Il Fornitore è inoltre tenuto (MUST) a tenere traccia di tutte le
+contribuzioni al software inviate al maintainer del software originale,
+documentandone lo stato di integrazione all’interno del file README
+del repository.
+
 4. Pubblicazione di codice open source non già a riuso
 ------------------------------------------------------
 
@@ -113,7 +125,7 @@ In caso di modifica di un software open source di terzi (non preso a
 riuso da un'altra Amministrazione) il cui maintainer abbia recepito
 integralmente le proposte di modifica inviate dal Fornitore (v.
 paragrafo precedente), il Fornitore è comunque tenuto a pubblicare il
-codice nel repository dell'Amministrazione per metterlo a riuso,
+codice nello strumento di code-hosting dell'Amministrazione per metterlo a riuso,
 specificando nel README che tale codice è stato recepito dal progetto
 originale, con un link al repository dello stesso.
 

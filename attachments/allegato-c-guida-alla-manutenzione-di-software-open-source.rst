@@ -58,8 +58,8 @@ assoluta.
 2.2. Descrizione del ruolo di maintainer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Per tutta la durata dell'attività di manutenzione connessa al software
-sviluppato, il Fornitore dovrà svolgere il ruolo di *maintainer* del
+Per tutta la durata dell'attività di manutenzione connessa al software,
+il Fornitore dovrà svolgere il ruolo di *maintainer* del
 progetto open source, inserendo il nome della propria azienda nei file
 *README* e *publiccode.yml* del repository, con l'eventuale data di
 termine dell'incarico. Il maintainer è incaricato di gestire l'attività
