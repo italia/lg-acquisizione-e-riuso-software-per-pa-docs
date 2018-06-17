@@ -6,7 +6,7 @@ amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo
 30 marzo 2001, n. 165, nel rispetto del riparto di competenza di cui
 all'articolo 117 della Costituzione, ivi comprese le autorità di sistema
 portuale, nonché le autorità amministrative indipendenti di garanzia,
-vigilanza e regolazione, ossia *“gli istituti e scuole di ogni ordine e
+vigilanza e regolazione, ossia *"gli istituti e scuole di ogni ordine e
 grado e le istituzioni educative, le aziende ed amministrazioni dello
 Stato ad ordinamento autonomo, le Regioni, le Province, i Comuni, le
 Comunità montane. e loro consorzi e associazioni, le istituzioni
@@ -17,7 +17,7 @@ amministrazioni, le aziende e gli enti del Servizio sanitario nazionale,
 l'Agenzia per la rappresentanza negoziale delle pubbliche
 amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30
 luglio 1999, n. 300 e al CONI (per quest'ultima amministrazione fino
-alla revisione organica della disciplina di settore)”*.
+alla revisione organica della disciplina di settore)"*.
 
 Non si applicano le disposizioni sul riuso delle soluzioni limitatamente
 all'esercizio delle attività e funzioni di ordine e sicurezza pubblica,

@@ -68,13 +68,13 @@ documento contenente un progetto di fattibilità [1]_ contenente la stima
 delle attività, dei costi e dei tempi da sostenere per la realizzazione
 di una soluzione ex novo che soddisfi completamente le esigenze indicate
 nel documento sull'analisi dei fabbisogni così come descritto nella
-“Fase 1.1: Analisi del fabbisogno”.
+"Fase 1.1: Analisi del fabbisogno".
 
 Fase 3.3: Comparazione soluzioni proprietarie e realizzazione ex novo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nella valutazione tra lo sviluppo di una soluzione ex novo e l'acquisto
-di una proprietaria (cosiddetta valutazione “make or buy”),
+di una proprietaria (cosiddetta valutazione "make or buy"),
 l'amministrazione verifica vantaggi e svantaggi di entrambe le
 soluzioni, tenendo come riferimento il seguente elenco:
 

@@ -18,16 +18,16 @@ Il contesto normativo è il seguente:
 
 -  L'art. 69 comma 1 del Codice dell'Amministrazione Digitale impone che
 
-   “Le pubbliche amministrazioni che siano titolari di soluzioni e
+   "Le pubbliche amministrazioni che siano titolari di soluzioni e
    programmi informatici realizzati su specifiche indicazioni del
    committente pubblico, hanno l'obbligo di rendere disponibile il
    relativo codice sorgente, completo della documentazione e rilasciato
    in repertorio pubblico sotto licenza aperta, in uso gratuito ad altre
    pubbliche amministrazioni o ai soggetti giuridici che intendano
    adattarli alle proprie esigenze, salvo motivate ragioni di ordine e
-   sicurezza pubblica, difesa nazionale e consultazioni elettorali.”
+   sicurezza pubblica, difesa nazionale e consultazioni elettorali."
 
--  Le Linee Guida di AgID (di seguito “Linee Guida”) forniscono
+-  Le Linee Guida di AgID (di seguito "Linee Guida") forniscono
    approfondimenti su questo obbligo, chiarendo il modello di riuso
    delineato dalla legge e definendo i parametri principali per la
    scelta della licenza e il rilascio del codice.
@@ -330,10 +330,10 @@ documentazione deve essere scritta in un formato testuale che garantisca
 il versionamento riga per riga (ad esempio sono ammessi i seguenti
 formati: HTML, Markdown, reStructuredText, LaTeX). La documentazione in
 formato ODT, DOCX o PDF non è ammessa poiché si tratta di formati con i
-quali non è possibile definire le diverse versioni “riga per riga”.
+quali non è possibile definire le diverse versioni "riga per riga".
 
 Se nel capitolato è prevista anche la stesura di documentazione
-sull'utilizzo del software rivolta agli utenti finali (“manuale utente”
+sull'utilizzo del software rivolta agli utenti finali ("manuale utente"
 o simile documento), l'obbligo di rilascio si estende anche ad essa. Per
 tale documentazione sono consentiti anche formati binari, purché aperti,
 modificabili e multipiattaforma (resta dunque escluso il formato PDF).
@@ -416,8 +416,8 @@ venga indicizzato e presentato nel motore di ricerca presente sul sito.
 La registrazione avviene seguendo due passaggi:
 
 1) **Pubblicazione di un file publiccode.yml nella directory root del
-   repository.** “publiccode.yml” è uno standard che identifica il
-   progetto come “software utile per la Pubblica Amministrazione”, e
+   repository.** "publiccode.yml" è uno standard che identifica il
+   progetto come "software utile per la Pubblica Amministrazione", e
    contemporaneamente offre una serie di informazioni utili alla
    valutazione del software stesso per il riuso. Tale file verrà
    rilevato automaticamente dall'indicizzatore (crawler) di Developers

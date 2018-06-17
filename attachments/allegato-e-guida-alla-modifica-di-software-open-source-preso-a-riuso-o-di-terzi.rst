@@ -2,7 +2,7 @@ Allegato E: Guida alla modifica di software open source preso a riuso o di terzi
 ================================================================================
 
 *Contesto: questo documento è pensato per essere allegato, insieme alla
-“Guida alla pubblicazione open source di software realizzato per la PA”
+"Guida alla pubblicazione open source di software realizzato per la PA"
 alle specifiche tecniche per la presa in riuso di un software
 open-source, con eventuali modifiche. In caso di appalto, può essere
 allegato come documento di gara.*
@@ -115,8 +115,8 @@ codice nel repository dell'Amministrazione per metterlo a riuso,
 specificando nel README che tale codice è stato recepito dal progetto
 originale, con un link al repository dello stesso.
 
-Si ricorda infatti che, come prescritto dalle Linee Guida, il “software
-a riuso” è il software rilasciato da una Amministrazione in adempimento
+Si ricorda infatti che, come prescritto dalle Linee Guida, il "software
+a riuso" è il software rilasciato da una Amministrazione in adempimento
 all'art. 69 del CAD; se dunque una Amministrazione adotta un software
 open source di terzi, è tenuta a metterlo a riuso, pubblicandolo essa
 stessa perché sia chiara ad altre Amministrazioni la provenienza di tale

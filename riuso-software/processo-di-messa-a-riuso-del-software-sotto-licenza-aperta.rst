@@ -21,7 +21,7 @@ Il processo di messa a riuso è il seguente:
    essere allegata ad un capitolato tecnico di gara, per facilitare
    l'acquisizione di un servizio demandando al fornitore gli adempimenti
    richiesti dalle presenti linee guida.
-4. L'amministrazione “registra” il software sulla piattaforma Developers
+4. L'amministrazione "registra" il software sulla piattaforma Developers
    Italia, così che sia indicizzato dal motore di ricerca e reso
    visibile alle altre amministrazioni che cercano software in riuso.
 
@@ -96,7 +96,7 @@ servizi web della Pubblica Amministrazione.
 Registrazione del software aperto su Developers Italia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il software rilasciato dalla amministrazione deve essere “registrato”
+Il software rilasciato dalla amministrazione deve essere "registrato"
 all'interno del motore di ricerca di Developers Italia, per agevolare la
 consultazione alle altre amministrazioni che cercano un software in
 riuso.

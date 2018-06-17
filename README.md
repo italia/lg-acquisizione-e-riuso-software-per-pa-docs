@@ -16,8 +16,8 @@ del *Codice dell'Amministrazione Digitale* (di seguito CAD):
    indicando anche le modalità tecniche di utilizzo.
 
 Inoltre sostituiscono la precedente circolare 63/2013, intitolata
-“*Linee guida per la valutazione comparativa prevista dall'art. 68 del
-D.Lgs. 7 marzo 2005, n. 82 Codice dell'Amministrazione digitale*” e
+"*Linee guida per la valutazione comparativa prevista dall'art. 68 del
+D.Lgs. 7 marzo 2005, n. 82 Codice dell'Amministrazione digitale*" e
 relativi allegati.
 
 ## Link al documento e consultazione

@@ -71,7 +71,7 @@ incompatibile con la licenza GNU GPL versione 2 (codice SPDX:
 -------------------
 
 Le licenze copyleft sono licenze che richiedono un'attribuzione
-all'autore originale ma che aggiungono le cosiddette clausole “virali”.
+all'autore originale ma che aggiungono le cosiddette clausole "virali".
 Il concetto di viralità impone a ogni successiva modifica di essere
 rilasciata sotto una licenza che non imponga ulteriori restrizioni
 all'utente.
@@ -98,14 +98,14 @@ l'ambito di software distribuiti via rete (codice SPDX:
 Ai fini di garantire flessibilità nel riutilizzo, ovvero permettere
 l'utilizzo di un componente software in un applicativo sotto qualunque
 licenza, la clausola di viralità può essere indebolita. Queste licenze
-vengono anche dette “a copyleft debole”.
+vengono anche dette "a copyleft debole".
 
 Questa clausola aggiuntiva mantiene intatta la viralità per quanto
 riguarda modifiche sul codice del componente, ma permette l'integrazione
 esterna da parte di un software distribuito sotto qualunque licenza.
 
-Si noti che queste licenze contengono la cosiddetta “clausola di
-riproducibilità”: deve essere sempre possibile per l'utente di un
+Si noti che queste licenze contengono la cosiddetta "clausola di
+riproducibilità": deve essere sempre possibile per l'utente di un
 software di terze parti sostituire il componente rilasciato sotto
 licenza LGPL con una sua versione modificata, senza modificare le
 funzionalità del software di terze parti. Questa clausola può essere

@@ -2,7 +2,7 @@ Glossario
 ---------
 
 Codice sorgente
-    Il codice sorgente (spesso detto semplicemente “sorgente”) è il
+    Il codice sorgente (spesso detto semplicemente "sorgente") è il
     testo di un programma scritto in un linguaggio di programmazione
     (es. C o Visual Basic) dal quale si deriva il programma finale che
     l'utente usa. L'accesso al codice sorgente è essenziale per poter
@@ -51,17 +51,17 @@ Open Source
     Si realizza attraverso la concessione al pubblico, dei diritti di
     uso, copia, modifica, distribuzione di copie anche modificate, del
     software; per fare ciò, è necessario anche che il codice sorgente
-    sia liberamente disponibile. Altrimenti detto “software libero”,
-    “software aperto” o “software rilasciato sotto licenza aperta”.
+    sia liberamente disponibile. Altrimenti detto "software libero",
+    "software aperto" o "software rilasciato sotto licenza aperta".
     L'ente certificatore delle licenze software corrispondenti a questa
     definizione è Open Source Initiative (OSI).
 
 Riuso
     Nel contesto di queste Linee Guida, si intende il processo delineato
     dal CAD (art. 69) con il quale una amministrazione distribuisce
-    (“mettere a riuso”) un software di cui ha titolarità in Open Source,
-    a favore di altre amministrazioni che possano utilizzarlo (“prendere
-    a riuso”). Tutto il software a riuso è Open Source, ma non tutto il
+    ("mettere a riuso") un software di cui ha titolarità in Open Source,
+    a favore di altre amministrazioni che possano utilizzarlo ("prendere
+    a riuso"). Tutto il software a riuso è Open Source, ma non tutto il
     software Open Source è a riuso (poiché non tutto il software Open
     Source è di titolarità di una amministrazione).
 

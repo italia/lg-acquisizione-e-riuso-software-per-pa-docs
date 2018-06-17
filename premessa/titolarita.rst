@@ -43,17 +43,17 @@ contratti per lo sviluppo di software consentono di ritenere che
 l'amministrazione sia titolare dei diritti nel senso richiesto
 dall'articolo 69 del CAD:
 
--  “il committente sarà titolare del software sviluppato”;
--  “la proprietà della soluzione informatica oggetto del contratto farà
-   capo al committente o all'Amministrazione”;
--  “al termine del contratto la proprietà intellettuale sulla soluzione
+-  "il committente sarà titolare del software sviluppato";
+-  "la proprietà della soluzione informatica oggetto del contratto farà
+   capo al committente o all'Amministrazione";
+-  "al termine del contratto la proprietà intellettuale sulla soluzione
    informatica oggetto di sviluppo competerà all'amministrazione
-   committente”;
--  “tutti i diritti d'autore sul software sviluppato verranno
+   committente";
+-  "tutti i diritti d'autore sul software sviluppato verranno
    trasferiti, a seguito del completamento dell'opera,
-   all'amministrazione committente che ne diverrà titolare”;
--  “tutti i diritti di sfruttamento economico sul software oggetto del
-   contratto competono all'amministrazione committente”.
+   all'amministrazione committente che ne diverrà titolare";
+-  "tutti i diritti di sfruttamento economico sul software oggetto del
+   contratto competono all'amministrazione committente".
 
 .. discourse::
    :topic_identifier: 2858

@@ -3,7 +3,7 @@ Allegato C: Guida alla manutenzione di software open source
 ===========================================================
 
 *Contesto: questo documento è pensato per essere allegato, insieme alla
-“Guida alla pubblicazione di software open source” alle specifiche
+"Guida alla pubblicazione di software open source" alle specifiche
 tecniche per la manutenzione correttiva e/o evolutiva di software
 rilasciato sotto licenza aperta (incluso software non di proprietà
 dell'Amministrazione). In caso di appalto, può essere allegato come

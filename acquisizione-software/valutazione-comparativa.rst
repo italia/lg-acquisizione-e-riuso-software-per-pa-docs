@@ -7,7 +7,7 @@ Descrizione delle soluzioni
 L'articolo 68, comma 1 del CAD indica le tipologie di soluzione oggetto
 dell'analisi comparativa per tipologia di software:
 
-| “Le pubbliche amministrazioni acquisiscono programmi informatici o
+| "Le pubbliche amministrazioni acquisiscono programmi informatici o
   parti di essi nel rispetto dei princìpi di economicità e di
   efficienza, tutela degli investimenti, riuso e neutralità tecnologica,
   a seguito di una valutazione comparativa di tipo tecnico ed economico
@@ -24,7 +24,7 @@ La seguente lista di definizioni descrive le sei soluzioni previste
 dalla normativa:
 
 A - Software sviluppato per conto della pubblica amministrazione
-    Soluzione detta anche “opzione *make*\ ”: la PA affida lo sviluppo
+    Soluzione detta anche "opzione *make*\ ": la PA affida lo sviluppo
     del software (sia esso ex novo o modifica di software esistente)
     a un fornitore e quest'ultimo si impegna a consegnare alla P.A. il software
     sviluppato sulla base dei requisiti da questa definiti. Per esempio,
@@ -34,7 +34,7 @@ A - Software sviluppato per conto della pubblica amministrazione
     per poi affidare lo sviluppo al fornitore.
 
 B - Riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione
-    Soluzione “riuso” di un software della P.A. (o suoi componenti) già
+    Soluzione "riuso" di un software della P.A. (o suoi componenti) già
     esistente e disponibile.
 
 C - Software libero o a codice sorgente aperto
@@ -50,7 +50,7 @@ D - Software fruibile in modalità cloud computing
 
 E - Software di tipo proprietario mediante ricorso a licenza d'uso
     Software soggetto a condizioni di licenza d'uso di tipo proprietario
-    da installare “\ *on premise*\ ”.
+    da installare "\ *on premise*\ ".
 
 F - Software combinazione delle precedenti soluzioni
     Software realizzato con componenti appartenenti a più di una
@@ -63,7 +63,7 @@ F - Software combinazione delle precedenti soluzioni
 
 Inoltre, il comma 1 dell'articolo 69 del CAD indica che
 
-|  “le pubbliche amministrazioni che siano titolari di soluzioni e
+|  "le pubbliche amministrazioni che siano titolari di soluzioni e
   programmi informatici realizzati su specifiche indicazioni del
   committente pubblico, hanno l'obbligo di rendere disponibile il
   relativo codice sorgente, completo della documentazione e rilasciato
@@ -153,9 +153,9 @@ Le Macro fasi individuate sono:
    dell'amministrazione;
 -  MACRO FASE 2: qui la pubblica amministrazione accerta la possibilità
    di soddisfare le proprie esigenze utilizzando una soluzione già in
-   uso presso altre amministrazioni (di seguito “soluzioni a riuso delle
-   PA”) o a software libero o codice sorgente aperto (di seguito
-   “soluzioni Open Source”);
+   uso presso altre amministrazioni (di seguito "soluzioni a riuso delle
+   PA") o a software libero o codice sorgente aperto (di seguito
+   "soluzioni Open Source");
 -  MACRO FASE 3: ove la Macro fase 2 non permetta di rispondere alle
    esigenze della Pubblica amministrazione, si persegue il
    soddisfacimento delle stesse attraverso il ricorso a programmi

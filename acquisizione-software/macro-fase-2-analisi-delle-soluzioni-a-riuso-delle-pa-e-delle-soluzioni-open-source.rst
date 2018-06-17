@@ -1,20 +1,20 @@
 Macro fase 2: Analisi delle soluzioni a riuso delle PA e delle soluzioni Open Source
 ------------------------------------------------------------------------------------
 
-La pubblica amministrazione, a partire dalla disponibilità di “soluzioni
-a riuso delle PA” e “soluzioni Open Source”, DEVE verificare il
+La pubblica amministrazione, a partire dalla disponibilità di "soluzioni
+a riuso delle PA" e "soluzioni Open Source", DEVE verificare il
 soddisfacimento delle proprie esigenze in tali soluzioni.
 
 |image3-macro-fase-2|
 
 Al fine di razionalizzare la spesa complessiva delle pubbliche
 amministrazioni la verifica di soddisfacimento delle esigenze DEVE prima
-considerare le “soluzioni a riuso delle PA” e successivamente le
-“soluzioni Open Source”.
+considerare le "soluzioni a riuso delle PA" e successivamente le
+"soluzioni Open Source".
 
 L'attuazione dell'\ `art. 69 del
 CAD <http://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=69&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=14&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art>`__
-assicura che le “soluzioni a riuso delle PA” rendano disponibile il
+assicura che le "soluzioni a riuso delle PA" rendano disponibile il
 relativo codice sorgente, completo della documentazione, in repertorio
 pubblico sotto licenza aperta.
 
@@ -24,30 +24,30 @@ Software <../riuso-software.html>`__.
 Fase 2.1: Selezione soluzioni riusabili per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L'amministrazione individua le “soluzioni a riuso delle PA” candidate a
+L'amministrazione individua le "soluzioni a riuso delle PA" candidate a
 soddisfare le proprie esigenze.
 
 Le attività previste in questa fase sono:
 
--  ricerca delle “soluzioni a riuso delle P.P.A.A.” presenti all'interno
+-  ricerca delle "soluzioni a riuso delle P.P.A.A." presenti all'interno
    della piattaforma Developers Italia, oppure tramite altri strumenti
    di ricerca e indicizzazione.
 
 La presente fase si conclude con la:
 
--  individuazione delle “soluzioni a riuso delle P.P.A.A.” di interesse
+-  individuazione delle "soluzioni a riuso delle P.P.A.A." di interesse
    per la Pubblica amministrazione.
 
 Fase 2.2: Valutazione soluzioni riusabili per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se la precedente fase 2.1 ha permesso di individuare almeno una delle
-“soluzioni a riuso delle PA” potenzialmente di interesse per la Pubblica
+"soluzioni a riuso delle PA" potenzialmente di interesse per la Pubblica
 amministrazione, attraverso la realizzazione della presente fase di
-valutazione si provvede ad individuare la “soluzione a riuso della PA”
+valutazione si provvede ad individuare la "soluzione a riuso della PA"
 migliore.
 
-Per ognuna delle “soluzioni a riuso delle PA” potenzialmente d'interesse
+Per ognuna delle "soluzioni a riuso delle PA" potenzialmente d'interesse
 si provvede a:
 
 -  verificare:
@@ -134,14 +134,14 @@ effettuata.
 
 La presente fase si conclude con la:
 
--  determinazione della migliore “soluzione a riuso delle P.P.A.A.”, o
+-  determinazione della migliore "soluzione a riuso delle P.P.A.A.", o
    eventuale non presenza di una soluzione.
 
 Fase 2.3: Approvvigionamento della soluzione riusabile per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ove a seguito della precedente fase 2.2 l'amministrazione abbia
-determinato una “soluzione a riuso della PA” che soddisfa le sue
+determinato una "soluzione a riuso della PA" che soddisfa le sue
 esigenze, provvede all'approvvigionamento. Il processo di riuso è
 descritto in *3.9. Riuso di un software rilasciato sotto licenza
 aperta*.
@@ -157,10 +157,10 @@ dei contratti pubblici*).
 Fase 2.4: Selezione soluzioni Open Source
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Se non è possibile individuare una “soluzione a riuso della PA”,
+Se non è possibile individuare una "soluzione a riuso della PA",
 l'amministrazione DEVE ampliare la ricerca delle soluzioni da
 considerare per il soddisfacimento delle proprie esigenze alle
-“soluzioni Open Source”, cioè software rilasciato sotto licenza aperta
+"soluzioni Open Source", cioè software rilasciato sotto licenza aperta
 ma non di titolarità di una Pubblica Amministrazione e quindi non
 pubblicato a riuso.
 
@@ -180,31 +180,31 @@ La ricerca effettuata dalla pubblica amministrazione DEVE verificare:
 
 La presente fase si conclude con la:
 
--  individuazione delle “soluzioni Open Source” di interesse per la
+-  individuazione delle "soluzioni Open Source" di interesse per la
    pubblica amministrazione
 
 Fase 2.5: Valutazione soluzioni Open Source
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se la precedente fase 2.4 ha permesso di individuare almeno una delle
-“soluzioni Open Source” potenzialmente di interesse, attraverso la fase
-di valutazione si individua la “soluzione Open Source” migliore.
+"soluzioni Open Source" potenzialmente di interesse, attraverso la fase
+di valutazione si individua la "soluzione Open Source" migliore.
 
 Le attività previste in questa fase sono le stesse della fase 2.2. La
-scelta di una “soluzione Open Source” DEVE considerare come vantaggiosa
+scelta di una "soluzione Open Source" DEVE considerare come vantaggiosa
 la circostanza che la soluzione sia già stata utilizzata da una o più
 pubbliche amministrazioni.
 
 La presente fase si conclude con la:
 
--  determinazione della migliore “soluzione Open Source”, o eventuale
+-  determinazione della migliore "soluzione Open Source", o eventuale
    non presenza di una soluzione.
 
 Fase 2.6: Approvvigionamento della soluzione Open Source
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ove a seguito della precedente fase 2.5 l'amministrazione abbia
-individuato una “soluzione Open Source” che soddisfa le sue esigenze,
+individuato una "soluzione Open Source" che soddisfa le sue esigenze,
 procede all'acquisizione. Il processo di acquisizione è descritto in
 `Riuso di un software o utilizzo di un software Open
 Source <../riuso-software/riuso-di-un-software-o-utilizzo-di-un-software-open-source.html>`__.
@@ -221,7 +221,7 @@ Fase 2.7: Accertamento impossibilità
 
 Nel caso in cui sia accertata l'impossibilità di individuare una
 soluzione che soddisfi le esigenze dell'amministrazione tra le
-“soluzioni a riuso della PA” e le “soluzioni Open Source”, si procede
+"soluzioni a riuso della PA" e le "soluzioni Open Source", si procede
 alla redazione di un documento (senza vincoli di forma) che motivi le
 ragioni dell'accertata impossibilità.
 

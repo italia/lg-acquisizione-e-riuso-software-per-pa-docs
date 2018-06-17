@@ -97,13 +97,13 @@ licenza aperta:
    specificate sotto, utilizzare la licenza EUPL v1.2 (codice SPDX:
    ``EUPL-1.2``): https://spdx.org/licenses/EUPL-1.2.html. Questa
    licenza, scritta dalla Commissione europea, è stata scelta in quanto
-   di tipo “copyleft”, garantisce massima interoperabilità a livello
+   di tipo "copyleft", garantisce massima interoperabilità a livello
    europeo, ed è anche tradotta in italiano. Sono previste solo alcune
    eccezioni a questa indicazione generale:
 
    -  se il **software viene utilizzato principalmente via rete (es:
-      tramite un browser)**, utilizzare la licenza “GNU Affero General
-      Public License” versione 3 e successive (codice SPDX:
+      tramite un browser)**, utilizzare la licenza "GNU Affero General
+      Public License" versione 3 e successive (codice SPDX:
       ``AGPL-3.0-or-later``):
       https://spdx.org/licenses/AGPL-3.0-or-later.html;
 
@@ -113,9 +113,9 @@ licenza aperta:
       venga utilizzato come parte di un servizio SaaS.
 
    -  se vengono rilasciati **componenti software** enucleati e con
-      ampio campo applicativo (per esempio, le “\ **librerie
-      software**\ ” e gli “\ **SDK**\ ”), utilizzare la licenza “BSD
-      3-Clause” (codice SPDX: ``BSD-3-Clause``)
+      ampio campo applicativo (per esempio, le "\ **librerie
+      software**\ " e gli "\ **SDK**\ "), utilizzare la licenza "BSD
+      3-Clause" (codice SPDX: ``BSD-3-Clause``)
       https://spdx.org/licenses/BSD-3-Clause.html;
 
       Questa licenza è stata scelta per garantire un utilizzo da parte

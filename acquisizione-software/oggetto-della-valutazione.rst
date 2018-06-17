@@ -2,8 +2,8 @@ Oggetto della valutazione
 -------------------------
 
 La valutazione comparativa deve essere svolta quando le pubbliche
-amministrazioni intendano acquisire “\ *programmi informatici o parti di
-essi*\ ”. L'oggetto della valutazione quindi è un software (come
+amministrazioni intendano acquisire "\ *programmi informatici o parti di
+essi*\ ". L'oggetto della valutazione quindi è un software (come
 identificato in *1.2. Software oggetto di queste linee guida*) che
 risponda a specifiche esigenze funzionali dell'amministrazione.
 

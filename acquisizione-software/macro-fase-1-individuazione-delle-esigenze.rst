@@ -27,7 +27,7 @@ Le attività previste nella presente fase sono:
    seguito alle procedure amministrative;
 -  ipotesi di ottimizzazione dei flussi in relazione al software da
    acquisire;
--  identificazione degli “strumenti” (definizione degli obiettivi)
+-  identificazione degli "strumenti" (definizione degli obiettivi)
    necessari alla realizzazione dei processi operativi individuati;
 -  enunciazione dei requisiti eventualmente prevedendo una casistica tra
    indispensabili e non.
