@@ -44,7 +44,6 @@ relativi allegati.
    :caption: Indice degli allegati
    :maxdepth: 1
 
-   attachments/allegato-a-istruzioni-per-il-calcolo-del-tco.rst
    attachments/allegato-b-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.rst
    attachments/allegato-c-guida-alla-manutenzione-di-software-open-source.rst
    attachments/allegato-d-guida-alle-licenze-open-source.rst
