@@ -41,5 +41,15 @@ si considera escluso dall'obbligo di rilascio il software che non sia
 più in uso da parte dell'amministrazione da più di 5 anni dall'entrata
 in vigore delle presenti linee guida.
 
+Le specifiche di dettaglio di come effettuare il rilascio sono contenute in
+:ref:`guida-pubblicazione`. Laddove l'amministrazione non avesse le risorse
+necessarie per allineare la documentazione agli standard previsti della
+Guida, l'amministrazione deve procedere comunque immediatamente al
+rilascio di quanto ha in possesso nello stato in cui si trova, fermo
+restando che la presenza di documentazione è requisito essenziale previsto
+dalla norma e sarà quindi necessario procedere al completamento e
+allineamento della documentazione al più presto per considerare
+l'adempimento concluso.
+
 .. discourse::
    :topic_identifier: 2860

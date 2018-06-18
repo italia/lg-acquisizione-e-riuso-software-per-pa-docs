@@ -34,7 +34,7 @@ proprietario).
 Ai fini dell'adempimento a questa Linea Guida, quindi, si richiede
 che in fase di analisi comparativa l'amministrazione effettui una
 stima dei costi secondo il modello qui delineato, tenendo sempre
-quindi di tutto il ciclo di vita. Questa analisi dovrà essere tanto
+conto di tutto il ciclo di vita. Questa analisi dovrà essere tanto
 più accurata quanto grossa è l'acquisizione necessaria.
 
 Fornire modelli di calcolo del TCO per le esigenze delle amministrazioni
