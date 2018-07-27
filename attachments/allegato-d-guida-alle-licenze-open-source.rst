@@ -12,8 +12,8 @@ licenze in uso nel parco *software* ha infatti il vantaggio di
 semplificare di molto l'integrazione, dunque permettendo un risparmio da
 parte della Pubblica Amministrazione.
 
-1. Versionamento delle licenze
-------------------------------
+Versionamento delle licenze
+---------------------------
 
 Ogni licenza riportata di seguito citata dispone di un numero di
 versione, che garantisce agli enti redattori la possibilità di
@@ -23,8 +23,8 @@ consiglia rilasciare ogni *software* secondo l'ultima versione disponibile
 della licenza, esplicitando la compatibilità con qualunque modificazione
 successiva.
 
-2. Public Domain
-----------------
+Public Domain
+-------------
 
 Una licenza di pubblico dominio è una licenza nella quale il detentore
 dei diritti rinuncia ai diritti di proprietà intellettuale.
@@ -42,8 +42,8 @@ licenze con il potenziale conflitto di disposizioni che comporta.
 La più diffusa licenza in questo senso è la Creative Commons Zero
 (Codice SPDX: ``CC0-1.0``).
 
-3. Licenze non-copyleft
------------------------
+Licenze non-copyleft
+--------------------
 
 Le licenze non-copyleft sono licenze aperte che garantiscono molta
 libertà e flessibilità di riutilizzo da parte degli utenti.
@@ -69,8 +69,8 @@ licenza Apache - codici SPDX: ``BSD-3-Clause``, ``MIT`` e ``Apache-2.0``.
 incompatibile con la licenza GNU GPL versione 2 (codice SPDX:
 ``GPL-2.0-or-later``).
 
-4. Licenze copyleft
--------------------
+Licenze copyleft
+----------------
 
 Le licenze copyleft sono licenze che richiedono un'attribuzione
 all'autore originale ma che aggiungono le cosiddette clausole "virali".
@@ -94,8 +94,8 @@ La licenza più diffusa in questo senso è la GNU GPL (codice SPDX:
 l'ambito di *software* distribuiti via rete (codice SPDX:
 ``AGPL-3.0-or-later``).
 
-5. Licenze copyleft - per le librerie
--------------------------------------
+Licenze copyleft - per le librerie
+----------------------------------
 
 Ai fini di garantire flessibilità nel riutilizzo, ovvero permettere
 l'utilizzo di un componente *software* in un applicativo sotto qualunque
@@ -117,8 +117,8 @@ iOS.
 La versione più utilizzata è la licenza GNU LGPL (codice SPDX:
 ``LGPL-3.0-or-later``), versione modificata della licenza GNU GPL.
 
-6. Licenze non comprese nella classificazione appena introdotta
----------------------------------------------------------------
+Licenze non comprese nella classificazione appena introdotta
+------------------------------------------------------------
 
 -  La Mozilla Public License (codice SPDX: ``MPL-2.0``) è una licenza
    copyleft, equiparabile alla licenza GNU GPL, che garantisce la libera
@@ -132,8 +132,8 @@ La versione più utilizzata è la licenza GNU LGPL (codice SPDX:
    una tabella di compatibilità con alcune delle licenze aperte più
    comuni. Codice SPDX: ``EUPL-1.2`` .
 
-7. Le licenze Creative Commons
-------------------------------
+Le licenze Creative Commons
+---------------------------
 
 Esistono molte versioni delle licenze Creative Commons. Queste licenze,
 così come suggerito da Creative Commons stesso, non sono utilizzabili
@@ -151,8 +151,8 @@ aperte, secondo quanto descritto in 3.3, sono:
 -  Creative Commons Attribution-Share Alike (versione 4 e successive) -
    una licenza copyleft (codice SPDX: ``CC-BY-SA-4.0``)
 
-8. Licenza applicabile alla documentazione e allegati del software
-------------------------------------------------------------------
+Licenza applicabile alla documentazione e allegati del software
+---------------------------------------------------------------
 
 Tutti gli allegati al puro codice sorgente del *software* quali commenti
 nel codice sorgente, documentazione, esempi, schermate dimostrative,
@@ -167,8 +167,8 @@ pagine stampate), si consiglia di attribuire comunque una licenza
 all'opera. Si rimanda a 4.4 per una guida nella scelta della licenza
 migliore.
 
-9. Compatibilità tra le licenze
--------------------------------
+Compatibilità tra le licenze
+----------------------------
 
 La compatibilità delle licenze dipende dalla cessione dei diritti
 intellettuali da parte dell'autore. Le licenze che in questo senso

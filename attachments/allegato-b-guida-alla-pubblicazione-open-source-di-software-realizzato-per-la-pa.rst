@@ -28,8 +28,8 @@ Nel documento sarà adottata la seguente convenzione:
 -  MAY/MAY NOT: scelte che l'Incaricato può attuare a propria
    discrezione.
 
-1. Premessa
------------
+Premessa
+--------
 
 Il presente documento illustra le modalità tecniche con le quali un software
 di proprietà di una Pubblica Amministrazione è rilasciato in
@@ -62,8 +62,8 @@ qui espresse si consiglia la consultazione della guida
 https://opensource.guide per suggerimenti su come impostare
 correttamente il lavoro.
 
-2. Individuazione dello strumento di code hosting
--------------------------------------------------
+Individuazione dello strumento di code hosting
+----------------------------------------------
 
 L'Amministrazione titolare del *software* deve individuare uno strumento
 di code hosting da utilizzare per il rilascio.
@@ -142,8 +142,8 @@ esposta al pubblico (ad es. con un link nel *footer* - pié di pagina - o tra
 le pagine di aiuto) in modo che sia possibile per l'utente reperire la
 versione del codice così come è in esecuzione.
 
-3. Scelta della licenza
------------------------
+Scelta della licenza
+--------------------
 
 La licenza aperta da adottare deve essere indicata dall'Amministrazione
 in sede di capitolato o concordata in esecuzione,
@@ -157,8 +157,8 @@ distinta purché ciò sia permesso dalle licenze e i relativi file
 riportino chiaramente l'indicazione della differente licenza e dei
 titolari dei diritti economici di sfruttamento (MAY).
 
-4. Attribuzione della licenza ed individuazione della titolarità
-----------------------------------------------------------------
+Attribuzione della licenza ed individuazione della titolarità
+-------------------------------------------------------------
 
 Al fine di applicare la licenza scelta al materiale da rilasciare è
 necessario creare nella root del repository un file denominato LICENSE,
@@ -177,8 +177,8 @@ il detentore dei diritti da indicare nel codice
 sorgente è l'Amministrazione committente (MUST), che ha acquisito la
 titolarità.
 
-5. Individuazione dei materiali da rilasciare
----------------------------------------------
+Individuazione dei materiali da rilasciare
+------------------------------------------
 
 Sono soggetti all'obbligo di rilascio in open source i seguenti
 materiali:
@@ -202,8 +202,8 @@ Sono esclusi dall'obbligo di rilascio i seguenti materiali:
 -  asset grafici specifici (ad es. loghi di aziende) sui quali non sia
    applicabile la licenza scelta.
 
-6. Rilascio del codice e organizzazione del repository
-------------------------------------------------------
+Rilascio del codice e organizzazione del repository
+---------------------------------------------------
 
 Il codice sorgente deve essere rilasciato in versione integrale e senza
 omissioni in modo che un soggetto terzo possa, seguendo la
@@ -246,8 +246,8 @@ chiara e comprensibile (MUST), ad esempio separando in directory
 distinte documentazione, librerie, eseguibili, script di servizio, test
 suite, eccetera.
 
-7. File README
---------------
+File README
+-----------
 
 Il repository deve contenere un file denominato README.md contenente:
 
@@ -313,8 +313,8 @@ Il repository deve contenere un file denominato README.md contenente:
    attraverso l'issue tracker pubblico ma devono essere inviate
    confidenzialmente a tale indirizzo e-mail);
 
-8. Documentazione
------------------
+Documentazione
+--------------
 
 È necessario (MUST) allegare al *software* la documentazione necessaria
 ad:
@@ -348,8 +348,8 @@ o simile documento), l'obbligo di rilascio si estende anche ad essa. Per
 tale documentazione sono consentiti anche formati binari, purché aperti,
 modificabili e multipiattaforma (resta dunque escluso il formato PDF).
 
-9. Tempi di rilascio
---------------------
+Tempi di rilascio
+-----------------
 
 All'inizio della lavorazione, l'Incaricato concorda con l'Amministrazione
 il piano di rilascio in open source del *software* durante lo sviluppo. Le
@@ -376,8 +376,8 @@ flussi di rilascio e collaudo l'Incaricato può usare le funzionalità di
 *branching* offerte dal sistema di controllo di versione prescelto
 (MAY).
 
-10. Sicurezza
--------------
+Sicurezza
+---------
 
 Ricordando che la sicurezza del *software* è un tema importante di cui
 tenere conto durante il ciclo di sviluppo e che non verrà trattato in
@@ -418,8 +418,8 @@ intenda inviare segnalazioni di sicurezza.
 
 .. _registrazione-repository:
 
-11. Registrazione del repository su Developers Italia
------------------------------------------------------
+Registrazione del repository su Developers Italia
+-------------------------------------------------
 
 Non appena il repository pubblico è stato aperto, è necessario (MUST)
 effettuare la registrazione su Developers Italia, per garantire che

@@ -29,8 +29,8 @@ Nel documento sarà adottata la seguente convenzione:
    discrezione.
 
 
-1. Obbligo di rilascio
-----------------------
+Obbligo di rilascio
+-------------------
 
 Quando, nell'ambito delle attività di manutenzione, si apportano
 modifiche al codice originale, anche di carattere minore, si configura
@@ -52,13 +52,13 @@ per il *software* oggetto della manutenzione, dovrà procedere a crearne
 uno seguendo le indicazioni della *Guida alla modifica di *software* open
 source di terzi*.
 
-2. Obblighi relativi alla manutenzione di *software* per il quale l'Amministrazione disponga già di un repository
------------------------------------------------------------------------------------------------------------------
+Obblighi relativi alla manutenzione di *software* per il quale l'Amministrazione disponga già di un repository
+--------------------------------------------------------------------------------------------------------------
 
 Le disposizioni successive si applicano ove l'Amministrazione sia titolare di un repository.
 
-2.1. Aggiornamento delle dipendenze
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aggiornamento delle dipendenze
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per tutta la durata dell'incarico di manutenzione, l'Incaricato è tenuto
 a monitorare i rilasci delle eventuali dipendenze incorporate nel
@@ -73,8 +73,8 @@ anche nel file README. Nel caso di nuove versioni che risolvono problemi
 di sicurezza, l'aggiornamento delle dipendenze deve avere priorità
 assoluta.
 
-2.2. Descrizione del ruolo di maintainer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Descrizione del ruolo di maintainer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 All'interno di un progetto open source, il maintainer è il soggetto che
 svolge un'attività di controllo e direzione degli sviluppi sul progetto,
@@ -90,8 +90,8 @@ dell'incarico. L'Incaricato dovrà quindi, per conto dell'Amministrazione,
 gestire l'attività sul progetto derivante dalle interazioni con gli utenti
 esterni.
 
-2.3. Interazione sul repository/issue tracker
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Interazione sul repository/issue tracker
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tutte le interazioni avviate da utenti esterni all'interno della
 piattaforma di code hosting, e in particolare attraverso il suo issue
@@ -101,8 +101,8 @@ una risposta. La risposta può non essere esaustiva, e laddove non sia
 possibile rispondere approfonditamente subito è comunque opportuno dare
 un cortese riscontro con delle prime considerazioni.
 
-2.3.1. Risoluzione di bug
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Risoluzione di bug
+++++++++++++++++++
 
 Le segnalazioni di bug ricevute da utenti esterni attraverso il sistema di *issue
 tracking* dovranno essere analizzate al pari di quelle ricevute
@@ -127,8 +127,8 @@ caso di mancata risposta dell'utente per trenta giorni, l'Incaricato può
 chiudere la issue, dopo aver documentato all'interno l'avvenuto collaudo
 della modifica.
 
-2.3.2. Richieste di nuove funzionalità
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Richieste di nuove funzionalità
++++++++++++++++++++++++++++++++
 
 Le richieste di nuove funzionalità dovranno essere valutate dall'Incaricato,
 di concerto con l'Amministrazione, in relazione alla loro
@@ -154,8 +154,8 @@ aggiuntivi all'Amministrazione e nel rispetto dei tempi del contratto
 (per esempio, in virtù di altri accordi commerciali sullo stesso
 software).
 
-2.3.3. Richieste di informazioni o supporto
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Richieste di informazioni o supporto
+++++++++++++++++++++++++++++++++++++
 
 Le richieste di informazioni sul progetto dovranno essere evase a cura
 dell'Incaricato entro 2 giorni lavorativi (SHOULD). Le risposte dovranno
@@ -167,8 +167,8 @@ fornire assistenza sull'utilizzo del *software* o dare risposte sull'uso
 che l'Amministrazione fa del *software* o in generale su altri argomenti
 di competenza dell'Amministrazione.
 
-2.3.4. Contributi di codice
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Contributi di codice
+++++++++++++++++++++
 
 I contributi di codice inviati attraverso i meccanismi di collaborazione
 previsti dalla piattaforma di code hosting scelta (ad es. attraverso una

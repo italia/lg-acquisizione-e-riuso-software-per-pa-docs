@@ -30,8 +30,8 @@ Nel documento sarà adottata la seguente convenzione:
 
 
 
-1. Modifica di *software* open source adottato in riuso
--------------------------------------------------------
+Modifica di *software* open source adottato in riuso
+----------------------------------------------------
 
 Nel caso di riuso di il *software* open source, la cui titolarità sia di
 una Pubblica Amministrazione, si applica quanto disposto da :ref:`guida-pubblicazione`,
@@ -49,8 +49,8 @@ analogo meccanismo quale una *pull request*) nel repository della Pubblica
 Amministrazione titolare, così che questa possa indicare i riferimenti al
 riuso all'interno del file *publiccode.yml* nella apposita sezione.
 
-2. Modifica del codice sorgente
--------------------------------
+Modifica del codice sorgente
+----------------------------
 
 L'Incaricato deve (MUST) operare con attenzione al fine di minimizzare il
 grado di divergenza tra il codice sorgente originale e quello modificato
@@ -99,8 +99,8 @@ necessario e utile a tutti gli sviluppatori che vorranno contribuire per
 ridurre la curva di apprendimento.
 
 
-3. Interazione con il maintainer del progetto originale
--------------------------------------------------------
+Interazione con il maintainer del progetto originale
+----------------------------------------------------
 
 All'Incaricato è richiesto di massimizzare l'interazione con il *maintainer*
 del progetto originale (SHOULD), con approccio collaborativo e con
@@ -133,8 +133,8 @@ contribuzioni al *software* inviate al *maintainer* del *software* originale,
 documentandone lo stato di integrazione all'interno del file README
 del repository.
 
-4. Pubblicazione di codice open source non originato nel originato nel contesto della PA
-----------------------------------------------------------------------------------------
+Pubblicazione di codice open source non originato nel originato nel contesto della PA
+-------------------------------------------------------------------------------------
 
 Nel caso in cui il *maintainer* di un *software* open source la cui titolarità non
 sia attribuita ad una Pubblica Amministrazione, il cui abbia recepito
