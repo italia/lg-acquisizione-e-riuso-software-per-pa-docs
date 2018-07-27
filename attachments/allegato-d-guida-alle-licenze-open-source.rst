@@ -1,6 +1,6 @@
 .. _guida-licenze:
 
-Allegato D: Guida alle licenze Open Source
+Allegato C: Guida alle licenze Open Source
 ==========================================
 
 Le licenze Open Source possono essere molteplici, con lievi differenze

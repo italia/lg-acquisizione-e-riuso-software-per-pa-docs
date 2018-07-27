@@ -1,20 +1,41 @@
 .. _guida-pubblicazione:
 
-Allegato B: Guida alla pubblicazione open source di software realizzato per la P.A.
-===================================================================================
+Allegato A: Guida alla pubblicazione di software come open source
+=================================================================
 
-*Contesto: questo documento è pensato per essere allegato alle
-specifiche tecniche per la realizzazione o il rilascio di software sotto
-licenza aperta da parte di una Pubblica Amministrazione (incluso
-software non di proprietà dell'Amministrazione). In caso di appalto, può
-essere allegato come documento di gara.*
+Questa guida è rivolta alle Amministrazioni che, titolari di un software, lo
+vogliano rilasciare in modalità open-source (codice a sorgente aperta). La
+guida può essere utilizzata da chiunque sia incaricato di svolgere le attività
+in essa descritte: le risorse interne dell’Amministrazione, società in-house
+dell’Amministrazione, un fornitore di servizi individuato
+dall’Amministrazione. Nel corso della descrizione delle attività si utilizza
+il termine **“Incaricato”** indistintamente per tutte e tre queste categorie.
+
+La guida è stata prodotta anche per poter essere allegata ad un capitolato
+tecnico nell'ambito di un appalto; in questo caso l'Incaricato è tenuto a
+svolgere le attività descritte nel presente documento come parte integrante
+dell'appalto, in aggiunta a quanto specificato nel resto del capitolato.
+
+Nel documento sarà adottata la seguente convenzione:
+
+-  MUST/MUST NOT: prescrizioni obbligatorie che l'Incaricato è tenuto a
+   rispettare;
+
+-  SHOULD/SHOULD NOT: raccomandazioni che l'Incaricato è tenuto a
+   valutare ed attuare qualora non vi siano documentabili ragioni
+   ostative;
+
+-  MAY/MAY NOT: scelte che l'Incaricato può attuare a propria
+   discrezione.
 
 1. Premessa
 -----------
 
-Il presente documento illustra le modalità tecniche con le quali un
-software di proprietà di una Pubblica Amministrazione deve essere
-rilasciato in open-source.
+Il presente documento illustra le modalità tecniche con le quali un software
+di proprietà di una Pubblica Amministrazione è rilasciato in
+modalità open source (codice a sorgente aperto). Le attività di seguito
+riportate sono attribuite al soggetto Incaricato dalla Pubblica
+Amministrazione titolare del codice.
 
 Il contesto normativo è il seguente:
 
@@ -34,22 +55,6 @@ Il contesto normativo è il seguente:
    delineato dalla legge e definendo i parametri principali per la
    scelta della licenza e il rilascio del codice.
 
-**Se questo documento è usato in allegato ad un capitolato tecnico
-nell'ambito di un appalto, il Fornitore è tenuto a svolgere le attività
-descritte nel presente documento come parte integrante dell'appalto, in
-aggiunta a quanto specificato nel resto del capitolato.**
-
-Nel documento sarà adottata la seguente convenzione:
-
--  MUST/MUST NOT: prescrizioni obbligatorie che il Fornitore è tenuto a
-   rispettare;
-
--  SHOULD/SHOULD NOT: raccomandazioni che il Fornitore è tenuto a
-   valutare ed attuare qualora non vi siano documentabili ragioni
-   ostative;
-
--  MAY/MAY NOT: scelte che il Fornitore può attuare a propria
-   discrezione.
 
 Le modalità descritte nel presente documento si ispirano alle best
 practice adottate nello sviluppo open source. Oltre alle prescrizioni
@@ -60,8 +65,8 @@ correttamente il lavoro.
 2. Individuazione dello strumento di code hosting
 -------------------------------------------------
 
-L'Amministrazione titolare del software deve individuare e comunicare al
-Fornitore uno strumento di code hosting da utilizzare per il rilascio.
+L'Amministrazione titolare del software deve individuare uno strumento
+di code hosting da utilizzare per il rilascio.
 
 Le Linee Guida di AgID specificano i parametri tecnici minimi, qui
 riportati nuovamente:
@@ -99,13 +104,15 @@ hosting:
 -  Gitea - https://gitea.io/
 -  Gogs - https://gogs.io/
 
-L'Amministrazione titolare dei diritti indicherà al Fornitore uno
+Tale elenco è da considerare esemplificativo e non esaustivo.
+
+L'Amministrazione titolare dei diritti indicherà all'Incaricato uno
 strumento di code hosting da utilizzare per il rilascio; in mancanza di
-tale indicazione, il Fornitore può proporre uno strumento di sua
+tale indicazione, l'Incaricato può proporre uno strumento di sua
 preferenza.
 
 È richiesto che la piattaforma individuata sia disponibile e manutenuta
-indipendentemente dalla presente fornitura, ovvero sia erogata in
+indipendentemente dalla corrente lavorazione, ovvero sia erogata in
 modalità SaaS da terze parti o sia istituita dall'Amministrazione
 committente o da un'altra Amministrazione per finalità più generali
 rispetto al presente progetto (MUST).
@@ -115,37 +122,36 @@ open source già esistente, è preferibile adottare la medesima
 piattaforma in modo da sfruttarne le funzionalità di collaborazione
 (SHOULD).
 
-Se l'Amministrazione dispone già di una propria area ("organizzazione") presso lo
-strumento di code hosting individuato, sarà concesso l'accesso al
-Fornitore. In caso contrario, sarà il Fornitore ad aprire un account
-presso lo strumento concordato; il nome dell'area dovrà rispecchiare
-il progetto e non la denominazione dell'Amministrazione, né fare
-riferimento al Fornitore; inoltre, il Fornitore dovrà fornire
-all'Amministrazione l'accesso allo strumento con i massimi poteri.
-L'Amministrazione resterà proprietaria dell'area anche dopo la
-cessazione della presente fornitura.
+Se l'Amministrazione dispone già di una propria area ("organizzazione") presso
+lo strumento di code hosting individuato, sarà concesso l'accesso ai referenti
+dell'Incaricato. In caso contrario, sarà l'Incaricato ad aprire un account
+presso lo strumento concordato; il nome dell'area dovrà rispecchiare il
+progetto e non la denominazione dell'Amministrazione, né fare riferimento
+all'Incaricato; inoltre, l'Incaricato dovrà fornire all'Amministrazione l'accesso
+allo strumento con i massimi poteri. L'Amministrazione resterà proprietaria
+dell'area anche dopo il termine della presente lavorazione.
 
-All'interno dello strumento scelto, il Fornitore aprirà un repository
-destinato ad ospitare il software in sviluppo. Qualora la fornitura sia
+All'interno dello strumento scelto, l'Incaricato aprirà un repository
+destinato ad ospitare il software in sviluppo. Qualora la lavorazione a sia
 articolata in più componenti logicamente distinti e con finalità
 autonome, purché singolarmente compiuti, documentati e riutilizzabili
 separatamente, dovranno essere aperti repository distinti (MUST).
 
-Il link al repository dovrà essere riportato nell'interfaccia del
-software esposta al pubblico (ad es. con un link nel footer o tra le
-pagine di aiuto) in modo che sia possibile per l'utente reperire la
+Il link al repository dovrà essere riportato nell'interfaccia del software
+esposta al pubblico (ad es. con un link nel *footer* - pié di pagina - o tra
+le pagine di aiuto) in modo che sia possibile per l'utente reperire la
 versione del codice così come è in esecuzione.
 
 3. Scelta della licenza
 -----------------------
 
 La licenza aperta da adottare deve essere indicata dall'Amministrazione
-committente in sede di capitolato o concordata in esecuzione,
-conformemente alle Linee Guida. Il Fornitore è tenuto (MUST) a garantire
+in sede di capitolato o concordata in esecuzione,
+conformemente alle Linee Guida. L'Incaricato è tenuto (MUST) a garantire
 la compatibilità di tale licenza con quelle di eventuali componenti
 riutilizzati od incorporati, con o senza modifiche, per i quali non si
-detiene il copyright (ad esempio: librerie, asset grafici), ivi inclusi
-quelli di proprietà del Fornitore stesso. Se tali
+detengono i diritti (ad esempio: librerie, asset grafici), ivi inclusi
+quelli di proprietà dell'Incaricato stesso. Se tali
 componenti si trovano in file distinti, è possibile mantenere la licenza
 distinta purché ciò sia permesso dalle licenze e i relativi file
 riportino chiaramente l'indicazione della differente licenza e dei
@@ -167,7 +173,7 @@ per ulteriori raccomandazioni sull'applicazione della licenza a diversi
 formati di file.
 
 Ai sensi dell'art. 69 comma 2 del Codice dell'Amministrazione Digitale
-il detentore di copyright (*copyright holder*) da indicare nel codice
+il detentore dei diritti da indicare nel codice
 sorgente è l'Amministrazione committente (MUST), che ha acquisito la
 titolarità.
 
@@ -228,7 +234,7 @@ raccomanda (SHOULD) l'uso dei *package manager*, per facilitare la
 manutenzione e l'aggiornamento.
 
 Il rilascio in open source non deve essere considerato come mero
-adempimento da svolgersi al termine della fornitura, ma deve essere
+adempimento da svolgersi al termine della lavorazione, ma deve essere
 previsto sin dalla fase di sviluppo ad esempio strutturando il software
 in modo che tutte le specificità dell'Amministrazione committente (nomi,
 indirizzi, server) siano modificabili attraverso file di configurazione
@@ -275,24 +281,25 @@ Il repository deve contenere un file denominato README.md contenente:
 
    -  procedura di installazione di requisiti e dipendenze;
 
-   -  build system necessario;
+   -  build system (se previsto dal progetto);
 
    -  comandi per la compilazione o il deployment, possibilmente
-      automatizzati da uno script/Makefile;
+      automatizzati da uno script/Makefile (se previsto dal progetto);
 
 -  (MUST) eventuali indicazioni sullo status del progetto:
 
-   -  stato di alpha/beta/stable eccetera;
+   -  stato di alpha/beta/stabile eccetera;
 
    -  importanti limitazioni o known issues;
 
 -  (SHOULD) link ad eventuali sistemi di Continuous Integration
-   (TravisCI, CircleCI), code coverage ed altre metriche associati al
+   (TravisCI, CircleCI), code coverage (copertura del codice) ed altre metriche associati al
    repository;
 
--  (SHOULD) riferimenti o link ad eventuali immagini Docker che
-   consentano l'installazione semplificata (ai fini di produzione o di
-   sviluppo);
+-  (SHOULD) documentazione relativa all'eventuale utilizzo di sistemi per
+   semplificare e accelerare il *deployment* in ambiente di sviluppo, test e
+   produzione (ad esempio immagini Docker o altri sistemi di virtualizzazione
+   con predisposizione di immagini preconfigurate);
 
 -  (MUST) nomi dei detentori di copyright, ovvero l'Amministrazione
    committente;
@@ -315,7 +322,7 @@ ad:
 -  installare le dipendenze;
 
 -  installare un ambiente di sviluppo da zero (meglio se corredata da
-   script, immagini di container, Makefile o altri strumenti per rendere
+   script, immagini di *container*, Makefile o altri strumenti per rendere
    l'operazione rapida);
 
 -  compilare il software (ove applicabile);
@@ -344,7 +351,7 @@ modificabili e multipiattaforma (resta dunque escluso il formato PDF).
 9. Tempi di rilascio
 --------------------
 
-All'inizio della fornitura il Fornitore concorda con l'Amministrazione
+All'inizio della lavorazione, l'Incaricato concorda con l'Amministrazione
 il piano di rilascio in open source del software durante lo sviluppo. Le
 Linee Guida suggeriscono di adottare un modello di sviluppo aperto, che
 preveda il rilascio contestuale allo sviluppo sin dall'inizio. Questo
@@ -356,16 +363,16 @@ indipendente software analoghi.
 Qualora non si opti per un modello di sviluppo aperto, il rilascio in
 open source deve essere effettuato (MUST) entro 15 giorni dal momento
 dell'acquisizione del software da parte dell'Amministrazione committente
-al termine della fornitura, ovvero dal momento in cui detto software
+al termine della lavorazione, ovvero dal momento in cui detto software
 viene immesso in collaudo o in produzione, ovvero da una richiesta
-dell'Amministrazione che può comunque essere trasmessa al Fornitore in
-qualsiasi fase. Se la fornitura è articolata in più lotti, i presenti
+dell'Amministrazione che può comunque essere trasmessa all'Incaricato in
+qualsiasi fase. Se la lavorazione è articolata in più lotti, i presenti
 termini di rilascio si applicano a ciascun lotto.
 
 A partire dal momento del rilascio, qualsiasi successiva modifica deve
 essere pubblicata tempestivamente nel repository, indipendentemente
 dalla messa in collaudo o in produzione (MUST). Al fine di gestire tali
-flussi di rilascio e collaudo il Fornitore può usare le funzionalità di
+flussi di rilascio e collaudo l'Incaricato può usare le funzionalità di
 *branching* offerte dal sistema di controllo di versione prescelto
 (MAY).
 

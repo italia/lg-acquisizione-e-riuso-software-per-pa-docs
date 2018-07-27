@@ -1,4 +1,4 @@
-Allegato F: Tabella Sinottica degli elementi necessari al percorso decisionale
+Allegato E: Tabella Sinottica degli elementi necessari al percorso decisionale
 ==============================================================================
 
 Al fine di agevolare la valutazione comparativa, attraverso un percorso
