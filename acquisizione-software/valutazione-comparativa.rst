@@ -4,10 +4,10 @@ Valutazione comparativa
 Descrizione delle soluzioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L’articolo 68, comma 1 del CAD indica le tipologie di soluzione oggetto
-dell’analisi comparativa per tipologia di software:
+L'articolo 68, comma 1 del CAD indica le tipologie di soluzione oggetto
+dell'analisi comparativa per tipologia di software:
 
-| “Le pubbliche amministrazioni acquisiscono programmi informatici o
+| "Le pubbliche amministrazioni acquisiscono programmi informatici o
   parti di essi nel rispetto dei princìpi di economicità e di
   efficienza, tutela degli investimenti, riuso e neutralità tecnologica,
   a seguito di una valutazione comparativa di tipo tecnico ed economico
@@ -24,24 +24,24 @@ La seguente lista di definizioni descrive le sei soluzioni previste
 dalla normativa:
 
 A - Software sviluppato per conto della pubblica amministrazione
-    Soluzione detta anche “opzione *make*\ ”: la PA affida lo sviluppo
+    Soluzione detta anche "opzione *make*\ ": la PA affida lo sviluppo
     del software (sia esso ex novo o modifica di software esistente)
-    a un fornitore e quest’ultimo si impegna a consegnare alla P.A. il software
+    a un fornitore e quest'ultimo si impegna a consegnare alla P.A. il software
     sviluppato sulla base dei requisiti da questa definiti. Per esempio,
     nel ciclo di vita del software (analisi, progettazione, sviluppo,
     collaudo, rilascio, manutenzione) la P.A. potrebbe occuparsi delle
     fasi di analisi e progettazione, definendo i requisiti del software,
     per poi affidare lo sviluppo al fornitore.
 
-B - Riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione
-    Soluzione “riuso” di un software della P.A. (o suoi componenti) già
-    esistente e disponibile.
+B - Riutilizzo di software o parti di esso sviluppati per conto della
+    pubblica amministrazione Soluzione "riuso" di un software della P.A.
+    (o suoi componenti) già esistente e disponibile.
 
 C - Software libero o a codice sorgente aperto
-    Software con licenza Open Source. In particolare,
-    si intende tutto il software distribuito sotto una licenza
-    certificata da OSI (*lista completa*), come descritto in *3.5.2.
-    Licenze per il software aperto*.
+    Software con licenza Open Source (vedi :ref:`glossario`). In
+    particolare, si intende tutto il software distribuito sotto una
+    licenza certificata da OSI (`lista completa <https://opensource.org/licenses/alphabetical>`__),
+    come descritto in :ref:`licenze-per-il-software-aperto`.
 
 D - Software fruibile in modalità cloud computing
     Soluzione nella quale la P.A. acquisisce il software come servizio.
@@ -49,25 +49,26 @@ D - Software fruibile in modalità cloud computing
     as a Service*) e IaaS (*Infrastructure as a Service*).
 
 E - Software di tipo proprietario mediante ricorso a licenza d'uso
-    Software soggetto a condizioni di licenza d’uso di tipo proprietario
-    da installare “\ *on premise*\ ”.
+    Software soggetto a condizioni di licenza d'uso di tipo proprietario
+    da installare "\ *on premise*\ ".
 
 F - Software combinazione delle precedenti soluzioni
     Software realizzato con componenti appartenenti a più di una
     categoria tra quelle precedenti. Ad esempio, software in cui una
     soluzione in riuso si appoggia su un *middleware Open Source* e
     accede a un database proprietario, con componenti realizzate
-    appositamente per conto dell’amministrazione destinataria della
+    appositamente per conto dell'amministrazione destinataria della
     soluzione. È di fatto la tipologia più comune tra quelle
     effettivamente in uso nelle pubbliche amministrazioni.
 
-Inoltre, il comma 1 dell’articolo 69 del CAD indica che
+Inoltre, il comma 1 dell'articolo 69 del CAD indica che
 
-|  “le pubbliche amministrazioni che siano titolari di soluzioni e
+|  "le pubbliche amministrazioni che siano titolari di soluzioni e
   programmi informatici realizzati su specifiche indicazioni del
   committente pubblico, hanno l'obbligo di rendere disponibile il
   relativo codice sorgente, completo della documentazione e rilasciato
   in repertorio pubblico sotto licenza aperta, in uso gratuito."
+
 
 Per quanto riguarda la soluzione D) (Software fruibile in modalità
 *cloud computing*), questa è da considerarsi una modalità di erogazione
@@ -83,7 +84,7 @@ elencati al comma 1-bis dell'\ `art. 68 del
 CAD <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__.
 
 Costo complessivo
-    Nell’ambito del presente documento è da intendersi come *Total Cost
+    Nell'ambito del presente documento è da intendersi come *Total Cost
     of Ownership* (TCO) della soluzione, calcolato su una finestra
     temporale adeguata al contesto della valutazione, comprensivo del
     costo di migrazione verso altra soluzione (vedere anche paragrafo
@@ -92,7 +93,7 @@ Costo complessivo
 Utilizzo di formati di dati aperti
     Uso, da parte della soluzione da valutare, di formati standard e
     aperti (v. Glossario) per la rappresentazione di dati, metadati e
-    documenti, finalizzata ad assicurare l’interoperabilità tra i
+    documenti, finalizzata ad assicurare l'interoperabilità tra i
     sistemi informatici delle pubbliche amministrazioni e/o dei gestori
     di pubblici servizi.
 
@@ -101,26 +102,26 @@ Utilizzo di interfacce aperte
     incluse *Application Programming Interface* (API), vale a dire
     interfacce pubbliche, documentate e liberamente
     implementabili/estendibili, finalizzata ad assicurare
-    l’interoperabilità tra i sistemi informatici delle pubbliche
+    l'interoperabilità tra i sistemi informatici delle pubbliche
     amministrazioni e/o dei gestori di pubblici servizi.
 
 Utilizzo di standard per l'interoperabilità
     Adeguatezza della soluzione da valutare ad assicurare
-    l’interoperabilità tra i sistemi informatici delle pubbliche
+    l'interoperabilità tra i sistemi informatici delle pubbliche
     amministrazioni e/o dei gestori di pubblici servizi.
 
 Livelli di sicurezza
-    Nell’ambito del presente documento è da intendersi come l’esistenza
+    Nell'ambito del presente documento è da intendersi come l'esistenza
     di adeguate garanzie in merito ai livelli di sicurezza della
     soluzione indipendentemente dalla natura giuridica del titolare del
-    software e/o dell’erogatore del servizio in modalità *cloud
+    software e/o dell'erogatore del servizio in modalità *cloud
     computing*.
 
 Conformità alla normativa in materia di protezione dei dati personali
     È da intendersi come la conformità dei processi/procedure alla
     normativa in materia di protezione dei dati personali,
     indipendentemente dalla natura giuridica del titolare del software
-    e/o dell’erogatore del servizio in modalità *cloud computing*.
+    e/o dell'erogatore del servizio in modalità *cloud computing*.
 
 Livelli di servizio del fornitore
     È da intendersi come la capacità del fornitore di erogare i servizi
@@ -141,22 +142,25 @@ organizzazione in Macro fasi.
 
 La seguente immagine riporta le Macro fasi che caratterizzano il
 processo decisionale per dare seguito alla valutazione comparativa
-prevista all’articolo 68 del CAD.
+prevista all'articolo 68 del CAD.
 
 |image1-macro-fasi|
 
 Le Macro fasi individuate sono:
 
--  MACRO FASE 1: ha l’obiettivo di definire le esigenze specificando i
-   bisogni e i vincoli (organizzativi ed economici) che condizionano le
-   scelte per l’identificazione di una soluzione adeguata alle esigenze
-   dell’amministrazione;
--  MACRO FASE 2: qui la pubblica amministrazione accerta la possibilità
+MACRO FASE 1:
+   Ha l'obiettivo di definire le esigenze specificando i bisogni e i
+   vincoli (organizzativi ed economici) che condizionano le scelte per
+   l'identificazione di una soluzione adeguata alle esigenze
+   dell'amministrazione;
+MACRO FASE 2:
+   Qui la pubblica amministrazione accerta la possibilità
    di soddisfare le proprie esigenze utilizzando una soluzione già in
-   uso presso altre amministrazioni (di seguito “soluzioni a riuso delle
-   PA”) o a software libero o codice sorgente aperto (di seguito
-   “soluzioni Open Source”);
--  MACRO FASE 3: ove la Macro fase 2 non permetta di rispondere alle
+   uso presso altre amministrazioni (di seguito "soluzioni a riuso delle
+   PA") o a software libero o codice sorgente aperto (di seguito
+   "soluzioni Open Source").
+MACRO FASE 3:
+   Ove la Macro fase 2 non permetta di rispondere alle
    esigenze della Pubblica amministrazione, si persegue il
    soddisfacimento delle stesse attraverso il ricorso a programmi
    informatici di tipo proprietario, mediante ricorso a licenza d'uso
@@ -168,5 +172,3 @@ metodologie da adottare.
 
 .. |image1-macro-fasi| image:: ../media/image1-macro-fasi.png
 
-.. discourse::
-   :topic_identifier: 2859

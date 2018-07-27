@@ -1,3 +1,5 @@
+.. _riuso:
+
 Linee Guida sul riuso del Software (art. 69)
 ============================================
 

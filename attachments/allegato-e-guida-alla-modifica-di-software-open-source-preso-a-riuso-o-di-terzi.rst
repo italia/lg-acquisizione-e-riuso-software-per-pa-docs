@@ -1,56 +1,74 @@
-Allegato E: Guida alla modifica di software open source preso a riuso o di terzi
-================================================================================
+.. _guida-modifica:
 
-*Contesto: questo documento è pensato per essere allegato, insieme alla
-“Guida alla pubblicazione open source di software realizzato per la PA”
-alle specifiche tecniche per la presa in riuso di un software
-open-source, con eventuali modifiche. In caso di appalto, può essere
-allegato come documento di gara.*
+Allegato D: Guida alla presa in riuso di software open source
+=============================================================
 
-1. Modifica di software open source preso a riuso o di terzi
-------------------------------------------------------------
+Questa guida è rivolta alle Amministrazioni che vogliano prendere a riuso
+un software o adottare un software open source di terzi, effettuando delle
+modifiche allo stesso. La guida può essere utilizzata da chiunque sia incaricato di svolgere le
+attività in essa descritte: le risorse interne dell'Amministrazione, società
+in-house dell'Amministrazione, un fornitore di servizi individuato
+dall'Amministrazione. Nel corso della descrizione delle attività si utilizza
+il termine “Incaricato” indistintamente per tutte e tre queste categorie.
 
-Se il Fornitore ritiene di adottare un software open source esistente,
-sia rilasciato da altre Pubbliche Amministrazioni italiane sia
-sviluppato e mantenuto da soggetti terzi, o lo richiede
-l'Amministrazione committente, si applica integralmente quanto disposto
-dalla *Guida alla pubblicazione open source di software realizzato per
-la PA*, con l’aggiunta delle prescrizioni contenute nella presente
-guida.
+La guida è stata prodotta anche per poter essere allegata ad un capitolato
+tecnico nell'ambito di un appalto; in questo caso l'Incaricato è tenuto a
+svolgere le attività descritte nel presente documento come parte integrante
+dell'appalto, in aggiunta a quanto specificato nel resto del capitolato.
+
+Nel documento sarà adottata la seguente convenzione:
+
+-  MUST/MUST NOT: prescrizioni obbligatorie che l'Incaricato è tenuto a
+   rispettare;
+
+-  SHOULD/SHOULD NOT: raccomandazioni che l'Incaricato è tenuto a
+   valutare ed attuare qualora non vi siano documentabili ragioni
+   ostative;
+
+-  MAY/MAY NOT: scelte che l'Incaricato può attuare a propria
+   discrezione.
+
+
+
+1. Modifica di software open source adottato in riuso
+-----------------------------------------------------
+
+Nel caso di riuso di il software open source, la cui titolarità sia di
+una Pubblica Amministrazione, si applica quanto disposto da :ref:`guida-pubblicazione`,
+unitamente alle prescrizioni contenute nella presente guida.
+
+Inoltre, le procedure descritte in questa guida possono essere applicate
+anche alle modifiche effettuate a componenti software distribuiti con licenza
+open source la cui titolarità non sia delle Pubbliche Amministrazioni, di cui
+sia necessaria l'integrazione in software di proprietà della Pubblica
+Amministrazione.
+
+In caso di adozione di software rilasciato da Pubblica Amministrazione, è
+necessario notificare l'adozione in riuso tramite l'apertura di un ticket (o
+analogo meccanismo quale una *pull request*) nel repository della Pubblica
+Amministrazione titolare, così che questa possa indicare i riferimenti al
+riuso all'interno del file *publiccode.yml* nella apposita sezione.
 
 2. Modifica del codice sorgente
 -------------------------------
 
-È necessario operare con attenzione al fine di minimizzare il grado di
-divergenza tra il codice sorgente originale e quello modificato
-risultante dal lavoro del Fornitore. Nell'operare le modifiche
-necessarie all'adattamento non va infatti tenuto conto solo delle
-funzionalità richieste ma bisogna tendere a mantenere compatta e
-unitaria la base di codice. Uno dei principi fondamentali dell’open
-source è che un software adottato da più parti, e dunque
-sufficientemente generalizzato, è più robusto di un software molto
-specializzato utilizzato da pochi utenti o addirittura da un singolo
-utente. La compresenza di più utilizzatori e di più sviluppatori, con
-fini eterogenei, garantisce la qualità del software dal punto di vista
-della sicurezza e della robustezza; a tale scopo deve essere messo in
-campo ogni sforzo al fine di mettere a fattor comune la maggior parte
-delle porzioni di codice.
+L'Incaricato deve (MUST) operare con attenzione al fine di minimizzare il
+grado di divergenza tra il codice sorgente originale e quello modificato
+risultante dal lavoro effettuato. Nell'operare le modifiche necessarie
+all'adattamento non va infatti tenuto conto solo delle funzionalità richieste
+ma bisogna tendere a mantenere compatta e unitaria la base di codice.
 
-Nella scelta della base di codice da adottare devono essere privilegiati
-dunque i progetti che risultano più maturi, ovvero con più utenti o
-sviluppatori, o con la maggiore attività di manutenzione evolutiva e/o
-interazioni da parte della community.
-
-La modifica del codice sorgente deve essere ridotta al minimo
+La modifica del codice sorgente deve (MUST) essere ridotta al minimo
 indispensabile, preferendo invece i seguenti interventi:
 
 -  laddove il software originale preveda un meccanismo di plugin le
-   nuove funzionalità dovranno essere sviluppate sotto forma di plugin
+   nuove funzionalità dovranno (MUST) essere sviluppate sotto forma di plugin
    senza modificare il *core* (ad esempio, nel caso di un Content
    Management System);
 
--  laddove sia possibile estendere le classi esistenti senza modificarne
-   il codice è necessario seguire questa strada.
+-  laddove sia possibile estendere le classi o in generale moduli esistenti senza modificarne
+   il codice (cioè per *aggiunta*, sfruttando punti di estensione esistenti),
+   è necessario (MUST) seguire questa strada.
 
 Qualora non sia possibile realizzare tutte le funzionalità mediante i
 sopra descritti meccanismi di estensione, ma sia necessario modificare
@@ -74,53 +92,60 @@ recepito come contributo da parte dei maintainer del software originale
 In ogni caso, nel README dovrà essere chiaramente spiegato cosa è stato
 modificato rispetto al progetto originale.
 
+Il repository pubblicato dovrebbe (SHOULD) contenere tutta la storia delle
+modifiche dei “code commit” che l'Incaricato ha effettuato durante il processo
+di sviluppo, preservando lo storico dell'operato dell'attività di sviluppo,
+necessario e utile a tutti gli sviluppatori che vorranno contribuire per
+ridurre la curva di apprendimento.
+
+
 3. Interazione con il maintainer del progetto originale
 -------------------------------------------------------
 
-Al Fornitore è richiesto di massimizzare l'interazione con il maintainer
+All'Incaricato è richiesto di massimizzare l'interazione con il *maintainer*
 del progetto originale (SHOULD), con approccio collaborativo e con
 l'obiettivo di consolidare il lavoro in una unica base di codice a
 beneficio del successivo riuso.
 
-Nel caso di correzioni di bug, il Fornitore è tenuto (MUST) ad inviare
-al maintainer originale la proposta di correzione usando gli strumenti
+Nel caso di correzioni di bug, l'Incaricato è tenuto (MUST) ad inviare
+al *maintainer* originale la proposta di correzione usando gli strumenti
 di collaborazione previsti dalla piattaforma di code hosting (ad es.
 *pull request*).
 
 Nel caso di modifiche necessarie per implementare le nuove funzionalità,
-il Fornitore è tenuto (MUST) a prendere contatto con il maintainer
-attraverso i canali pubblici del repository (issue tracker) in modo da
-presentare il nuovo caso d'uso, proporre la modifica ed ottenere
-feedback sulle modalità da seguire soprattutto nell'ottica di scrivere
-modifiche che possano essere incorporate dal maintainer originale. È
-necessario concedere alcuni giorni al maintainer per rispondere;
-tuttavia se il Fornitore ravvisasse tempi di risposta non compatibili
-con il proprio cronoprogramma di lavoro può procedere anche in autonomia
-(MAY).
+l'Incaricato è tenuto (MUST) a prendere contatto con il *maintainer*
+attraverso i canali pubblici del repository (*issue tracker*) in modo da
+presentare il nuovo caso d'uso, proporre la modifica ed ottenere feedback
+sulle modalità da seguire soprattutto nell'ottica di scrivere modifiche che
+possano essere incorporate dal *maintainer* originale. È necessario concedere
+alcuni giorni al *maintainer* per rispondere; tuttavia, qualora i tempi di
+risposta si dovessero protrarre eccessivamente, si potrà procedere anche in
+autonomia (MAY).
 
-Al termine dello sviluppo, il Fornitore è tenuto a proporre al
-maintainer originale le proprie modifiche (MUST), con delle proposte di
+Al termine dello sviluppo, l'Incaricato è tenuto a proporre al
+*maintainer* originale le proprie modifiche (MUST), con delle proposte di
 codice (*pull request*) granulari, ovvero distinte per singole
-funzionalità in modo da consentire al maintainer di valutarle
+funzionalità in modo da consentire al *maintainer* di valutarle
 singolarmente.
 
-4. Pubblicazione di codice open source non già a riuso
-------------------------------------------------------
+l'Incaricato è inoltre tenuto (MUST) a tenere traccia di tutte le
+contribuzioni al software inviate al *maintainer* del software originale,
+documentandone lo stato di integrazione all'interno del file README
+del repository.
 
-In caso di modifica di un software open source di terzi (non preso a
-riuso da un’altra Amministrazione) il cui maintainer abbia recepito
-integralmente le proposte di modifica inviate dal Fornitore (v.
-paragrafo precedente), il Fornitore è comunque tenuto a pubblicare il
-codice nel repository dell’Amministrazione per metterlo a riuso,
-specificando nel README che tale codice è stato recepito dal progetto
-originale, con un link al repository dello stesso.
+4. Pubblicazione di codice open source non originato nel originato nel contesto della PA
+----------------------------------------------------------------------------------------
 
-Si ricorda infatti che, come prescritto dalle Linee Guida, il “software
-a riuso” è il software rilasciato da una Amministrazione in adempimento
-all’art. 69 del CAD; se dunque una Amministrazione adotta un software
-open source di terzi, è tenuta a metterlo a riuso, pubblicandolo essa
-stessa perché sia chiara ad altre Amministrazioni la provenienza di tale
-software.
+Nel caso in cui il *maintainer* di un software open source la cui titolarità non
+sia attribuita ad una Pubblica Amministrazione, il cui abbia recepito
+integralmente le proposte di modifica (v. paragrafo precedente) presentate del
+l'Incaricato, quest'ultimo è comunque tenuto a pubblicare il codice nello
+strumento di code hosting dell'Amministrazione per metterlo a riuso,
+specificando nel *README* che tale codice è stato recepito dal progetto
+originario, con un *link* al *repository* dello stesso.
 
-.. discourse::
-   :topic_identifier: 2865
+Come prescritto dalle Linee Guida, il "software a riuso" è il software
+rilasciato da una Pubblica Amministrazione in adempimento all'art 69 del CAD.
+Quindi l'Amministrazione Pubblica che adotta un software open source non
+originato nel contesto della PA, è tenuta a metterlo a riuso, indicando la sua
+provenienza.
