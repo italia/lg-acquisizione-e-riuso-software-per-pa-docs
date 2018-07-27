@@ -76,6 +76,11 @@ assoluta.
 2.2. Descrizione del ruolo di maintainer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+All'interno di un progetto open source, il maintainer è il soggetto che
+svolge un'attività di controllo e direzione degli sviluppi sul progetto,
+e a cui la *community* che afferisce al software (es: utilizzatori) può
+segnalare problematiche o discutere miglioramenti.
+
 Per tutta la durata dell'attività di manutenzione connessa al software,
 l'Amministrazione titolare svolgerà il ruolo di *maintainer* del progetto open
 source, affidandone l'esecuzione all'Incaricato, il quale inserirà il nome
@@ -99,8 +104,8 @@ un cortese riscontro con delle prime considerazioni.
 2.3.1. Risoluzione di bug
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Le segnalazioni di bug ricevute da utenti esterni attraverso l'issue
-tracker dovranno essere analizzate al pari di quelle ricevute
+Le segnalazioni di bug ricevute da utenti esterni attraverso il sistema di *issue
+tracking* dovranno essere analizzate al pari di quelle ricevute
 dall'Amministrazione committente. Se la risoluzione fosse compatibile
 (in quanto a tempi e costi) con le attività previste dal contratto,
 potrà essere eseguita senza necessità di ulteriore approvazione. Se

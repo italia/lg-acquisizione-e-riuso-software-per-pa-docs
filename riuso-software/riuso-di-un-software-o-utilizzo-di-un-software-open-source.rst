@@ -3,9 +3,9 @@
 Riuso di un software o utilizzo di un software Open Source
 ----------------------------------------------------------
 
-Nel secondo capitolo di queste Linee Guida, dedicato all'Art. 68, viene
+Nel secondo capitolo delle presenti Linee guida, dedicato all'art. 68, viene
 illustrato il processo con il quale l'amministrazione decide la modalità
-di approvvigionamento del software.
+di individuazione del software.
 
 Se l'amministrazione, seguendo la valutazione comparativa proposta,
 sceglie di prendere a riuso un software esistente o di utilizzare un
@@ -44,7 +44,7 @@ che effettua la modifica non ha influenza sulla necessità per
 quest'ultima di acquisire la titolarità delle modifiche sviluppate. Si
 rimanda quindi a :ref:`titolarita`.
 
-Viceversa, a livello tecnico, Il processo per effettuare le modifiche è
+Viceversa, a livello tecnico, il processo per effettuare le modifiche è
 diverso dal processo di manutenzione descritto in :ref:`manutenzione-software`
 poiché gli interventi avverranno su un software del quale non si ha la
 piena titolarità e dunque è necessario un coordinamento tecnico, già

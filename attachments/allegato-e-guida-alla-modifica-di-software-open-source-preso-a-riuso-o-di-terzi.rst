@@ -33,21 +33,21 @@ Nel documento sarà adottata la seguente convenzione:
 1. Modifica di software open source adottato in riuso
 -----------------------------------------------------
 
-In caso di adozione di un *software open source* esistente, sia rilasciato da
-altre Pubbliche Amministrazioni italiane sia sviluppato e mantenuto da
-soggetti terzi, alle modifiche effettuate si applica integralmente quanto
-disposto dalla :ref:`guida-pubblicazione`, con l'aggiunta delle prescrizioni
-contenute nella presente guida.
+Nel caso di riuso di il software open source, la cui titolarità sia di
+una Pubblica Amministrazione, si applica quanto disposto da :ref:`guida-pubblicazione`,
+unitamente alle prescrizioni contenute nella presente guida.
 
-Inoltre, le procedure descritte in questa guida si applicano anche alle
-modifiche effettuati a componenti software distribuiti con licenza open source
-che l'Incaricato dovesse decidere di integrare nel software in questione per
-l'esecuzione delle attività.
+Inoltre, le procedure descritte in questa guida possono essere applicate
+anche alle modifiche effettuate a componenti software distribuiti con licenza
+open source la cui titolarità non sia delle Pubbliche Amministrazioni, di cui
+sia necessaria l'integrazione in software di proprietà della Pubblica
+Amministrazione.
 
-In caso di adozione di software rilasciato da pubblica amministrazione, è
-necessario notificare l'assunzione in riuso tramite l'apertura di un ticket
-nel repository della PA che ha rilasciato, al fine di indicare il riuso
-all'interno del file publiccode.yml nella apposita sezione.
+In caso di adozione di software rilasciato da Pubblica Amministrazione, è
+necessario notificare l'adozione in riuso tramite l'apertura di un ticket (o
+analogo meccanismo quale una *pull request*) nel repository della Pubblica
+Amministrazione titolare, così che questa possa indicare i riferimenti al
+riuso all'interno del file *publiccode.yml* nella apposita sezione.
 
 2. Modifica del codice sorgente
 -------------------------------
@@ -102,50 +102,50 @@ ridurre la curva di apprendimento.
 3. Interazione con il maintainer del progetto originale
 -------------------------------------------------------
 
-All'Incaricato è richiesto di massimizzare l'interazione con il maintainer
+All'Incaricato è richiesto di massimizzare l'interazione con il *maintainer*
 del progetto originale (SHOULD), con approccio collaborativo e con
 l'obiettivo di consolidare il lavoro in una unica base di codice a
 beneficio del successivo riuso.
 
 Nel caso di correzioni di bug, l'Incaricato è tenuto (MUST) ad inviare
-al maintainer originale la proposta di correzione usando gli strumenti
+al *maintainer* originale la proposta di correzione usando gli strumenti
 di collaborazione previsti dalla piattaforma di code hosting (ad es.
 *pull request*).
 
 Nel caso di modifiche necessarie per implementare le nuove funzionalità,
-l'Incaricato è tenuto (MUST) a prendere contatto con il maintainer
-attraverso i canali pubblici del repository (issue tracker) in modo da
-presentare il nuovo caso d'uso, proporre la modifica ed ottenere
-feedback sulle modalità da seguire soprattutto nell'ottica di scrivere
-modifiche che possano essere incorporate dal maintainer originale. È
-necessario concedere alcuni giorni al maintainer per rispondere;
-tuttavia se l'Incaricato ravvisasse tempi di risposta non compatibili
-con il proprio cronoprogramma di lavoro può procedere anche in autonomia
-(MAY).
+l'Incaricato è tenuto (MUST) a prendere contatto con il *maintainer*
+attraverso i canali pubblici del repository (*issue tracker*) in modo da
+presentare il nuovo caso d'uso, proporre la modifica ed ottenere feedback
+sulle modalità da seguire soprattutto nell'ottica di scrivere modifiche che
+possano essere incorporate dal *maintainer* originale. È necessario concedere
+alcuni giorni al *maintainer* per rispondere; tuttavia, qualora i tempi di
+risposta si dovessero protrarre eccessivamente, si potrà procedere anche in
+autonomia (MAY).
 
 Al termine dello sviluppo, l'Incaricato è tenuto a proporre al
-maintainer originale le proprie modifiche (MUST), con delle proposte di
+*maintainer* originale le proprie modifiche (MUST), con delle proposte di
 codice (*pull request*) granulari, ovvero distinte per singole
-funzionalità in modo da consentire al maintainer di valutarle
+funzionalità in modo da consentire al *maintainer* di valutarle
 singolarmente.
 
 l'Incaricato è inoltre tenuto (MUST) a tenere traccia di tutte le
-contribuzioni al software inviate al maintainer del software originale,
+contribuzioni al software inviate al *maintainer* del software originale,
 documentandone lo stato di integrazione all'interno del file README
 del repository.
 
 4. Pubblicazione di codice open source non originato nel originato nel contesto della PA
 ----------------------------------------------------------------------------------------
 
-In caso di modifica di un software open source non originato nel contesto della PA
-il cui *maintainer* abbia recepito
-integralmente le proposte di modifica inviate dall'Incaricato (v.
-paragrafo precedente), l'Incaricato è comunque tenuto a pubblicare il
-codice nello strumento di code-hosting dell'Amministrazione per metterlo a riuso,
-specificando nel README che tale codice è stato recepito dal progetto
-originale, con un *link* al *repository* dello stesso.
+Nel caso in cui il *maintainer* di un software open source la cui titolarità non
+sia attribuita ad una Pubblica Amministrazione, il cui abbia recepito
+integralmente le proposte di modifica (v. paragrafo precedente) presentate del
+l'Incaricato, quest'ultimo è comunque tenuto a pubblicare il codice nello
+strumento di code hosting dell'Amministrazione per metterlo a riuso,
+specificando nel *README* che tale codice è stato recepito dal progetto
+originario, con un *link* al *repository* dello stesso.
 
 Come prescritto dalle Linee Guida, il "software a riuso" è il software
-rilasciato da una Amministrazione in adempimento all’art 69 del CAD; se dunque
-una Amministrazione adotta un software open source non originato nel contesto
-della PA, è tenuta a metterlo a riuso, esplicitandone la provenienza.
+rilasciato da una Pubblica Amministrazione in adempimento all'art 69 del CAD.
+Quindi l'Amministrazione Pubblica che adotta un software open source non
+originato nel contesto della PA, è tenuta a metterlo a riuso, indicando la sua
+provenienza.

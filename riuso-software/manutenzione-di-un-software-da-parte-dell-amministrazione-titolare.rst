@@ -9,17 +9,16 @@ aggiornato relativamente alla veloce evoluzione tecnologica,
 all'evoluzione normativa, e alle nuove esigenze dell'amministrazione.
 
 Durante la manutenzione, inoltre, gli aggiornamenti del software
-prodotti entrano nel campo di applicazione dell'art. 69 del CAD, e
-devono quindi essere messi a riuso. Questa sezione descrive la procedura
+prodotti entrano nel campo di applicazione dell'art. 69 del CAD e
+devono quindi essere messi a riuso. La presente sezione descrive la procedura
 manutentiva che indichiamo per consentire in modo agevole il riuso di
 questi miglioramenti.
 
 Titolarità del codice sviluppato in fase di manutenzione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Come già discusso in :ref:`titolarita`,
-l'amministrazione deve assicurarsi la piena titolarità
-del software realizzato ex novo, ivi comprese ogni porzione realizzata
+Come già discusso in :ref:`titolarita`, l'amministrazione deve assicurarsi
+la piena titolarità del software realizzato *ex novo*, ivi compresa ogni porzione realizzata
 durante un contratto di manutenzione. Si rimanda al citato paragrafo per ulteriori
 informazioni.
 
@@ -34,11 +33,11 @@ dall'originale, causando costi elevati per qualunque amministrazione
 che, avendo preso in riuso il software originale, voglia continuare a
 beneficiare della sua evoluzione.
 
-Il modo corretto e con meno oneri (sia per l'amministrazione titolare,
-sia per quelle che vorranno riusare il software in futuro) per mantenere
+Il modo corretto e con minori oneri (sia per l'amministrazione titolare,
+sia per quelle che vorranno riutilizzare il software in futuro) per mantenere
 un software sotto licenza aperta è quello di adottare uno **specifico**
 **processo di sviluppo** nel quale ogni singola modifica venga
-effettuata direttamente nel repositorio originale contenente il
+effettuata direttamente nel *repository* originale contenente il
 software, dando immediata evidenza del cambiamento avvenuto.
 
 Inoltre, è necessario comunicare che il software è in fase di
@@ -66,14 +65,14 @@ incaricate di tale manutenzione offrano un supporto base a chi segnala
 in modo circostanziato eventuali anomalie, oppure voglia effettuare (a
 proprie spese) modifiche al software.
 
-Il modello di riuso, infatti, consente a più amministrazioni di
-investire sul medesimo software, ciascuna con il proprio budget, andando
-quindi a costruire un valore incrementale sul software originario.
-Affinché detto processo funzioni correttamente, però, è essenziale
-almeno un coordinamento tecnico tra chi mantiene il software e chi lo
-vuole modificare. Inoltre, questo offre una opportunità di condividere
-piani di sviluppo e dunque investimenti tra più amministrazioni sul
-medesimo software, con risparmio per la finanza pubblica.
+Il modello di riuso, infatti, consente a più amministrazioni di investire sul
+medesimo software, ciascuna con il proprio *budget*, andando quindi a
+costruire un valore incrementale sul software originario. Affinché detto
+processo funzioni correttamente, però, è auspicabile almeno un coordinamento
+tecnico tra la Pubblica Amministrazione che mantiene il software e quella che
+intenda modificarlo. Inoltre, questo offre una opportunità di condividere
+piani di sviluppo e dunque investimenti tra più amministrazioni sul medesimo
+software, con risparmio per la finanza pubblica.
 
 Anche questo processo di supporto alla modifica di un software è
 dettagliato nella stessa guida :ref:`guida-manutenzione`.
@@ -82,7 +81,7 @@ Software non ancora rilasciato sotto licenza aperta
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se l'amministrazione avvia un processo di manutenzione di un software
-che già possiede ma per il quale non ha ancora provveduto al rilascio
+che già possiede, ma per il quale non abbia ancora provveduto al rilascio
 sotto licenza aperta, si deve valutare l'aggiunta dell'attività di primo
 rilascio al contratto di manutenzione, in ragione del minor costo che
 normalmente si sostiene rispetto ad effettuarlo separatamente.

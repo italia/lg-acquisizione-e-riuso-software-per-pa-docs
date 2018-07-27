@@ -36,16 +36,17 @@ comunità.
 software** di cui è già in possesso al fine di verificarne la
 titolarità, e in caso positivo proceda al rilascio sotto licenza aperta.
 
-Vista la rapida evoluzione del software e la chiara finalità del riuso,
-si considera escluso dall'obbligo di rilascio il software che non sia
-più in uso da parte dell'amministrazione da più di 5 anni dall'entrata
-in vigore delle presenti linee guida.
+Vista la rapida obsolescenza delle tecnologie digitali, e considerata
+l'importanza di favorire il riuso delle soluzioni disponibili, si ritiene
+escluso dall'obbligo di rilascio il software che non sia più in uso da parte
+dell'amministrazione da oltre 5 anni, con riferimento alla data di
+pubblicazione delle presenti linee guida.
 
-Le specifiche di dettaglio di come effettuare il rilascio sono contenute in
+Le specifiche di dettaglio su come effettuare il rilascio sono contenute in
 :ref:`guida-pubblicazione`. Laddove l'amministrazione non avesse le risorse
 necessarie per allineare la documentazione agli standard previsti della
 Guida, l'amministrazione deve procedere comunque immediatamente al
-rilascio di quanto ha in possesso nello stato in cui si trova, fermo
+rilascio di quanto abbia in possesso nello stato in cui si trova, fermo
 restando che la presenza di documentazione è requisito essenziale previsto
 dalla norma e sarà quindi necessario procedere al completamento e
 allineamento della documentazione al più presto per considerare
