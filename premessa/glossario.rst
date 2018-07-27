@@ -15,7 +15,7 @@ Code Hosting (strumento di)
     spesso anche funzionalità legate all'evoluzione di un software quali
     sistemi di ticketing, processi per la contribuzione di codice da
     parte di terzi, area per il download dei rilasci, ecc. Nell'ambito
-    di queste Linee Guida, gli strumenti scelti dalle amministrazioni
+    delle presenti Linee Guida, gli strumenti scelti dalle amministrazioni
     devono avere dei requisiti minimi in termini di funzionalità
     (:ref:`scelta-code-hosting`).
 
@@ -54,7 +54,7 @@ Licenza
     altrimenti sarebbero riservati da diritti di privativa.
 
 Lock-in
-    Fenomeno di natura economica in cui un generico utente non riesce a
+    Fenomeno di natura tecnica ed economica in cui un generico utente non riesce a
     svincolarsi da una scelta tecnologica precedentemente effettuata.
     Tale incapacità è tipicamente causata degli elevati costi legati al
     cambio di tecnologia ma, in molti casi, può anche dipendere

@@ -18,11 +18,17 @@ oggetto di queste linee guida è il seguente:
 -  Sistemi operativi
 -  Siti web (frontend e backend)
 
-Inoltre, è importante notare che il termine “software”, come usato in
+È auspicabile che le presenti linee guida favoriscano la razionalizzazione
+delle soluzioni utilizzate nei settori/servizi comuni alle pubbliche
+amministrazioni, quali, ad esempio, gestione del personale, gestione e
+conservazione documentale, gestione dei processi decisionali, comunicazione
+istituzionale e trasparenza amministrativa.
+
+Inoltre, è importante notare che il termine "software", come usato in
 questo documento, non designa solo il mero codice sorgente e/o
-l’eseguibile, ma anche tutti gli artefatti prodotti durante il processo
+l'eseguibile, ma anche tutti gli artefatti prodotti durante il processo
 di sviluppo e utilizzo del software, cioè documentazione, asset grafici,
-manuali, ecc., così come esplicitato nel comma 1 dell’articolo 69.
+manuali, ecc., così come esplicitato nel comma 1 dell'articolo 69.
 
 .. discourse::
    :topic_identifier: 2858

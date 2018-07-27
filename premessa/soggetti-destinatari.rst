@@ -19,16 +19,17 @@ amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30
 luglio 1999, n. 300 e al CONI (per quest'ultima amministrazione fino
 alla revisione organica della disciplina di settore)"*.
 
-Non si applicano le disposizioni sul riuso delle soluzioni limitatamente
-all'esercizio delle attività e funzioni di ordine e sicurezza pubblica,
-difesa e sicurezza nazionale e consultazioni elettorali.
+Non si applicano le disposizioni sul riuso delle soluzioni ove sussistano
+"motivate ragioni di  ordine e sicurezza pubblica, difesa e sicurezza
+nazionale e consultazioni elettorali".
 
-Per quanto riguarda le limitazioni all'applicazione del CAD, sono
-previsti appositi decreti del Presidente del Consiglio dei Ministri che,
-tenuto conto delle esigenze derivanti dalla natura delle proprie
-particolari funzioni, stabiliscono le modalità, i limiti e i tempi di
-applicazione delle disposizioni del CAD alla Presidenza del Consiglio
-dei Ministri e all'amministrazione economico-finanziaria.
+Con riferimento all'ambito di applicazione delle presenti Linee guida, si
+auspica l'utilizzo da parte delle PP.AA. degli strumenti di cooperazione e
+collaborazione offerti dalla normativa vigente, quali gli accordi di
+collaborazione previsti dall'art. 15 L. 241/1990, al fine di realizzare
+esperienze di co-progettazione, ampliando la condivisione della conoscenza, di
+processi decisionali e di percorsi comuni, quali ad esempio centri di
+competenza e di supporto al ciclo di vita del software.
 
 .. discourse::
    :topic_identifier: 2858

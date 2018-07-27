@@ -5,11 +5,13 @@ Per le Pubbliche amministrazioni il Codice dell'Amministrazione
 Digitale, di seguito denominato CAD, disciplina il riuso delle soluzioni
 e standard aperti.
 
-Questo è possibile fondendo in un unico disegno riuso, titolarità e
-codice sorgente aperto.
+Gli articoli 68 e 69, che le presenti Linee guida hanno l'obiettivo di
+attuare, trattano nel medesimo contesto i temi del riuso, della titolarità del
+software e del codice sorgente aperto per le PPAA.
 
-L'aggiornamento del CAD, dovuto al D.Lgs. 217 del 12/01/2017, ha
-apportato:
+Gli articoli richiamati sono stati modificati sia dal d.lgs. 26 agosto 2016 n.
+179 sia dal d.lgs. 12 gennaio 2017 n. 217. L'ultimo aggiornamento ha
+comportato:
 
 -  la modifica dell'art. 68, abrogando il comma 3 e trasponendo il
    contenuto nell'art. 1 co. 3, lettere l-bis e l-ter;
@@ -40,9 +42,10 @@ software da parte delle pubbliche amministrazioni svolgevano un ruolo:
 -  il Catalogo nazionale programmi riutilizzabili gestito dall'AgID.
 
 I primi due continuano a svolgere la funzione, mentre le funzioni del
-catalogo, abrogato dal CAD, sono assunte dalla piattaforma Developers
-Italia (https://developers.italia.it), individuata da queste linee
-guida.
+catalogo, abrogato in quanto tale dal CAD, sono assunte dal portale
+*Developers Italia* (https://developers.italia.it), che assume il ruolo di
+"piattaforma", rectius *repertorio* - secondo la dizione dell'art. 69 co. 1 -,
+e delle *piattaforme* di cui all'art. 69 co. 2bis.
 
 Il presente documento ribadisce che i "principi di economicità e di
 efficienza, tutela degli investimenti, riuso e neutralità tecnologica"

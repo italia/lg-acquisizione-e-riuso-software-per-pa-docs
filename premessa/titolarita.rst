@@ -29,7 +29,7 @@ effettivamente sviluppate in esecuzione del contratto; resta inteso che
 lo sviluppo potrebbe basarsi sull'utilizzo di componenti software già
 esistenti (es: librerie e framework open source di terzi) per le quali
 non è necessario acquisire titolarità ma solo licenza d'uso (che
-dev'essere compatibile con le finalità di riuso),
+dev'essere compatibile con le finalità di riuso).
 
 La mancata acquisizione della titolarità dell'opera non può essere
 utilizzata per ottenere condizioni economiche più vantaggiose, poiché

@@ -12,16 +12,17 @@ diritti di proprietà intellettuale di un'amministrazione, con un
 importante vantaggio economico e in termini di efficienza, è importante
 richiamare l'attenzione delle singole Amministrazioni sull'importanza
 che il software posto in riuso - come d'altra parte l'intero parco
-software in uso a ogni amministrazione - sia conforme alla disciplina
+*software* in uso a ogni amministrazione - sia conforme alla disciplina
 vigente.
 
-Poiché il processo di acquisizione di un software a riuso spesso
-comprende personalizzazioni e aggregazioni di diverse componenti, alcune
-delle quali potrebbero non essere più in uso o rilasciate anche anni
-prima, è importante ricordare che la compliance rimane in capo
-all'amministrazione che prende in riuso un software, poiché solo essa
-può eseguirla nel contesto legislativo e nel momento in cui il software
-viene messo in produzione.
+Poiché il processo di acquisizione di un software in riuso spesso comprende
+personalizzazioni e aggregazioni di diverse componenti, alcune delle quali
+potrebbero non essere più in uso o rilasciate anche anni prima, è importante
+ricordare che la verifica della piena conformità ai contesti normativi rimane
+in capo all'amministrazione che prenda in riuso un software, poiché solo ad
+essa compete la responsabilità delle decisioni assunte nell'ambito dei margini
+di discrezionalità assegnati e nel rispetto dei principi costituzionali di
+buon andamento.
 
 
 .. discourse::
