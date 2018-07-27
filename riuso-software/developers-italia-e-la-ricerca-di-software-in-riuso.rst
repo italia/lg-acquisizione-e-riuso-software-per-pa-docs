@@ -19,5 +19,3 @@ amministrazioni. In particolare:
    fini del riuso, perché diventi facilmente individuabile da parte di
    altre amministrazioni.
 
-.. discourse::
-   :topic_identifier: 2860

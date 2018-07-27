@@ -22,6 +22,3 @@ la relativa descrizione tecnico funzionale di tutte le soluzioni
 informatiche… sono pubblicati attraverso una o più piattaforme
 individuate dall'AgID con proprie linee guida da adottarsi ai sensi
 dell'articolo 71*".
-
-.. discourse::
-   :topic_identifier: 2860

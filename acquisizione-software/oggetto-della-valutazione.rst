@@ -34,6 +34,3 @@ Si noti che nei casi qui elencati si devono comunque applicare le `Linee
 Guida sul riuso del
 Software <../riuso-software.html>`__ descritte
 nel Capitolo 3.
-
-.. discourse::
-   :topic_identifier: 2859

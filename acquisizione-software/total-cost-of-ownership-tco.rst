@@ -42,6 +42,3 @@ va oltre gli obiettivi di questa Linee Guida, poiché le esigenze sono
 le più differenti. AgID potrà, in futuro, pubblicare dei modelli
 facoltativi, pronti all'uso, all'interno della piattaforma Developers
 Italia.
-
-.. discourse::
-   :topic_identifier: 2859

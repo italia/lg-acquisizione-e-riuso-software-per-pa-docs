@@ -63,5 +63,3 @@ dall'articolo 69 del CAD:
 -  "tutti i diritti di sfruttamento economico sul software oggetto del
    contratto competono all'amministrazione committente".
 
-.. discourse::
-   :topic_identifier: 2858

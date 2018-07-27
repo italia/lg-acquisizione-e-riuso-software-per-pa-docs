@@ -31,5 +31,3 @@ esperienze di co-progettazione, ampliando la condivisione della conoscenza, di
 processi decisionali e di percorsi comuni, quali ad esempio centri di
 competenza e di supporto al ciclo di vita del software.
 
-.. discourse::
-   :topic_identifier: 2858

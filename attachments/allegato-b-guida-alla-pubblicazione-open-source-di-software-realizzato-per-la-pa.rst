@@ -439,5 +439,3 @@ La registrazione avviene seguendo due passaggi:
    è da seguire è dettagliata qui:
    https://onboarding.developers.italia.it
 
-.. discourse::
-   :topic_identifier: 2862

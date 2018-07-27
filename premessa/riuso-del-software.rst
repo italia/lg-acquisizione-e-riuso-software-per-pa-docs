@@ -23,5 +23,3 @@ gratuitamente dall'Amministrazione cedente, e lo acquisisce sostenendo
 solo le spese di suo adattamento, ma non quelle di progettazione e
 realizzazione.
 
-.. discourse::
-   :topic_identifier: 2858

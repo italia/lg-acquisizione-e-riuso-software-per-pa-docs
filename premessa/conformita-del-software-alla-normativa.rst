@@ -24,6 +24,3 @@ essa compete la responsabilità delle decisioni assunte nell'ambito dei margini
 di discrezionalità assegnati e nel rispetto dei principi costituzionali di
 buon andamento.
 
-
-.. discourse::
-   :topic_identifier: 2858

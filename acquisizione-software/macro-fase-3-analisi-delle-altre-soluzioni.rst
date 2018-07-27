@@ -139,5 +139,3 @@ acquisire la titolarità del codice sviluppato (come spiegato in
 
 .. |image4-macro-fase-3| image:: ../media/image4-macro-fase-3.png
 
-.. discourse::
-   :topic_identifier: 2859

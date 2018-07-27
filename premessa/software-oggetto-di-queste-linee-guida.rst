@@ -30,5 +30,3 @@ l'eseguibile, ma anche tutti gli artefatti prodotti durante il processo
 di sviluppo e utilizzo del software, cioè documentazione, asset grafici,
 manuali, ecc., così come esplicitato nel comma 1 dell'articolo 69.
 
-.. discourse::
-   :topic_identifier: 2858

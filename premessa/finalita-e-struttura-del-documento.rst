@@ -88,6 +88,3 @@ In tal senso, le *Linee guida* si pongono non come mero strumento
 regolatorio, bensì come suggerimento per nuovi  processi di accompagnamento,
 sensibilizzazione ed informazione.
 
-
-.. discourse::
-   :topic_identifier: 2858

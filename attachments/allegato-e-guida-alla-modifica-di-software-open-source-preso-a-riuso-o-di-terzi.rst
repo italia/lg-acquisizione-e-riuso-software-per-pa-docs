@@ -136,5 +136,3 @@ open source di terzi, è tenuta a metterlo a riuso, pubblicandolo essa
 stessa perché sia chiara ad altre Amministrazioni la provenienza di tale
 software.
 
-.. discourse::
-   :topic_identifier: 2865

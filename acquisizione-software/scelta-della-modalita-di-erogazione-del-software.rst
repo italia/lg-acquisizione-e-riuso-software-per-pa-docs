@@ -28,5 +28,3 @@ IaaS:
    circolare AGID "\ *Criteri per la qualificazione dei Cloud Service
    Provider per la PA*\ ".
 
-.. discourse::
-   :topic_identifier: 2859

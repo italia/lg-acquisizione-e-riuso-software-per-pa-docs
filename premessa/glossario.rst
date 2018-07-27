@@ -113,5 +113,3 @@ TCO
     i costi che intervengono durante l'intera vita di esercizio della
     risorsa stessa.
 
-.. discourse::
-   :topic_identifier: 2858

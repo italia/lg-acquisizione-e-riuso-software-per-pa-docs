@@ -50,6 +50,3 @@ restando che la presenza di documentazione è requisito essenziale previsto
 dalla norma e sarà quindi necessario procedere al completamento e
 allineamento della documentazione al più presto per considerare
 l'adempimento concluso.
-
-.. discourse::
-   :topic_identifier: 2860

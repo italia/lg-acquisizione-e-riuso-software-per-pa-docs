@@ -54,6 +54,3 @@ Come già discusso in :ref:`titolarita`,
 l'amministrazione deve assicurarsi la piena titolarità del software
 realizzato ex novo. Si rimanda al citato paragrafo per ulteriori
 informazioni.
-
-.. discourse::
-   :topic_identifier: 2860

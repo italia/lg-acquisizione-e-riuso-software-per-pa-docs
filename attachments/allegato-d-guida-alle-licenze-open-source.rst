@@ -209,5 +209,3 @@ Nel secondo caso invece:
    componenti a sé stanti solo con altri componenti rilasciati con
    licenza copyleft compatibile.
 
-.. discourse::
-   :topic_identifier: 2864

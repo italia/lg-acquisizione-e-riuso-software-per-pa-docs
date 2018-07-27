@@ -86,6 +86,3 @@ che già possiede ma per il quale non ha ancora provveduto al rilascio
 sotto licenza aperta, si deve valutare l'aggiunta dell'attività di primo
 rilascio al contratto di manutenzione, in ragione del minor costo che
 normalmente si sostiene rispetto ad effettuarlo separatamente.
-
-.. discourse::
-   :topic_identifier: 2860

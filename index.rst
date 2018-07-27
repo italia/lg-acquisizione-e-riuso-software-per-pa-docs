@@ -1,36 +1,6 @@
 Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
 ================================================================================
 
-.. admonition:: Consultazione pubblica
-
-   La consultazione pubblica per questo documento è attiva dal 5 aprile al 5 maggio 2018.
-
-
-Le presenti linee guida attuano quanto stabilito dagli articoli 68 e 69
-del *Codice dell'Amministrazione Digitale* (di seguito CAD):
-
--  come disposto dall'articolo 68, comma 1 ter, individuano nel capitolo
-   :ref:`acquisizione` le modalità
-   e i criteri con i quali un'amministrazione deve effettuare la
-   valutazione comparativa descritta nel medesimo articolo per decidere
-   la modalità di acquisizione di un software.
-
--  come statuito dall'articolo 69, comma 2bis, individuano nel capitolo
-   :ref:`riuso` la piattaforma per
-   la pubblicazione di codice sorgente sotto licenza aperta e
-   documentazione del software messo a riuso dalle amministrazioni,
-   indicando anche le modalità tecniche di utilizzo.
-
-Inoltre sostituiscono la precedente circolare 63/2013, intitolata
-"\ *Linee guida per la valutazione comparativa prevista dall'art. 68 del
-D.Lgs. 7 marzo 2005, n. 82 Codice dell'Amministrazione digitale*\ " e
-relativi allegati.
-
-.. toctree::
-   :maxdepth: 1
-
-   Istruzioni per la consultazione pubblica <istruzioni-per-la-consultazione-pubblica.rst>
-
 .. toctree::
    :caption: Indice dei contenuti
    :numbered:
