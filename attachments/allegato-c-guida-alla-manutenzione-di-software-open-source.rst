@@ -1,9 +1,9 @@
 .. _guida-manutenzione:
 
-Allegato B: Guida alla manutenzione di software open source
-===========================================================
+Allegato B: Guida alla manutenzione di *software* open source
+=============================================================
 
-Questa guida è rivolta alle Amministrazioni che, titolari di un software già
+Questa guida è rivolta alle Amministrazioni che, titolari di un *software* già
 pubblicato in open source, vogliano effettuare una manutenzione sullo stesso.
 La guida può essere utilizzata da chiunque sia incaricato di svolgere le
 attività in essa descritte: le risorse interne dell'Amministrazione, società
@@ -39,7 +39,7 @@ Digitale.
 
 Qualora l'Amministrazione sia già titolare di un repository destinato al
 software oggetto della manutenzione, creato secondo le indicazioni della
-*Guida alla pubblicazione di software open source*, il rilascio delle
+*Guida alla pubblicazione di *software* open source*, il rilascio delle
 modifiche andrà effettuato mediante aggiornamento di tale repository
 prima che le stesse vengano immesse in collaudo o in produzione (MUST).
 Al fine di gestire tali flussi di rilascio e collaudo, distinguendo la
@@ -48,12 +48,12 @@ può usare le funzionalità di *branching* offerte dal sistema di
 controllo di versione prescelto (MAY).
 
 Qualora invece l'Amministrazione non sia già titolare di un repository
-per il software oggetto della manutenzione, dovrà procedere a crearne
-uno seguendo le indicazioni della *Guida alla modifica di software open
+per il *software* oggetto della manutenzione, dovrà procedere a crearne
+uno seguendo le indicazioni della *Guida alla modifica di *software* open
 source di terzi*.
 
-2. Obblighi relativi alla manutenzione di software per il quale l'Amministrazione disponga già di un repository
----------------------------------------------------------------------------------------------------------------
+2. Obblighi relativi alla manutenzione di *software* per il quale l'Amministrazione disponga già di un repository
+-----------------------------------------------------------------------------------------------------------------
 
 Le disposizioni successive si applicano ove l'Amministrazione sia titolare di un repository.
 
@@ -62,9 +62,9 @@ Le disposizioni successive si applicano ove l'Amministrazione sia titolare di un
 
 Per tutta la durata dell'incarico di manutenzione, l'Incaricato è tenuto
 a monitorare i rilasci delle eventuali dipendenze incorporate nel
-software e a recepire eventuali aggiornamenti (MUST). Se il software è
+software e a recepire eventuali aggiornamenti (MUST). Se il *software* è
 derivato da altro software, tale obbligo di monitoraggio e recepimento
-si applica anche al software originale (c.d. *upstream*).
+si applica anche al *software* originale (c.d. *upstream*).
 
 Eventuali incompatibilità o problemi di sicurezza insorti nel tempo
 dovranno essere documentati tempestivamente attraverso l'apertura di
@@ -78,7 +78,7 @@ assoluta.
 
 All'interno di un progetto open source, il maintainer è il soggetto che
 svolge un'attività di controllo e direzione degli sviluppi sul progetto,
-e a cui la *community* che afferisce al software (es: utilizzatori) può
+e a cui la *community* che afferisce al *software* (es: utilizzatori) può
 segnalare problematiche o discutere miglioramenti.
 
 Per tutta la durata dell'attività di manutenzione connessa al software,
@@ -159,12 +159,12 @@ software).
 
 Le richieste di informazioni sul progetto dovranno essere evase a cura
 dell'Incaricato entro 2 giorni lavorativi (SHOULD). Le risposte dovranno
-limitarsi alle caratteristiche tecniche del software e alle domande
+limitarsi alle caratteristiche tecniche del *software* e alle domande
 poste dagli sviluppatori o da altre Amministrazioni per finalità di
 comprensione del funzionamento tecnico, riuso, collaborazione o
 sviluppo. L'Incaricato non è tenuto a rispondere ad altri soggetti o
-fornire assistenza sull'utilizzo del software o dare risposte sull'uso
-che l'Amministrazione fa del software o in generale su altri argomenti
+fornire assistenza sull'utilizzo del *software* o dare risposte sull'uso
+che l'Amministrazione fa del *software* o in generale su altri argomenti
 di competenza dell'Amministrazione.
 
 2.3.4. Contributi di codice

@@ -4,7 +4,7 @@ Introduzione e contesto normativo
 ---------------------------------
 
 Il comma 1 dell'art. 69 definisce **l'obbligo,** per le pubbliche
-amministrazioni titolari di software realizzato su specifiche
+amministrazioni titolari di *software* realizzato su specifiche
 indicazioni del committente pubblico, "\ *di rendere disponibile il
 relativo codice sorgente, completo della documentazione e rilasciato in
 repertorio pubblico sotto licenza aperta, in uso gratuito ad altre

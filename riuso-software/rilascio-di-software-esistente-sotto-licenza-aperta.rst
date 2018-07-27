@@ -1,7 +1,7 @@
 .. _rilascio-software-esistente:
 
-Rilascio di software esistente sotto licenza aperta
----------------------------------------------------
+Rilascio di *software* esistente sotto licenza aperta
+-----------------------------------------------------
 
 Il comma 1 dell'Art. 69 recita:
 
@@ -14,15 +14,15 @@ Il comma 1 dell'Art. 69 recita:
   adattarli alle proprie esigenze, salvo motivate ragioni di ordine e
   sicurezza pubblica, difesa nazionale e consultazioni elettorali."
 
-Gli obblighi qui citati si riferiscono all'intero parco software sul
+Gli obblighi qui citati si riferiscono all'intero parco *software* sul
 quale insistono i diritti di un'amministrazione con la conseguenza che,
 a prescindere dall'esigenza di rispettare tali obblighi in occasione del
 perfezionamento di nuovi contratti, ogni amministrazione è tenuta a
-darvi tempestiva attuazione **anche con riferimento al software già
+darvi tempestiva attuazione **anche con riferimento al *software* già
 esistente ove sia titolare dei relativi diritti di proprietà
 intellettuale e industriale** (come indicato in :ref:`titolarita`).
 
-Dare attuazione a tali obblighi sul software già esistente costituisce
+Dare attuazione a tali obblighi sul *software* già esistente costituisce
 un aspetto essenziale per la massimizzazione dell'efficacia della
 disposizione in commento e, più in generale, della buona prassi del
 riuso, giacché consente a altre amministrazioni di beneficiare senza
@@ -38,7 +38,7 @@ titolarità, e in caso positivo proceda al rilascio sotto licenza aperta.
 
 Vista la rapida obsolescenza delle tecnologie digitali, e considerata
 l'importanza di favorire il riuso delle soluzioni disponibili, si ritiene
-escluso dall'obbligo di rilascio il software che non sia più in uso da parte
+escluso dall'obbligo di rilascio il *software* che non sia più in uso da parte
 dell'amministrazione da oltre 5 anni, con riferimento alla data di
 pubblicazione delle presenti linee guida.
 

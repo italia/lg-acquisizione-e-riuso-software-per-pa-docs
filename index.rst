@@ -1,5 +1,5 @@
-Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
-================================================================================
+Linee Guida su acquisizione e riuso di *software* per le pubbliche amministrazioni
+==================================================================================
 
 .. toctree::
    :caption: Indice dei contenuti

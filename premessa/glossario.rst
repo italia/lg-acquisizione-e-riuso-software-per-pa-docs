@@ -4,7 +4,7 @@ Glossario
 ---------
 
 Artefatti
-    Sottoprodotto realizzato durante lo sviluppo del software che aiuta
+    Sottoprodotto realizzato durante lo sviluppo del *software* che aiuta
     a descrivere funzioni, architettura, progettazione e messa in
     esercizio; a solo titolo di esempio: requisiti funzionali,
     descrizione delle basi dati e dei processi, il set di test.
@@ -12,7 +12,7 @@ Artefatti
 Code Hosting (strumento di)
     Una piattaforma che consente la pubblicazione di codice sorgente,
     organizzato in più repository. Gli strumenti di code hosting offrono
-    spesso anche funzionalità legate all'evoluzione di un software quali
+    spesso anche funzionalità legate all'evoluzione di un *software* quali
     sistemi di ticketing, processi per la contribuzione di codice da
     parte di terzi, area per il download dei rilasci, ecc. Nell'ambito
     delle presenti Linee Guida, gli strumenti scelti dalle amministrazioni
@@ -50,7 +50,7 @@ Interoperabilità
 
 Licenza
     In ambito informatico, il testo legale con il quale si concedono
-    determinati diritti sul software e sui dati distribuiti, che
+    determinati diritti sul *software* e sui dati distribuiti, che
     altrimenti sarebbero riservati da diritti di privativa.
 
 Lock-in
@@ -65,13 +65,13 @@ Lock-in
     di lock-in.
 
 Open Source
-    È una modalità con cui il software può essere concesso in licenza.
+    È una modalità con cui il *software* può essere concesso in licenza.
     Si realizza attraverso la concessione al pubblico, dei diritti di
     uso, copia, modifica, distribuzione di copie anche modificate, del
     software; per fare ciò, è necessario anche che il codice sorgente
     sia liberamente disponibile. Altrimenti detto "software libero",
     "software aperto" o "software rilasciato sotto licenza aperta".
-    L'ente certificatore delle licenze software corrispondenti a questa
+    L'ente certificatore delle licenze *software* corrispondenti a questa
     definizione è Open Source Initiative (OSI).
 
 Repertorio o Repository
@@ -83,21 +83,21 @@ Repertorio o Repository
 Riuso
     Nel contesto di queste Linee Guida, si intende il processo delineato
     dal CAD (art. 69) con il quale una amministrazione distribuisce
-    ("mettere a riuso") un software di cui ha titolarità in Open Source,
+    ("mettere a riuso") un *software* di cui ha titolarità in Open Source,
     a favore di altre amministrazioni che possano utilizzarlo ("prendere
-    a riuso"). Tutto il software a riuso è Open Source, ma non tutto il
-    software Open Source è a riuso (poiché non tutto il software Open
+    a riuso"). Tutto il *software* a riuso è Open Source, ma non tutto il
+    *software* Open Source è a riuso (poiché non tutto il *software* Open
     Source è di titolarità di una amministrazione).
 
 SaaS
-    Software as a Service. Indica una modalità di distribuzione del
-    software che non viene installato sulle postazioni degli operatori,
+    *software* as a Service. Indica una modalità di distribuzione del
+    *software* che non viene installato sulle postazioni degli operatori,
     ma che avviene attraverso l'accesso remoto a un server, per esempio
     collegandosi con un browser ad un indirizzo. Wikipedia, per esempio,
-    è un software distribuito in modalità Software as a Service.
+    è un *software* distribuito in modalità *software* as a Service.
 
 Software proprietario
-    Software che ha restrizioni sul suo utilizzo, sulla sua modifica,
+    *software* che ha restrizioni sul suo utilizzo, sulla sua modifica,
     riproduzione o ridistribuzione, imposti dal titolare dei diritti di
     sfruttamento economico, cioè l'autore o - in caso di cessione dei
     diritti patrimoniali - il cessionario dei diritti in questione.

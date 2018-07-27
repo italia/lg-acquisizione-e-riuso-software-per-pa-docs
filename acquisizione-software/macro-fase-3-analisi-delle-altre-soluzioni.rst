@@ -17,7 +17,7 @@ L'amministrazione deve effettuare la ricerca di una soluzione con
 licenza d'uso proprietaria, analizzando le offerte secondo quanto
 indicato dal Codice dei contratti pubblici.
 
-L'amministrazione deve verificare che il software in licenza rispetti i
+L'amministrazione deve verificare che il *software* in licenza rispetti i
 seguenti vincoli (ossia, **la mancanza anche di uno solo di questi rende
 la soluzione non eleggibile**):
 
@@ -29,13 +29,13 @@ la soluzione non eleggibile**):
 -  la conformità ai requisiti di accessibilità (Legge 4/2004);
 -  possibilità di esportare gratuitamente, in ogni momento, l'intera
    base di dati (inclusi di ogni tipo di indice o metadato utilizzato
-   per implementare le funzionalità del software stesso) in formato
+   per implementare le funzionalità del *software* stesso) in formato
    standard, aperto e documentato, per scongiurare la possibilità di
    lock-in, come meglio specificato nelle `linee guida n.8 di ANAC
    <https://www.anticorruzione.it/portal/public/classic/Atti
    vitaAutorita/ContrattiPubblici/LineeGuida/_lineeGuida8>`__.
 
-Tra i software che rispettano i vincoli appena indicati,
+Tra i *software* che rispettano i vincoli appena indicati,
 l'amministrazione effettua una analisi comparativa che tenga conto dei
 seguenti criteri:
 
@@ -44,8 +44,8 @@ seguenti criteri:
    documentazione;
 -  verificare l'idoneità della soluzione ad interoperare con i sistemi
    già in uso presso l'amministrazione;
--  eventuali costi di installazione del software nel Cloud della PA
-   oppure costi per fruizione del software tramite modalità SaaS ove
+-  eventuali costi di installazione del *software* nel Cloud della PA
+   oppure costi per fruizione del *software* tramite modalità SaaS ove
    presente nel Marketplace Cloud di AgID;
 -  eventuali costi necessari all'integrazione della soluzione con i
    sistemi già in uso presso l'amministrazione;
@@ -126,7 +126,7 @@ software che verrà realizzato, si rimanda a :ref:`sviluppo-nuovo-software`
 per le informazioni su come progettare questa realizzazione per
 adempiere ai commi citati e metterlo così a riuso.
 
-Nel caso che si proceda ad una acquisizione di software proprietario
+Nel caso che si proceda ad una acquisizione di *software* proprietario
 sotto licenza, si ricorda che l'Amministrazione deve ove possibile
 acquisire la titolarità del codice sviluppato (come spiegato in
 :ref:`titolarita`), per metterlo a riuso.

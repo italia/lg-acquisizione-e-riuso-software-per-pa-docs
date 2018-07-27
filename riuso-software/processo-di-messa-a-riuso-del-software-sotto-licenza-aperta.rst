@@ -1,35 +1,35 @@
-Processo di messa a riuso del software sotto licenza aperta
------------------------------------------------------------
+Processo di messa a riuso del *software* sotto licenza aperta
+-------------------------------------------------------------
 
 Il processo di messa a riuso è il seguente:
 
 1. L'amministrazione individua uno strumento di **strumento di code
    hosting**. Una volta identificato lo strumento, può essere utilizzato
-   per tutto il software che deve essere messo a riuso (:ref:`scelta-code-hosting`).
+   per tutto il *software* che deve essere messo a riuso (:ref:`scelta-code-hosting`).
 2. L'amministrazione sceglie una licenza aperta da utilizzare
    (:ref:`licenze`).
 3. L'amministrazione, utilizzando proprie risorse oppure tramite un
-   appalto, pubblica il codice sorgente completo del software e la
+   appalto, pubblica il codice sorgente completo del *software* e la
    relativa documentazione tecnica sullo strumento di code hosting.
    Questo processo tecnologico è descritto in :ref:`guida-pubblicazione`,
    allegata a queste linee guida. La guida è scritta in modo da poter
    essere allegata ad un capitolato tecnico di gara, per facilitare
    l'acquisizione di un servizio demandando al fornitore gli adempimenti
    richiesti dalle presenti linee guida.
-4. L'amministrazione "registra" il software sulla piattaforma Developers
+4. L'amministrazione "registra" il *software* sulla piattaforma Developers
    Italia, così che sia indicizzato dal motore di ricerca e reso
-   visibile alle altre amministrazioni che cercano software in riuso.
+   visibile alle altre amministrazioni che cercano *software* in riuso.
 
-Il processo qui delineato è valido sia per il software esistente di
+Il processo qui delineato è valido sia per il *software* esistente di
 proprietà delle amministrazioni (:ref:`rilascio-software-esistente`), sia
-per il software che verrà realizzato in futuro (:ref:`sviluppo-nuovo-software`).
+per il *software* che verrà realizzato in futuro (:ref:`sviluppo-nuovo-software`).
 
 .. _scelta-code-hosting:
 
 Scelta di uno strumento di code hosting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il rilascio di un software deve avvenire mediante uno strumento di code
+Il rilascio di un *software* deve avvenire mediante uno strumento di code
 hosting, specializzato nell'ospitare e mettere a disposizione il
 software distribuito sotto licenza aperta. Esistono numerose soluzioni
 sul mercato, sia gratuite sia commerciali.
@@ -73,10 +73,10 @@ indiretti all'amministrazione.
 
 L'amministrazione deve scegliere uno strumento (o più strumenti, in
 caso di motivate ragioni organizzative) sul quale effettuare i rilasci
-di tutto il software di cui è titolare. In alternativa,
+di tutto il *software* di cui è titolare. In alternativa,
 in :ref:`guida-pubblicazione` è delineato un processo
 alternativo per demandare la scelta al soggetto incaricato di effettuare
-lo sviluppo del software e/o il rilascio dello stesso per conto
+lo sviluppo del *software* e/o il rilascio dello stesso per conto
 dell'amministrazione (sia nel caso che questo soggetto corrisponda ad
 una risorsa interna o esterna all'amministrazione).
 
@@ -85,12 +85,12 @@ deve dare adeguata visibilità agli strumenti nella propria pagina
 istituzionale, come dettagliato sempre all'interno della medesima
 guida (:ref:`registrazione-repository`).
 
-Registrazione del software aperto su Developers Italia
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Registrazione del *software* aperto su Developers Italia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il software rilasciato dalla amministrazione deve essere "registrato"
+Il *software* rilasciato dalla amministrazione deve essere "registrato"
 all'interno del motore di ricerca di Developers Italia, per agevolare la
-consultazione alle altre amministrazioni che cercano un software in
+consultazione alle altre amministrazioni che cercano un *software* in
 riuso.
 
 Il processo tecnico preciso per effettuare la registrazione è indicato
@@ -99,9 +99,9 @@ nella sezione :ref:`registrazione-repository`.
 Responsabilità connesse al rilascio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L'amministrazione titolare del software non contrae alcun obbligo
+L'amministrazione titolare del *software* non contrae alcun obbligo
 specifico legato al rilascio: non è infatti necessario fornire alcuna
 garanzia sul software, supporto tecnico o a livello utente, né tantomeno
-supportare economicamente le amministrazioni che riusano il software nei
+supportare economicamente le amministrazioni che riusano il *software* nei
 costi o nelle procedure di adozione.
 

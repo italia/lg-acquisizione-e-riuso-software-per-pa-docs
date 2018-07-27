@@ -1,7 +1,7 @@
 Riuso del software
 ------------------
 
-Si intende come "riuso" di un software il complesso di attività svolte
+Si intende come "riuso" di un *software* il complesso di attività svolte
 per poterlo utilizzare in un contesto diverso da quello per il quale è
 stato originariamente realizzato, al fine di soddisfare esigenze
 similari a quelle che portarono al suo primo sviluppo. Il prodotto

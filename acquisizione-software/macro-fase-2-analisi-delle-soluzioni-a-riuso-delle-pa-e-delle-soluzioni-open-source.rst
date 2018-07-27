@@ -70,17 +70,17 @@ si provvede a:
    presente su Developers Italia:
 
    -  grado di copertura dei requisiti, funzionali e non funzionali;
-   -  presenza di un manutentore del software in questione;
+   -  presenza di un manutentore del *software* in questione;
    -  eventuale presenza di accordi con terzi stipulati
       dall'amministrazione titolare e utilizzabili dall'amministrazione
       valutante, riguardo attività di supporto per l'installazione e/o
       la personalizzazione della soluzione o comunque le modalità di
       fruibilità della soluzione stessa (es: una in-house regionale può
-      mettere a riuso software Open Source per i propri comuni assieme
+      mettere a riuso *software* Open Source per i propri comuni assieme
       ad un accordo di fornitura di servizi di installazione e
       formazione);
    -  presenza di vincoli e dipendenze obbligatorie con altro software
-      aperto e/o con software proprietario; per esempio, un software
+      aperto e/o con *software* proprietario; per esempio, un software
       Open Source potrebbe richiedere necessariamente una licenza per un
       database proprietario, oppure potrebbe necessitare una licenza per
       una API proprietaria di un servizio *cloud*;
@@ -99,8 +99,8 @@ si provvede a:
 -  stimare il Total Cost of Ownership (S\ :sub:`TCO`) come descritto in
    :ref:`tco`, con particolare attenzione a:
 
-   -  eventuali costi di installazione del software nel Cloud della PA
-      oppure costi per fruizione del software tramite modalità SaaS ove
+   -  eventuali costi di installazione del *software* nel Cloud della PA
+      oppure costi per fruizione del *software* tramite modalità SaaS ove
       presente nel Marketplace Cloud di AgID;
    -  eventuali costi per la formazione del personale, considerando sia
       quelli necessari per l'addestramento dei soggetti destinati alla
@@ -110,7 +110,7 @@ si provvede a:
       propri sistemi;
    -  eventuali costi di personalizzazione, compresi quelli necessari
       ad assicurare dei requisiti funzionali e non funzionali,
-      non già presenti nel software a riuso;
+      non già presenti nel *software* a riuso;
    -  eventuali costi per la verifica di compliance alle normative
       vigenti.
 
@@ -162,7 +162,7 @@ Fase 2.4: Ricerca soluzioni Open Source
 Se non è possibile individuare una "soluzione a riuso della PA",
 l'amministrazione DEVE ampliare la ricerca delle soluzioni da
 considerare per il soddisfacimento delle proprie esigenze alle
-"soluzioni Open Source", cioè software rilasciato sotto licenza aperta
+"soluzioni Open Source", cioè *software* rilasciato sotto licenza aperta
 ma non di titolarità di una Pubblica Amministrazione e quindi non
 pubblicato a riuso. Sono eleggibili in questa fase anche soluzioni che
 soddisfano la maggior parte dei requisiti e hanno bisogno di modifiche
@@ -171,7 +171,7 @@ o personalizzazioni.
 
 Le attività previste nella presente fase sono:
 
--  ricerca di progetti di software Open Source la cui titolarità è
+-  ricerca di progetti di *software* Open Source la cui titolarità è
    attribuita a soggetti diversi dalle pubbliche amministrazioni. Tale
    ricerca deve almeno essere effettuata con gli strumenti messi a
    disposizione su Developers Italia, e può anche essere estesa su altre
@@ -180,10 +180,10 @@ Le attività previste nella presente fase sono:
 
 La ricerca effettuata dalla pubblica amministrazione deve verificare:
 
--  se la licenza sotto la quale il software è tra quelle suggerite nel
+-  se la licenza sotto la quale il *software* è tra quelle suggerite nel
    presente documento o certificata da OSI (`lista completa
    <https://opensource.org/licenses/alphabetical>`__).
--  se la licenza è compatibile con le licenze di software con cui la
+-  se la licenza è compatibile con le licenze di *software* con cui la
    si vuole integrare e/o con l'uso che se ne vuole fare;
 
 La presente fase si conclude con la:
@@ -199,10 +199,10 @@ Se la precedente fase 2.4 ha permesso di individuare almeno una delle
 di valutazione si individua la "soluzione Open Source" migliore per le
 esigenze della Pubblica Amministrazione.
 
-La valutazione del software open source in questa fase deve seguire gli
+La valutazione del *software* open source in questa fase deve seguire gli
 stessi criteri di valutazione descritti per la fase 2.2. Si consideri
 quindi la fase 2.5 come un doppione della fase 2.2, applicata ad un
-diverso insieme di software (open source di terzi invece che software a
+diverso insieme di *software* (open source di terzi invece che *software* a
 riuso).
 
 La presente fase si conclude con la:

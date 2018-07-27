@@ -13,48 +13,48 @@ dell'analisi comparativa per tipologia di software:
   a seguito di una valutazione comparativa di tipo tecnico ed economico
   tra le seguenti soluzioni disponibili sul mercato:
 |
-|  a) software sviluppato per conto della pubblica amministrazione;
-|  b) riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione;
-|  c) software libero o a codice sorgente aperto;
-|  d) software fruibile in modalità cloud computing;
-|  e) software di tipo proprietario mediante ricorso a licenza d'uso;
-|  f) software combinazione delle precedenti soluzioni."
+|  a) *software* sviluppato per conto della pubblica amministrazione;
+|  b) riutilizzo di *software* o parti di esso sviluppati per conto della pubblica amministrazione;
+|  c) *software* libero o a codice sorgente aperto;
+|  d) *software* fruibile in modalità cloud computing;
+|  e) *software* di tipo proprietario mediante ricorso a licenza d'uso;
+|  f) *software* combinazione delle precedenti soluzioni."
 
 La seguente lista di definizioni descrive le sei soluzioni previste
 dalla normativa:
 
-A - Software sviluppato per conto della pubblica amministrazione
+A - *software* sviluppato per conto della pubblica amministrazione
     Soluzione detta anche "opzione *make*\ ": la PA affida lo sviluppo
-    del software (sia esso ex novo o modifica di software esistente)
+    del *software* (sia esso ex novo o modifica di *software* esistente)
     a un fornitore e quest'ultimo si impegna a consegnare alla P.A. il software
     sviluppato sulla base dei requisiti da questa definiti. Per esempio,
-    nel ciclo di vita del software (analisi, progettazione, sviluppo,
+    nel ciclo di vita del *software* (analisi, progettazione, sviluppo,
     collaudo, rilascio, manutenzione) la P.A. potrebbe occuparsi delle
     fasi di analisi e progettazione, definendo i requisiti del software,
     per poi affidare lo sviluppo al fornitore.
 
-B - Riutilizzo di software o parti di esso sviluppati per conto della
-    pubblica amministrazione Soluzione "riuso" di un software della P.A.
+B - Riutilizzo di *software* o parti di esso sviluppati per conto della
+    pubblica amministrazione Soluzione "riuso" di un *software* della P.A.
     (o suoi componenti) già esistente e disponibile.
 
-C - Software libero o a codice sorgente aperto
-    Software con licenza Open Source (vedi :ref:`glossario`). In
-    particolare, si intende tutto il software distribuito sotto una
+C - *software* libero o a codice sorgente aperto
+    *software* con licenza Open Source (vedi :ref:`glossario`). In
+    particolare, si intende tutto il *software* distribuito sotto una
     licenza certificata da OSI (`lista completa <https://opensource.org/licenses/alphabetical>`__),
     come descritto in :ref:`licenze-per-il-software-aperto`.
 
-D - Software fruibile in modalità cloud computing
-    Soluzione nella quale la P.A. acquisisce il software come servizio.
+D - *software* fruibile in modalità cloud computing
+    Soluzione nella quale la P.A. acquisisce il *software* come servizio.
     In questa soluzione non sono ricomprese le soluzioni HaaS (*Hardware
     as a Service*) e IaaS (*Infrastructure as a Service*).
 
-E - Software di tipo proprietario mediante ricorso a licenza d'uso
-    Software soggetto a condizioni di licenza d'uso di tipo proprietario
+E - *software* di tipo proprietario mediante ricorso a licenza d'uso
+    *software* soggetto a condizioni di licenza d'uso di tipo proprietario
     da installare "\ *on premise*\ ".
 
-F - Software combinazione delle precedenti soluzioni
-    Software realizzato con componenti appartenenti a più di una
-    categoria tra quelle precedenti. Ad esempio, software in cui una
+F - *software* combinazione delle precedenti soluzioni
+    *software* realizzato con componenti appartenenti a più di una
+    categoria tra quelle precedenti. Ad esempio, *software* in cui una
     soluzione in riuso si appoggia su un *middleware Open Source* e
     accede a un database proprietario, con componenti realizzate
     appositamente per conto dell'amministrazione destinataria della
@@ -114,7 +114,7 @@ Livelli di sicurezza
     Nell'ambito del presente documento è da intendersi come l'esistenza
     di adeguate garanzie in merito ai livelli di sicurezza della
     soluzione indipendentemente dalla natura giuridica del titolare del
-    software e/o dell'erogatore del servizio in modalità *cloud
+    *software* e/o dell'erogatore del servizio in modalità *cloud
     computing*.
 
 Conformità alla normativa in materia di protezione dei dati personali
@@ -157,7 +157,7 @@ MACRO FASE 2:
    Qui la pubblica amministrazione accerta la possibilità
    di soddisfare le proprie esigenze utilizzando una soluzione già in
    uso presso altre amministrazioni (di seguito "soluzioni a riuso delle
-   PA") o a software libero o codice sorgente aperto (di seguito
+   PA") o a *software* libero o codice sorgente aperto (di seguito
    "soluzioni Open Source").
 MACRO FASE 3:
    Ove la Macro fase 2 non permetta di rispondere alle

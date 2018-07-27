@@ -1,7 +1,7 @@
 .. _guida-pubblicazione:
 
-Allegato A: Guida alla pubblicazione di software come open source
-=================================================================
+Allegato A: Guida alla pubblicazione di *software* come open source
+===================================================================
 
 Questa guida è rivolta alle Amministrazioni che, titolari di un software, lo
 vogliano rilasciare in modalità open-source (codice a sorgente aperta). La
@@ -65,7 +65,7 @@ correttamente il lavoro.
 2. Individuazione dello strumento di code hosting
 -------------------------------------------------
 
-L'Amministrazione titolare del software deve individuare uno strumento
+L'Amministrazione titolare del *software* deve individuare uno strumento
 di code hosting da utilizzare per il rilascio.
 
 Le Linee Guida di AgID specificano i parametri tecnici minimi, qui
@@ -117,7 +117,7 @@ modalità SaaS da terze parti o sia istituita dall'Amministrazione
 committente o da un'altra Amministrazione per finalità più generali
 rispetto al presente progetto (MUST).
 
-Qualora il software costituisca un lavoro derivato di altro software
+Qualora il *software* costituisca un lavoro derivato di altro software
 open source già esistente, è preferibile adottare la medesima
 piattaforma in modo da sfruttarne le funzionalità di collaborazione
 (SHOULD).
@@ -132,7 +132,7 @@ allo strumento con i massimi poteri. L'Amministrazione resterà proprietaria
 dell'area anche dopo il termine della presente lavorazione.
 
 All'interno dello strumento scelto, l'Incaricato aprirà un repository
-destinato ad ospitare il software in sviluppo. Qualora la lavorazione a sia
+destinato ad ospitare il *software* in sviluppo. Qualora la lavorazione a sia
 articolata in più componenti logicamente distinti e con finalità
 autonome, purché singolarmente compiuti, documentati e riutilizzabili
 separatamente, dovranno essere aperti repository distinti (MUST).
@@ -197,7 +197,7 @@ materiali:
 
 Sono esclusi dall'obbligo di rilascio i seguenti materiali:
 
--  dati utilizzati in produzione o trattati con il software sviluppato;
+-  dati utilizzati in produzione o trattati con il *software* sviluppato;
 
 -  asset grafici specifici (ad es. loghi di aziende) sui quali non sia
    applicabile la licenza scelta.
@@ -238,7 +238,7 @@ adempimento da svolgersi al termine della lavorazione, ma deve essere
 previsto sin dalla fase di sviluppo ad esempio strutturando il software
 in modo che tutte le specificità dell'Amministrazione committente (nomi,
 indirizzi, server) siano modificabili attraverso file di configurazione
-(SHOULD) e che il software sia pronto al riuso da parte di altro
+(SHOULD) e che il *software* sia pronto al riuso da parte di altro
 soggetto.
 
 Il repository deve essere organizzato con una struttura di directory
@@ -261,7 +261,7 @@ Il repository deve contenere un file denominato README.md contenente:
 
    -  finalità del software;
 
-   -  screenshot (se il software dispone di interfaccia grafica, anche
+   -  screenshot (se il *software* dispone di interfaccia grafica, anche
       web);
 
    -  link ad eventuali pagine istituzionali relative al progetto o al
@@ -275,7 +275,7 @@ Il repository deve contenere un file denominato README.md contenente:
 
 -  (MUST) elenco dettagliato prerequisiti e dipendenze (sistemi
    operativi, librerie, framework eccetera) con esplicita indicazione di
-   eventuali dipendenze da software commerciali;
+   eventuali dipendenze da *software* commerciali;
 
 -  (MUST) istruzioni per l'installazione:
 
@@ -316,7 +316,7 @@ Il repository deve contenere un file denominato README.md contenente:
 8. Documentazione
 -----------------
 
-È necessario (MUST) allegare al software la documentazione necessaria
+È necessario (MUST) allegare al *software* la documentazione necessaria
 ad:
 
 -  installare le dipendenze;
@@ -325,11 +325,11 @@ ad:
    script, immagini di *container*, Makefile o altri strumenti per rendere
    l'operazione rapida);
 
--  compilare il software (ove applicabile);
+-  compilare il *software* (ove applicabile);
 
--  installare il software in ambiente di produzione;
+-  installare il *software* in ambiente di produzione;
 
--  comprendere l'architettura del software (a beneficio di soggetti
+-  comprendere l'architettura del *software* (a beneficio di soggetti
    terzi che intendano riusarlo od integrarlo).
 
 La documentazione allegata deve (MUST) inoltre seguire le indicazioni
@@ -343,7 +343,7 @@ formato ODT, DOCX o PDF non è ammessa poiché si tratta di formati con i
 quali non è possibile definire le diverse versioni "riga per riga".
 
 Se nel capitolato è prevista anche la stesura di documentazione
-sull'utilizzo del software rivolta agli utenti finali ("manuale utente"
+sull'utilizzo del *software* rivolta agli utenti finali ("manuale utente"
 o simile documento), l'obbligo di rilascio si estende anche ad essa. Per
 tale documentazione sono consentiti anche formati binari, purché aperti,
 modificabili e multipiattaforma (resta dunque escluso il formato PDF).
@@ -352,17 +352,17 @@ modificabili e multipiattaforma (resta dunque escluso il formato PDF).
 --------------------
 
 All'inizio della lavorazione, l'Incaricato concorda con l'Amministrazione
-il piano di rilascio in open source del software durante lo sviluppo. Le
+il piano di rilascio in open source del *software* durante lo sviluppo. Le
 Linee Guida suggeriscono di adottare un modello di sviluppo aperto, che
 preveda il rilascio contestuale allo sviluppo sin dall'inizio. Questo
 modello consente anche ad altre amministrazioni di venire a conoscenza
 delle attività di sviluppo, anche prima della prima messa in produzione,
 diminuendo la probabilità che due amministrazioni sviluppino in modo
-indipendente software analoghi.
+indipendente *software* analoghi.
 
 Qualora non si opti per un modello di sviluppo aperto, il rilascio in
 open source deve essere effettuato (MUST) entro 15 giorni dal momento
-dell'acquisizione del software da parte dell'Amministrazione committente
+dell'acquisizione del *software* da parte dell'Amministrazione committente
 al termine della lavorazione, ovvero dal momento in cui detto software
 viene immesso in collaudo o in produzione, ovvero da una richiesta
 dell'Amministrazione che può comunque essere trasmessa all'Incaricato in
@@ -379,7 +379,7 @@ flussi di rilascio e collaudo l'Incaricato può usare le funzionalità di
 10. Sicurezza
 -------------
 
-Ricordando che la sicurezza del software è un tema importante di cui
+Ricordando che la sicurezza del *software* è un tema importante di cui
 tenere conto durante il ciclo di sviluppo e che non verrà trattato in
 questo documento, si indicano qui alcuni principi base su attenzioni
 specifiche da adottare durante il processo di rilascio.
@@ -408,7 +408,7 @@ Tutto il codice "morto", ovvero non utilizzato, deve essere rimosso
 (MUST) poiché potrebbe portare a confusione od essere considerato
 mantenuto ed erroneamente reintegrato senza i necessari controlli.
 
-Se il software è un'applicazione web esposta su rete pubblica, o
+Se il *software* è un'applicazione web esposta su rete pubblica, o
 contiene applicazioni web, dovrebbe (SHOULD) essere accessibile per ogni
 installazione al path ``https://<hostname>/.well-known/security.txt`` un
 file formattato secondo le indicazioni del sito
@@ -431,7 +431,7 @@ La registrazione avviene seguendo due passaggi:
    repository.** "publiccode.yml" è uno standard che identifica il
    progetto come "software utile per la Pubblica Amministrazione", e
    contemporaneamente offre una serie di informazioni utili alla
-   valutazione del software stesso per il riuso. Tale file verrà
+   valutazione del *software* stesso per il riuso. Tale file verrà
    rilevato automaticamente dall'indicizzatore (crawler) di Developers
    Italia al fine della generazione della relativa scheda nel catalogo.
    La documentazione sul formato può essere trovata qui:

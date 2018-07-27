@@ -12,7 +12,7 @@ del *Codice dell'Amministrazione Digitale* (di seguito CAD):
 -  come statuito dall'articolo 69, comma 2bis, individuano nel capitolo
    :ref:`riuso` la piattaforma per
    la pubblicazione di codice sorgente sotto licenza aperta e
-   documentazione del software messo a riuso dalle amministrazioni,
+   documentazione del *software* messo a riuso dalle amministrazioni,
    indicando anche le modalità tecniche di utilizzo.
 
 Inoltre sostituiscono la precedente circolare 63/2013, intitolata
@@ -35,12 +35,12 @@ Regolamento citato). Non andrà trascurato, altresì, il complesso delle
 regole tecniche di AgID che possono avere incidenza sulla materia, quali
 le `Misure Minime di Sicurezza (circolare 2/2017)
 <https://www.agid.gov.it/index.php/it/sicurezza/misure-minime-sicurezza-
-ict>`__ e le `Linee guida per lo sviluppo del software sicuro <http://ww
+ict>`__ e le `Linee guida per lo sviluppo del *software* sicuro <http://ww
 w.agid.gov.it/sites/default/files/repository_files/documentazione/linee_
 guida_per_lo_sviluppo_sicuro_di_codice_v1.0.pdf>`__.
 
 Il presente documento si pone come punto di avvio di un processo culturale che
-veda le PP.AA. protagoniste di un sempre maggiore ricorso al software aperto,
+veda le PP.AA. protagoniste di un sempre maggiore ricorso al *software* aperto,
 come si ricava dalla lettura del primo comma dell'art. 69, che impone alle
 pubbliche amministrazioni "che siano titolari di soluzioni e programmi
 informatici realizzati su specifiche indicazioni del committente pubblico" di
@@ -49,7 +49,7 @@ documentazione e rilasciato in repertorio pubblico **sotto licenza aperta...**"
 
 Da tale norma si è preso, pertanto, l'avvio per la predisposizione delle presenti
 *Linee guida*, avendo individuato nella norma appena richiamata il forte impulso
-del legislatore all'utilizzo sempre maggiore del software di tipo aperto da
+del legislatore all'utilizzo sempre maggiore del *software* di tipo aperto da
 parte delle pubbliche amministrazioni. Ne sono prova la contestuale
 eliminazione della previsione del c.d. "catalogo del riuso", senza che ciò
 impedisca, eventualmente, alle PPAA di sottoscrivere accordi (ad es., in base

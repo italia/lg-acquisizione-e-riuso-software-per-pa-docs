@@ -13,11 +13,11 @@ chiari e facilmente misurabili), sia per effettuare la suddetta
 valutazione comparativa durante la fase 3.
 
 Per eseguire correttamente un TCO, è necessario calcolare i costi
-dell'intero ciclo di vita del software e non solo quelli meramente
+dell'intero ciclo di vita del *software* e non solo quelli meramente
 necessari alla sua acquisizione, come per esempio:
 
- - Costi per l'acquisto di hardware e licenze software proprietarie
-   necessari alla messa in esercizio del software che si sta
+ - Costi per l'acquisto di hardware e licenze *software* proprietarie
+   necessari alla messa in esercizio del *software* che si sta
    acquisendo;
  - Costi per la personalizzazione del software;
  - Costi di manutenzione (correttiva e evolutiva);
@@ -26,7 +26,7 @@ necessari alla sua acquisizione, come per esempio:
 
 In questa linea guida, è stato indicato di utilizzare il TCO in due
 diversi fasi: durante la Macro Fase 2 (come strumento per stimare
-il costo relativo all'acquisizione di un software open source), e
+il costo relativo all'acquisizione di un *software* open source), e
 durante la Macro Fase 3 (come strumento per valutare una eventuale
 scelta tra la realizzazione ex-novo e l'acquisizione di software
 proprietario).

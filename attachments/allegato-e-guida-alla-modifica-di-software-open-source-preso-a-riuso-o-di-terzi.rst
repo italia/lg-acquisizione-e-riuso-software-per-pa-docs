@@ -1,10 +1,10 @@
 .. _guida-modifica:
 
-Allegato D: Guida alla presa in riuso di software open source
-=============================================================
+Allegato D: Guida alla presa in riuso di *software* open source
+===============================================================
 
 Questa guida è rivolta alle Amministrazioni che vogliano prendere a riuso
-un software o adottare un software open source di terzi, effettuando delle
+un *software* o adottare un *software* open source di terzi, effettuando delle
 modifiche allo stesso. La guida può essere utilizzata da chiunque sia incaricato di svolgere le
 attività in essa descritte: le risorse interne dell'Amministrazione, società
 in-house dell'Amministrazione, un fornitore di servizi individuato
@@ -30,20 +30,20 @@ Nel documento sarà adottata la seguente convenzione:
 
 
 
-1. Modifica di software open source adottato in riuso
------------------------------------------------------
+1. Modifica di *software* open source adottato in riuso
+-------------------------------------------------------
 
-Nel caso di riuso di il software open source, la cui titolarità sia di
+Nel caso di riuso di il *software* open source, la cui titolarità sia di
 una Pubblica Amministrazione, si applica quanto disposto da :ref:`guida-pubblicazione`,
 unitamente alle prescrizioni contenute nella presente guida.
 
 Inoltre, le procedure descritte in questa guida possono essere applicate
-anche alle modifiche effettuate a componenti software distribuiti con licenza
+anche alle modifiche effettuate a componenti *software* distribuiti con licenza
 open source la cui titolarità non sia delle Pubbliche Amministrazioni, di cui
-sia necessaria l'integrazione in software di proprietà della Pubblica
+sia necessaria l'integrazione in *software* di proprietà della Pubblica
 Amministrazione.
 
-In caso di adozione di software rilasciato da Pubblica Amministrazione, è
+In caso di adozione di *software* rilasciato da Pubblica Amministrazione, è
 necessario notificare l'adozione in riuso tramite l'apertura di un ticket (o
 analogo meccanismo quale una *pull request*) nel repository della Pubblica
 Amministrazione titolare, così che questa possa indicare i riferimenti al
@@ -61,7 +61,7 @@ ma bisogna tendere a mantenere compatta e unitaria la base di codice.
 La modifica del codice sorgente deve (MUST) essere ridotta al minimo
 indispensabile, preferendo invece i seguenti interventi:
 
--  laddove il software originale preveda un meccanismo di plugin le
+-  laddove il *software* originale preveda un meccanismo di plugin le
    nuove funzionalità dovranno (MUST) essere sviluppate sotto forma di plugin
    senza modificare il *core* (ad esempio, nel caso di un Content
    Management System);
@@ -79,14 +79,14 @@ minimalismo, ovvero in ordine di preferenza:
    una delle modalità di estensione sopra descritte;
 
 -  si devono implementare le nuove funzionalità non nell'ottica di
-   specializzare il software originario al proprio contesto, ma al
+   specializzare il *software* originario al proprio contesto, ma al
    contrario concependole come un intervento di potenziamento e
-   generalizzazione del software originario.
+   generalizzazione del *software* originario.
 
 Non sono ammessi interventi di modifica che limitino le funzionalità o i
-casi di uso del software originario (MUST NOT); ogni intervento deve
+casi di uso del *software* originario (MUST NOT); ogni intervento deve
 essere un miglioramento e deve essere concepito in modo che possa essere
-recepito come contributo da parte dei maintainer del software originale
+recepito come contributo da parte dei maintainer del *software* originale
 (SHOULD).
 
 In ogni caso, nel README dovrà essere chiaramente spiegato cosa è stato
@@ -129,14 +129,14 @@ funzionalità in modo da consentire al *maintainer* di valutarle
 singolarmente.
 
 l'Incaricato è inoltre tenuto (MUST) a tenere traccia di tutte le
-contribuzioni al software inviate al *maintainer* del software originale,
+contribuzioni al *software* inviate al *maintainer* del *software* originale,
 documentandone lo stato di integrazione all'interno del file README
 del repository.
 
 4. Pubblicazione di codice open source non originato nel originato nel contesto della PA
 ----------------------------------------------------------------------------------------
 
-Nel caso in cui il *maintainer* di un software open source la cui titolarità non
+Nel caso in cui il *maintainer* di un *software* open source la cui titolarità non
 sia attribuita ad una Pubblica Amministrazione, il cui abbia recepito
 integralmente le proposte di modifica (v. paragrafo precedente) presentate del
 l'Incaricato, quest'ultimo è comunque tenuto a pubblicare il codice nello
@@ -146,6 +146,6 @@ originario, con un *link* al *repository* dello stesso.
 
 Come prescritto dalle Linee Guida, il "software a riuso" è il software
 rilasciato da una Pubblica Amministrazione in adempimento all'art 69 del CAD.
-Quindi l'Amministrazione Pubblica che adotta un software open source non
+Quindi l'Amministrazione Pubblica che adotta un *software* open source non
 originato nel contesto della PA, è tenuta a metterlo a riuso, indicando la sua
 provenienza.

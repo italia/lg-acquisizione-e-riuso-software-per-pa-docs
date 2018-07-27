@@ -1,11 +1,11 @@
 Scelta della modalità di erogazione del software
 ------------------------------------------------
 
-Nel caso in cui il software (a riuso, open source o proprietario) debba
+Nel caso in cui il *software* (a riuso, open source o proprietario) debba
 essere installato su server, l'amministrazione si potrebbe trovare a
 valutare la modalità di erogazione tra le seguenti opzioni:
 
-1. utilizzo in modalità SaaS, qualora il software sia disponibile sotto
+1. utilizzo in modalità SaaS, qualora il *software* sia disponibile sotto
    forma di servizio SaaS nel Marketplace Cloud e dunque sia qualificato
    ai sensi della circolare AgID *"Criteri per la qualificazione di
    servizi SaaS per il Cloud della PA"*;

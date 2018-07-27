@@ -3,7 +3,7 @@
 Licenze aperte e scelta di una licenza
 --------------------------------------
 
-Per effettuare il rilascio del codice sorgente di un software sotto
+Per effettuare il rilascio del codice sorgente di un *software* sotto
 licenza aperta, l'amministrazione deve scegliere un testo di licenza
 appropriata.
 
@@ -12,13 +12,13 @@ Contesto
 
 È necessario considerare che il legislatore, nel redigere l'articolo 69,
 ha chiaramente indicato come obiettivo quello di **favorire il riuso**
-del software stesso tra più amministrazioni. È dunque importante che la
+del *software* stesso tra più amministrazioni. È dunque importante che la
 prima considerazione in ordine di importanza nella scelta della licenza
 sia quella di **valutare l'impatto che il testo della licenza ha sulla
 possibilità di riuso** da parte di altre amministrazioni.
 
 Fin dagli anni ‘80, il mondo della ricerca informatica e dell'industria
-ha prodotto numerosi testi di licenza per il software Open Source, con
+ha prodotto numerosi testi di licenza per il *software* Open Source, con
 l'obiettivo di creare un modello di condivisione mondiale del software.
 Con il progressivo aumento della complessità degli applicativi, si è
 reso sempre più importante, a scopo anche esclusivamente economico e di
@@ -27,18 +27,18 @@ cominciare ogni volta a sviluppare codice da capo.
 
 .. _licenze-per-il-software-aperto:
 
-Licenze per il software aperto
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Licenze per il *software* aperto
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Una licenza aperta, così come intesa nell'Art. 69 del CAD, è una licenza
-che garantisca all'utente di un software le seguenti libertà:
+che garantisca all'utente di un *software* le seguenti libertà:
 
--  Libertà di eseguire il software come si desidera, per qualsiasi
+-  Libertà di eseguire il *software* come si desidera, per qualsiasi
    scopo, senza ulteriori costi o restrizioni;
--  Libertà di studiare come funziona il software e di modificarlo in
+-  Libertà di studiare come funziona il *software* e di modificarlo in
    modo da adattarlo alle proprie necessità;
 -  Libertà di ridistribuire copie del software;
--  Libertà di modificare il software e distribuirne pubblicamente le
+-  Libertà di modificare il *software* e distribuirne pubblicamente le
    versioni modificate. [1]_
 
 L'accesso al codice sorgente, o parimenti al formato necessario per
@@ -47,7 +47,7 @@ libertà.
 
 Open Source Initiative [2]_ (OSI) è un'organizzazione internazionale,
 riconosciuta a livello mondiale per il proprio processo di
-certificazione delle licenze software che rispettano detti requisiti. La
+certificazione delle licenze *software* che rispettano detti requisiti. La
 lista aggiornata delle licenze certificate da OSI è disponibile al
 seguente indirizzo (indice alfabetico):
 https://opensource.org/licenses/alphabetical
@@ -58,7 +58,7 @@ certificate da Open Source Initiative**. In alternativa,
 l'amministrazione che volesse provvedere in autonomia a redigere un
 testo di una licenza d'uso, può usare tale testo solo previa
 certificazione da Open Source Initiative, onde verificarne l'aderenza ai
-principi del software aperto. Il processo di invio di una licenza per
+principi del *software* aperto. Il processo di invio di una licenza per
 approvazione è dettagliato all'indirizzo:
 https://opensource.org/approval.
 
@@ -76,9 +76,9 @@ caratteristiche.
 Scelta di una licenza
 ~~~~~~~~~~~~~~~~~~~~~
 
-Una licenza di software libero consente l'utilizzo gratuito del codice
+Una licenza di *software* libero consente l'utilizzo gratuito del codice
 sorgente cui si riferisce, dettando però alcuni vincoli da rispettare.
-Pertanto, l'integrazione di più componenti di software libero rilasciati
+Pertanto, l'integrazione di più componenti di *software* libero rilasciati
 sotto licenze diverse richiede una analisi di compatibilità delle
 stesse. Tale analisi può risultare eccessivamente complessa se le
 licenze coinvolte sono molteplici, comportando costi aggiuntivi.
@@ -90,8 +90,8 @@ obiettivi delineati dall'art. 69 del CAD.
 Si propone quindi il seguente albero decisionale per la scelta di una
 licenza aperta:
 
--  Se il rilascio del software si riferisce ad una modifica di software
-   Open Source esistente (quindi software preso a riuso da un'altra
+-  Se il rilascio del *software* si riferisce ad una modifica di software
+   Open Source esistente (quindi *software* preso a riuso da un'altra
    amministrazione o di proprietà di terze parti), l'amministrazione
    utilizzerà la **stessa licenza** con la quale è stato originariamente
    distribuito il software, per favorire la massima interoperabilità e
@@ -124,11 +124,11 @@ licenza aperta:
       Questa licenza è stata scelta per garantire un utilizzo da parte
       di tutti gli attori quanto più libero possibile, permettendo di
       realizzare applicativi basati su queste librerie, rilasciabili
-      sotto qualunque licenza. Questo genere di componenti software è
+      sotto qualunque licenza. Questo genere di componenti *software* è
       utilizzato normalmente per favorire l'interoperabilità con le
       Pubbliche Amministrazioni, e trovano beneficio nella nascita di
       ecosistemi che includono applicativi di terze parti, inclusi
-      software proprietari.
+      *software* proprietari.
 
 -  Per la **documentazione tecnica** del software, utilizzare la licenza
    Creative Commons CC-BY 4.0 (codice SPDX: ``CC-BY-4.0``)
@@ -151,7 +151,7 @@ che la scelta limiti le opportunità di riuso ed assicurandosi che non
 comporti oneri aggiuntivi per le amministrazioni in fase di riuso.
 
 .. [1]
-   Stallman, The Free Software Definition -
+   Stallman, The Free *software* Definition -
    https://www.gnu.org/philosophy/free-sw.it.html
 .. [2]
    https://www.opensource.org/
