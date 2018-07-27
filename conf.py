@@ -5,8 +5,8 @@
 settings_project_name = "Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni"
 settings_copyright_copyleft = "Agenzia per l'Italia Digitale"
 settings_editor_name = "Agenzia per l'Italia Digitale"
-settings_doc_version = 'Bozza in consultazione'
-settings_doc_release = 'Bozza in consultazione'
+settings_doc_version = 'Finale'
+settings_doc_release = 'Finale'
 settings_basename = 'lg-acquisizione-e-riuso-software-per-la-pa'
 settings_file_name = 'lg-acquisizione-e-riuso-software-per-la-pa'
 settings_discourse_url = 'https://forum.italia.it/'
