@@ -252,7 +252,14 @@ latex_show_pagerefs = False
 latex_show_urls = False
 
 # Documents to append as an appendix to all manuals.
-#latex_appendices = []
+latex_appendices = [
+    "attachments/allegato-b-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa",
+    "attachments/allegato-c-guida-alla-manutenzione-di-software-open-source",
+    "attachments/allegato-d-guida-alle-licenze-open-source",
+    "attachments/allegato-e-guida-alla-modifica-di-software-open-source-preso-a-riuso-o-di-terzi",
+    "attachments/allegato-e-guida-alla-modifica-di-software-open-source-preso-a-riuso-o-di-terzi",
+    "attachments/allegato-f-tabella-sinottica-degli-elementi-necessari-al-percorso-decisionale",
+]
 
 # If false, no module index is generated.
 #latex_domain_indices = True
