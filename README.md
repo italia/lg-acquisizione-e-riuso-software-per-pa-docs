@@ -22,8 +22,10 @@ relativi allegati.
 
 ## Link
 
-Le linee guida sono consultabili su Docs Italia all'indirizzo [https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/)
+* Le linee guida sono consultabili su Docs Italia all'indirizzo [https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/)
+* La piattaforma individuata dalle linee guida ai sensi dell'articolo 69 è [Developers Italia](https://developers.italia.it/), dove è ospitato il catalogo delle soluzioni a riuso e dove è possibile reperire maggiori informazioni sulla procedura tecnica per rilasciare il software.
+* Per la discussione è attiva [un'apposita sezione in Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa).
 
-La piattaforma individuata dalle linee guida ai sensi dell'articolo 69 è [Developers Italia](https://developers.italia.it/), dove è ospitato il catalogo delle soluzioni a riuso e dove è possibile reperire maggiori informazioni sulla procedura tecnica per rilasciare il software.
+## Policy per issue e pull request
 
-Per la discussione è attiva [un'apposita sezione in Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa).
+Eventuali proposte di modifica o segnalazioni possono essere aperte come issue o pull request in questo repository, tuttavia dal momento che l'iter istituzionale di aggiornamento delle linee guida è normato dall'[art. 71](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html) del Codice dell'Amministrazione Digitale tali issue verranno intenzionalmente lasciate aperte in attesa del prossimo lavoro di revisione del testo. Le uniche pull request che vengono prese in considerazione per il merge sono quelle relative a refusi o correzioni di formattazione.
