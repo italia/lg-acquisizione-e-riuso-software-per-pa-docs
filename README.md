@@ -20,10 +20,10 @@ Inoltre sostituiscono la precedente circolare 63/2013, intitolata
 D.Lgs. 7 marzo 2005, n. 82 Codice dell'Amministrazione digitale*" e
 relativi allegati.
 
-## Link al documento e consultazione
+## Link
 
-Link al documento Docs Italia: https://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io
+Le linee guida sono consultabili su Docs Italia all'indirizzo [https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/)
 
-Link per commenti Forum Italia: https://forum.italia.it/c/documenti-in-consultazione/lg-acquisizione-e-riuso-di-software-per-la-pa
+La piattaforma individuata dalle linee guida ai sensi dell'articolo 69 è [Developers Italia](https://developers.italia.it/), dove è ospitato il catalogo delle soluzioni a riuso e dove è possibile reperire maggiori informazioni sulla procedura tecnica per rilasciare il software.
 
-La consultazione sarà attiva fino al 6 maggio 2018.
+Per la discussione è attiva [un'apposita sezione in Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa).
