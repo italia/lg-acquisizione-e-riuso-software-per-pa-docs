@@ -77,7 +77,7 @@ Open Source
 Repertorio o Repository
     All'interno di uno strumento di code-hosting, un repository è
     l'unità minima di contenimento del codice sorgente di un software.
-    Il termine "reportorio" è la sua traduzione italiana (usata per
+    Il termine "repertorio" è la sua traduzione italiana (usata per
     esempio nel CAD Art 69, comma 1).
 
 Riuso
