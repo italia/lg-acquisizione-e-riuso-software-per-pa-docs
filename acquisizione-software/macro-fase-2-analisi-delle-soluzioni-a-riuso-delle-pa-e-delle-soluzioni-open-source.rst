@@ -62,7 +62,7 @@ si provvede a:
       linee guida emanate in attuazione dell'articolo 73 del CAD;
    -  la conformità alle normative sulla protezione dei dati personali;
    -  la conformità ai livelli minimi di sicurezza previsti per le
-      pubbliche amministrazioni.
+      pubbliche amministrazioni;
    -  la conformità ai requisiti di accessibilità (Legge 4/2004).
 
 -  valutare la qualità della soluzione attraverso i seguenti parametri,
