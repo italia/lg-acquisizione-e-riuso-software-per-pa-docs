@@ -133,8 +133,8 @@ contribuzioni al *software* inviate al *maintainer* del *software* originale,
 documentandone lo stato di integrazione all'interno del file README
 del repository.
 
-Pubblicazione di codice open source non originato nel originato nel contesto della PA
--------------------------------------------------------------------------------------
+Pubblicazione di codice open source non originato nel contesto della PA
+-----------------------------------------------------------------------
 
 Nel caso in cui il *maintainer* di un *software* open source la cui titolarità non
 sia attribuita ad una Pubblica Amministrazione, il cui abbia recepito
