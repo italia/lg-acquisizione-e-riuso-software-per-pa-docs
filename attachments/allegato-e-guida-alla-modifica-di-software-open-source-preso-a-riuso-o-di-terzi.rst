@@ -33,7 +33,7 @@ Nel documento sarà adottata la seguente convenzione:
 Modifica di *software* open source adottato in riuso
 ----------------------------------------------------
 
-Nel caso di riuso di il *software* open source, la cui titolarità sia di
+Nel caso di riuso di *software* open source, la cui titolarità sia di
 una Pubblica Amministrazione, si applica quanto disposto da :ref:`guida-pubblicazione`,
 unitamente alle prescrizioni contenute nella presente guida.
 
