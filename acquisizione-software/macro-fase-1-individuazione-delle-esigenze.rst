@@ -62,7 +62,7 @@ Le attività previste in questa fase sono:
       - `Linee Guida AgID sul Design <https://designers.italia.it/guide/>`__
         (che includono anche l'adempimento alla Legge 4/2004 sull'accessibilità);
       - Linee Guida AgID sull'Interoperabilità;
-      - `Linee Guida AgiD sullo sviluppo di *software* sicuro <https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro>`__.
+      - `Linee Guida AgID sullo sviluppo di *software* sicuro <https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro>`__.
 
 -  eventuali altri vincoli di interesse dell'amministrazione.
 

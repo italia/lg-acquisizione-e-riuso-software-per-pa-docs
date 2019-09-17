@@ -4,12 +4,12 @@ Oggetto della valutazione
 La valutazione comparativa deve essere svolta quando le pubbliche
 amministrazioni intendano acquisire "\ *programmi informatici o parti di
 essi*\ ". L'oggetto della valutazione quindi è un *software* (come
-identificato in *1.2. *software* oggetto di queste linee guida*) che
+identificato in *1.2. software oggetto di queste linee guida*) che
 risponda a specifiche esigenze funzionali dell'amministrazione.
 
 A titolo esemplificativo, rimane all'esterno del perimetro di questo
 documento l'acquisizione di sole componenti hardware dei sistemi
-informativi (server,postazioni di lavoro, stampanti, ecc.).
+informativi (server, postazioni di lavoro, stampanti, ecc.).
 
 Ulteriori situazioni dove non è applicabile il percorso decisionale
 proposto in questo Capitolo 2 possono riguardare ad esempio:
