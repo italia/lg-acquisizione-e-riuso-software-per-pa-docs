@@ -135,7 +135,7 @@ acquisire la titolarità del codice sviluppato (come spiegato in
 
 .. [1]
    `Analisi di Fattibilità per l'acquisizione delle forniture
-   ICT <http://www.agid.gov.it/node/881>`__
+   ICT <https://www.agid.gov.it/sites/default/files/repository_files/documentazione/manuale_applicativo_analisi_di_fattibilita_ict_v1.4_15-05-15.pdf>`__
 
 .. |image4-macro-fase-3| image:: ../media/image4-macro-fase-3.png
 
